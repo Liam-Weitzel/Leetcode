@@ -28,8 +28,8 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 ###### 🟢 = Submission solves problem with optimal space and time complexity/ Easy difficulty
 
 ## Problems
-|Dif|Problem|Attempt 1|Attempt 2|Attempt 3|Attempt 4|Attempt 5|
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|Dif|Problem|Attempt 1|Attempt 2|Attempt 3|Attempt 4|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |🟢|[1. Two Sum]()|🟡 Mar 01, 2022|🟢 Dec 13, 2022||||
 |🟡|[2. Add Two Numbers]()|🟢 Dec 03, 2022|||||
 |🟡|[3. Longest Substring With]()|🟢 Dec 12, 2022|||||
