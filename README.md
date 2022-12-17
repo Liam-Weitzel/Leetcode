@@ -260,14 +260,14 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟢|[228. Summary Ranges]()||||||
 |🟡|[229. Majority Element II]()||||||
 |🟡|[230. Kth Smallest Elemen]()||||||
-|🟢|[231. Power of Two]()||||||
+|🟢|[231. Power of Two]()|🟢 Dec 17, 2022|||||
 |🟢|[232. Implement Queue usi]()|🟢 Dec 16, 2022|||||
 |🔴|[233. Number of Digit One]()||||||
 |🟢|[234. Palindrome Linked L]()||||||
 |🟡|[235. Lowest Common Ances]()|🟢 Nov 07, 2022|||||
 |🟡|[236. Lowest Common Ances]()||||||
 |🟡|[237. Delete Node in a Li]()||||||
-|🟡|[238. Product of Array Ex]()||||||
+|🟡|[238. Product of Array Ex]()|🔴 Dec 17, 2022|||||
 |🔴|[239. Sliding Window Maxi]()||||||
 |🟡|[240. Search a 2D Matrix ]()||||||
 |🟡|[241. Different Ways to A]()||||||
