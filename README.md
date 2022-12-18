@@ -267,7 +267,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟡|[235. Lowest Common Ances]()|🟢 Nov 07, 2022|||||
 |🟡|[236. Lowest Common Ances]()||||||
 |🟡|[237. Delete Node in a Li]()||||||
-|🟡|[238. Product of Array Ex]()|🔴 Dec 17, 2022|||||
+|🟡|[238. Product of Array Ex]()|🟠 Dec 17, 2022|||||
 |🔴|[239. Sliding Window Maxi]()||||||
 |🟡|[240. Search a 2D Matrix ]()||||||
 |🟡|[241. Different Ways to A]()||||||
@@ -307,7 +307,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟡|[275. H-Index II]()||||||
 |🟡|[276. Paint Fence]()||||||
 |🟡|[277. Find the Celebrity]()||||||
-|🟢|[278. First Bad Version]()|🔴 Oct 27, 2022|🟢 Nov 06, 2022||||
+|🟢|[278. First Bad Version]()|🟠 Oct 27, 2022|🟢 Nov 06, 2022||||
 |🟡|[279. Perfect Squares]()||||||
 |🟡|[280. Wiggle Sort]()||||||
 |🟡|[281. Zigzag Iterator]()||||||
@@ -768,7 +768,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🔴|[736. Parse Lisp Expressi]()||||||
 |🟡|[737. Sentence Similarity]()||||||
 |🟡|[738. Monotone Increasing]()||||||
-|🟡|[739. Daily Temperatures]()||||||
+|🟡|[739. Daily Temperatures]()|🟠 Dec 17, 2022|||||
 |🟡|[740. Delete and Earn]()||||||
 |🔴|[741. Cherry Pickup]()||||||
 |🟡|[742. Closest Leaf in a B]()||||||
