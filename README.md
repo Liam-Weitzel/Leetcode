@@ -271,7 +271,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🔴|[239. Sliding Window Maxi]()||||||
 |🟡|[240. Search a 2D Matrix ]()||||||
 |🟡|[241. Different Ways to A]()||||||
-|🟢|[242. Valid Anagram]()|🟢 242. Valid Anagram|||||
+|🟢|[242. Valid Anagram]()|🟢 Dec 13, 2022|||||
 |🟢|[243. Shortest Word Dista]()||||||
 |🟡|[244. Shortest Word Dista]()||||||
 |🟡|[245. Shortest Word Dista]()||||||
