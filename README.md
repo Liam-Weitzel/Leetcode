@@ -768,7 +768,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🔴|[736. Parse Lisp Expressi]()||||||
 |🟡|[737. Sentence Similarity]()||||||
 |🟡|[738. Monotone Increasing]()||||||
-|🟡|[739. Daily Temperatures]()|🟠 Dec 17, 2022|||||
+|🟡|[739. Daily Temperatures]()|🟠 Dec 17, 2022|🟢 Dec 18, 2022||||
 |🟡|[740. Delete and Earn]()||||||
 |🔴|[741. Cherry Pickup]()||||||
 |🟡|[742. Closest Leaf in a B]()||||||
