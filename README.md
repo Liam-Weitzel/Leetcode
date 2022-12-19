@@ -2000,7 +2000,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟡|[1968. Array With Element]()||||||
 |🟡|[1969. Minimum Non-Zero P]()||||||
 |🔴|[1970. Last Day Where You]()||||||
-|🟢|[1971. Find if Path Exist]()||||||
+|🟢|[1971. Find if Path Exist]()|🟠 Dec 19, 2022|||||
 |🔴|[1972. First and Last Cal]()||||||
 |🟡|[1973. Count Nodes Equal ]()||||||
 |🟢|[1974. Minimum Time to Ty]()||||||
