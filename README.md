@@ -870,7 +870,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟡|[838. Push Dominoes]()||||||
 |🔴|[839. Similar String Grou]()||||||
 |🟡|[840. Magic Squares In Gr]()||||||
-|🟡|[841. Keys and Rooms]()|🟢 20 Dec, 2022|||||
+|🟡|[841. Keys and Rooms]()|🟢 Dec 20, 2022|||||
 |🟡|[842. Split Array into Fi]()||||||
 |🔴|[843. Guess the Word]()||||||
 |🟢|[844. Backspace String Co]()||||||
