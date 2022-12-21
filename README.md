@@ -915,7 +915,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟢|[883. Projection Area of ]()||||||
 |🟢|[884. Uncommon Words from]()||||||
 |🟡|[885. Spiral Matrix III]()||||||
-|🟡|[886. Possible Bipartitio]()||||||
+|🟡|[886. Possible Bipartitio]()|🟠 Dec 21, 2022|||||
 |🔴|[887. Super Egg Drop]()||||||
 |🟢|[888. Fair Candy Swap]()||||||
 |🟡|[889. Construct Binary Tr]()||||||
