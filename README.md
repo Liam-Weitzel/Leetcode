@@ -863,7 +863,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟡|[831. Masking Personal In]()||||||
 |🟢|[832. Flipping an Image]()||||||
 |🟡|[833. Find And Replace in]()||||||
-|🔴|[834. Sum of Distances in]()||||||
+|🔴|[834. Sum of Distances in]()|🟢 Dec 22, 2022|||||
 |🟡|[835. Image Overlap]()||||||
 |🟢|[836. Rectangle Overlap]()||||||
 |🟡|[837. New 21 Game]()||||||
