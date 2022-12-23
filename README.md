@@ -338,7 +338,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟡|[306. Additive Number]()||||||
 |🟡|[307. Range Sum Query - M]()||||||
 |🔴|[308. Range Sum Query 2D ]()||||||
-|🟡|[309. Best Time to Buy an]()||||||
+|🟡|[309. Best Time to Buy an]()|🟠 Dec 23, 2022|||||
 |🟡|[310. Minimum Height Tree]()||||||
 |🟡|[311. Sparse Matrix Multi]()||||||
 |🔴|[312. Burst Balloons]()||||||
