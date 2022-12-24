@@ -819,7 +819,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🟡|[787. Cheapest Flights Wi]()||||||
 |🟡|[788. Rotated Digits]()||||||
 |🟡|[789. Escape The Ghosts]()||||||
-|🟡|[790. Domino and Tromino ]()||||||
+|🟡|[790. Domino and Tromino ]()|🔴 Dec 24, 2022|||||
 |🟡|[791. Custom Sort String]()||||||
 |🟡|[792. Number of Matching ]()||||||
 |🔴|[793. Preimage Size of Fa]()||||||
