@@ -2418,7 +2418,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🔴|[2386. Find the K-Sum of ]()||||||
 |🟡|[2387. Median of a Row Wi]()||||||
 |🟡|[2388. Change Null Values]()||||||
-|🟢|[2389. Longest Subsequenc]()||||||
+|🟢|[2389. Longest Subsequenc]()|🟡 Dec 25, 2022|||||
 |🟡|[2390. Removing Stars Fro]()||||||
 |🟡|[2391. Minimum Amount of ]()||||||
 |🔴|[2392. Build a Matrix Wit]()||||||
