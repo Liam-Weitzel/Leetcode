@@ -11,9 +11,11 @@
 
 # My LeetCode Journey
 
-[What is this?  ](#what-is-this)
+[What is this?](#what-is-this)
 •
-[Why?  ](#why)
+[Why?](#why)
+•
+[Legend](#legend)
 •
 [Problems](#problems) 
 
@@ -29,10 +31,10 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 
 ##Legend
 
-🔴 = Unable to solve/ Hard difficulty
-🟠 = Submission doesn't meet requirements
-🟡 = Submission solves problem sub-optimally/ Medium difficulty
-🟢 = Submission solves problem with optimal space and time complexity/ Easy difficulty
+#####🔴 = Unable to solve/ Hard difficulty
+#####🟠 = Submission doesn't meet requirements
+#####🟡 = Submission solves problem sub-optimally/ Medium difficulty
+#####🟢 = Submission solves problem with optimal space and time complexity/ Easy difficulty
 
 ## Problems
 |Dif|Problem|Attempt 1|Attempt 2|Attempt 3|Attempt 4|
