@@ -84,7 +84,7 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 |🔴|[52. N-Queens II]()||||||
 |🟡|[53. Maximum Subarray]()||||||
 |🟡|[54. Spiral Matrix]()||||||
-|🟡|[55. Jump Game]()||||||
+|🟡|[55. Jump Game]()|🟠 Dec 26, 2022|||||
 |🟡|[56. Merge Intervals]()|🟠 Dec 09, 2022|||||
 |🟡|[57. Insert Interval]()|🟡 Dec 09, 2022|||||
 |🟢|[58. Length of Last Word]()||||||
