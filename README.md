@@ -2317,7 +2317,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[2276. Count Integers in ]()||||||
 |🔴|[2277. Closest Node to Pa]()||||||
 |🟢|[2278. Percentage of Lett]()||||||
-|🟡|[2279. Maximum Bags With ]()||||||
+|🟡|[2279. Maximum Bags With ]()|🟢 Dec 27, 2022|||||
 |🟡|[2280. Minimum Lines to R]()||||||
 |🔴|[2281. Sum of Total Stren]()||||||
 |🟡|[2282. Number of People T]()||||||
