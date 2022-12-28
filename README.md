@@ -2000,7 +2000,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1959. Minimum Total Spac]()||||||
 |🔴|[1960. Maximum Product of]()||||||
 |🟢|[1961. Check If String Is]()||||||
-|🟡|[1962. Remove Stones to M]()||||||
+|🟡|[1962. Remove Stones to M]()|🟢 Dec 28, 2022|||||
 |🟡|[1963. Minimum Number of ]()||||||
 |🔴|[1964. Find the Longest V]()||||||
 |🟢|[1965. Employees With Mis]()||||||
