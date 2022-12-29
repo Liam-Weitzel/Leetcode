@@ -1872,7 +1872,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1831. Maximum Transactio]()||||||
 |🟢|[1832. Check if the Sente]()||||||
 |🟡|[1833. Maximum Ice Cream ]()||||||
-|🟡|[1834. Single-Threaded CP]()||||||
+|🟡|[1834. Single-Threaded CP]()|🟡 29 Dec, 2022|||||
 |🔴|[1835. Find XOR Sum of Al]()||||||
 |🟡|[1836. Remove Duplicates ]()||||||
 |🟢|[1837. Sum of Digits in B]()||||||
