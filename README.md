@@ -835,7 +835,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[794. Valid Tic-Tac-Toe S]()||||||
 |🟡|[795. Number of Subarrays]()||||||
 |🟢|[796. Rotate String]()||||||
-|🟡|[797. All Paths From Sour]()||||||
+|🟡|[797. All Paths From Sour]()|🔴 Dec 30, 2022|||||
 |🔴|[798. Smallest Rotation w]()||||||
 |🟡|[799. Champagne Tower]()||||||
 |🟢|[800. Similar RGB Color]()||||||
