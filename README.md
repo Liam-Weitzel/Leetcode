@@ -1018,7 +1018,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[977. Squares of a Sorted]()||||||
 |🟡|[978. Longest Turbulent S]()||||||
 |🟡|[979. Distribute Coins in]()||||||
-|🔴|[980. Unique Paths III]()||||||
+|🔴|[980. Unique Paths III]()|🟢 Dec 31, 2022|||||
 |🟡|[981. Time Based Key-Valu]()||||||
 |🔴|[982. Triples with Bitwis]()||||||
 |🟡|[983. Minimum Cost For Ti]()||||||
