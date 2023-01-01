@@ -328,7 +328,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[287. Find the Duplicate ]()||||||
 |🟡|[288. Unique Word Abbrevi]()||||||
 |🟡|[289. Game of Life]()||||||
-|🟢|[290. Word Pattern]()||||||
+|🟢|[290. Word Pattern]()|🟢 Jan 01, 2023|||||
 |🟡|[291. Word Pattern II]()||||||
 |🟢|[292. Nim Game]()||||||
 |🟢|[293. Flip Game]()||||||
