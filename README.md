@@ -276,7 +276,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[235. Lowest Common Ances]()|🟢 Nov 07, 2022|||||
 |🟡|[236. Lowest Common Ances]()||||||
 |🟡|[237. Delete Node in a Li]()||||||
-|🟡|[238. Product of Array Ex]()|🟠 Dec 17, 2022|||||
+|🟡|[238. Product of Array Ex]()|🟠 Dec 17, 2022|🟢 Jan 02, 2022||||
 |🔴|[239. Sliding Window Maxi]()||||||
 |🟡|[240. Search a 2D Matrix ]()||||||
 |🟡|[241. Different Ways to A]()||||||
