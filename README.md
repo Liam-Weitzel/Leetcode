@@ -558,7 +558,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[517. Super Washing Machi]()||||||
 |🟡|[518. Coin Change II]()||||||
 |🟡|[519. Random Flip Matrix]()||||||
-|🟢|[520. Detect Capital]()||||||
+|🟢|[520. Detect Capital]()|🟢 Jan 02, 2022|||||
 |🟢|[521. Longest Uncommon Su]()||||||
 |🟡|[522. Longest Uncommon Su]()||||||
 |🟡|[523. Continuous Subarray]()||||||
