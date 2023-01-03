@@ -15,6 +15,8 @@
 •
 [Why?](#why)
 •
+[Progress](#progress)
+•
 [Legend](#legend)
 •
 [Problems](#problems) 
@@ -28,6 +30,10 @@ A list of all leetcode problems, with a timestamp for each of my attempts and a 
 ## Why?
 
 Spaced repitition is a proven study method. This README is ingested using an AWS Lambda function into an RDS instance. The data is then being analyzed daily using another AWS Lambda function which pushes tasks onto a personal Asana board according to this spaced repitition schedule: original learning -> 1 week reminder -> 3 week reminder -> 7 week reminder -> 15 week reminder -> and so on... Another AWS Lambda function is used to ingest all current asana tasks to the RDS instance.
+
+## Progress
+
+![leetcode_profile](profile.jpg)
 
 ## Legend
 
