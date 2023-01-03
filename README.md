@@ -982,7 +982,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[941. Valid Mountain Arra]()||||||
 |🟢|[942. DI String Match]()||||||
 |🔴|[943. Find the Shortest S]()||||||
-|🟢|[944. Delete Columns to M]()||||||
+|🟢|[944. Delete Columns to M]()|🟢 Jan 03, 2023|||||
 |🟡|[945. Minimum Increment t]()||||||
 |🟡|[946. Validate Stack Sequ]()||||||
 |🟡|[947. Most Stones Removed]()||||||
