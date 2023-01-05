@@ -496,7 +496,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[449. Serialize and Deser]()||||||
 |🟡|[450. Delete Node in a BS]()||||||
 |🟡|[451. Sort Characters By ]()|🟡 Dec 03, 2022|||||
-|🟡|[452. Minimum Number of A]()||||||
+|🟡|[452. Minimum Number of A]()|🔴 Jan 05, 2023|||||
 |🟡|[453. Minimum Moves to Eq]()||||||
 |🟡|[454. 4Sum II]()||||||
 |🟢|[455. Assign Cookies]()||||||
