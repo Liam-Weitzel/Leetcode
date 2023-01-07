@@ -178,7 +178,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[131. Palindrome Partitio]()||||||
 |🔴|[132. Palindrome Partitio]()||||||
 |🟡|[133. Clone Graph]()||||||
-|🟡|[134. Gas Station]()||||||
+|🟡|[134. Gas Station]()|🔴 Jan 07, 2023|||||
 |🔴|[135. Candy]()||||||
 |🟢|[136. Single Number]()||||||
 |🟡|[137. Single Number II]()||||||
