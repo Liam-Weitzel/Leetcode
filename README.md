@@ -193,7 +193,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[146. LRU Cache]()||||||
 |🟡|[147. Insertion Sort List]()||||||
 |🟡|[148. Sort List]()||||||
-|🔴|[149. Max Points on a Lin]()||||||
+|🔴|[149. Max Points on a Lin]()|🟠 Jan 08, 2023|||||
 |🟡|[150. Evaluate Reverse Po]()|🟢 Dec 17, 2022|||||
 |🟡|[151. Reverse Words in a ]()||||||
 |🟡|[152. Maximum Product Sub]()||||||
