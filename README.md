@@ -188,7 +188,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[141. Linked List Cycle]()|🟢 Oct 27, 2022|||||
 |🟡|[142. Linked List Cycle I]()|🔴 Oct 27, 2022|🟢 Nov 04, 2022||||
 |🟡|[143. Reorder List]()||||||
-|🟢|[144. Binary Tree Preorde]()||||||
+|🟢|[144. Binary Tree Preorde]()|🟢 Jan 09, 2023|||||
 |🟢|[145. Binary Tree Postord]()||||||
 |🟡|[146. LRU Cache]()||||||
 |🟡|[147. Insertion Sort List]()||||||
