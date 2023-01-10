@@ -144,7 +144,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[97. Interleaving String]()||||||
 |🟡|[98. Validate Binary Sear]()|🟢 Oct 27, 2022|🟢 Nov 07, 2022||||
 |🟡|[99. Recover Binary Searc]()||||||
-|🟢|[100. Same Tree]()||||||
+|🟢|[100. Same Tree]()|🟢 Jan 10, 2023|||||
 |🟢|[101. Symmetric Tree]()||||||
 |🟡|[102. Binary Tree Level O]()|🟢 Nov 06, 2022|||||
 |🟡|[103. Binary Tree Zigzag ]()||||||
