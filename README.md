@@ -1487,7 +1487,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1440. Evaluate Boolean E]()||||||
 |🟡|[1441. Build an Array Wit]()||||||
 |🟡|[1442. Count Triplets Tha]()||||||
-|🟡|[1443. Minimum Time to Co]()||||||
+|🟡|[1443. Minimum Time to Co]()|🟢 Jan 11, 2023|||||
 |🔴|[1444. Number of Ways of ]()||||||
 |🟡|[1445. Apples & Oranges]()||||||
 |🟢|[1446. Consecutive Charac]()||||||
