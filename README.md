@@ -2290,7 +2290,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2243. Calculate Digit Su]()||||||
 |🟡|[2244. Minimum Rounds to ]()|🔴 Jan 04, 2023|||||
 |🟡|[2245. Maximum Trailing Z]()||||||
-|🔴|[2246. Longest Path With ]()||||||
+|🔴|[2246. Longest Path With ]()|🔴 Jan 13, 2023|||||
 |🔴|[2247. Maximum Cost of Tr]()||||||
 |🟢|[2248. Intersection of Mu]()||||||
 |🟡|[2249. Count Lattice Poin]()||||||
