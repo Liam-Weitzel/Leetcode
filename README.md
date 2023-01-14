@@ -1105,7 +1105,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1058. Minimize Rounding ]()||||||
 |🟡|[1059. All Paths from Sou]()||||||
 |🟡|[1060. Missing Element in]()||||||
-|🟡|[1061. Lexicographically ]()||||||
+|🟡|[1061. Lexicographically ]()|🟠 Jan 14, 2023|||||
 |🟡|[1062. Longest Repeating ]()||||||
 |🔴|[1063. Number of Valid Su]()||||||
 |🟢|[1064. Fixed Point]()||||||
