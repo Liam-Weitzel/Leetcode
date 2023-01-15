@@ -2465,7 +2465,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2418. Sort the People]()||||||
 |🟡|[2419. Longest Subarray W]()||||||
 |🟡|[2420. Find All Good Indi]()||||||
-|🔴|[2421. Number of Good Pat]()||||||
+|🔴|[2421. Number of Good Pat]()|🔴 Jan 15, 2023|||||
 |🟡|[2422. Merge Operations t]()||||||
 |🟢|[2423. Remove Letter To E]()||||||
 |🟡|[2424. Longest Uploaded P]()||||||
