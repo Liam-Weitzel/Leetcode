@@ -970,7 +970,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[923. 3Sum With Multiplic]()||||||
 |🔴|[924. Minimize Malware Sp]()||||||
 |🟢|[925. Long Pressed Name]()||||||
-|🟡|[926. Flip String to Mono]()||||||
+|🟡|[926. Flip String to Mono]()|🔴 Jan 17, 2023|||||
 |🔴|[927. Three Equal Parts]()||||||
 |🔴|[928. Minimize Malware Sp]()||||||
 |🟢|[929. Unique Email Addres]()||||||
