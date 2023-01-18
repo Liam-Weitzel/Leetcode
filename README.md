@@ -962,7 +962,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[915. Partition Array int]()||||||
 |🟡|[916. Word Subsets]()||||||
 |🟢|[917. Reverse Only Letter]()||||||
-|🟡|[918. Maximum Sum Circula]()||||||
+|🟡|[918. Maximum Sum Circula]()|🟠 Jan 18, 2023|||||
 |🟡|[919. Complete Binary Tre]()||||||
 |🔴|[920. Number of Music Pla]()||||||
 |🟡|[921. Minimum Add to Make]()||||||
