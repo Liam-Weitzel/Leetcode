@@ -1018,7 +1018,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[971. Flip Binary Tree To]()||||||
 |🔴|[972. Equal Rational Numb]()||||||
 |🟡|[973. K Closest Points to]()||||||
-|🟡|[974. Subarray Sums Divis]()||||||
+|🟡|[974. Subarray Sums Divis]()|🟡 Jan 19, 2023|||||
 |🔴|[975. Odd Even Jump]()||||||
 |🟢|[976. Largest Perimeter T]()||||||
 |🟢|[977. Squares of a Sorted]()||||||
