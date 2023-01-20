@@ -535,7 +535,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[488. Zuma Game]()||||||
 |🔴|[489. Robot Room Cleaner]()||||||
 |🟡|[490. The Maze]()||||||
-|🟡|[491. Increasing Subseque]()||||||
+|🟡|[491. Increasing Subseque]()|🟠 Jan 20, 2023|||||
 |🟢|[492. Construct the Recta]()||||||
 |🔴|[493. Reverse Pairs]()||||||
 |🟡|[494. Target Sum]()||||||
