@@ -1041,7 +1041,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[994. Rotting Oranges]()||||||
 |🔴|[995. Minimum Number of K]()||||||
 |🔴|[996. Number of Squareful]()||||||
-|🟢|[997. Find the Town Judge]()||||||
+|🟢|[997. Find the Town Judge]()|🟡 Jan 23, 2023|||||
 |🟡|[998. Maximum Binary Tree]()||||||
 |🟢|[999. Available Captures ]()||||||
 |🔴|[1000. Minimum Cost to Me]()||||||
