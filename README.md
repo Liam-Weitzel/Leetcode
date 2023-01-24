@@ -953,7 +953,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[906. Super Palindromes]()||||||
 |🟡|[907. Sum of Subarray Min]()||||||
 |🟢|[908. Smallest Range I]()||||||
-|🟡|[909. Snakes and Ladders]()||||||
+|🟡|[909. Snakes and Ladders]()|🔴 Jan 24, 2023|||||
 |🟡|[910. Smallest Range II]()||||||
 |🟡|[911. Online Election]()||||||
 |🟡|[912. Sort an Array]()||||||
