@@ -2403,7 +2403,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2356. Number of Unique S]()||||||
 |🟢|[2357. Make Array Zero by]()||||||
 |🟡|[2358. Maximum Number of ]()||||||
-|🟡|[2359. Find Closest Node ]()||||||
+|🟡|[2359. Find Closest Node ]()|🔴 Jan 25, 2023|||||
 |🔴|[2360. Longest Cycle in a]()||||||
 |🔴|[2361. Minimum Costs Usin]()||||||
 |🔴|[2362. Generate the Invoi]()||||||
