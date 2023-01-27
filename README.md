@@ -516,7 +516,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[469. Convex Polygon]()||||||
 |🟡|[470. Implement Rand10() ]()||||||
 |🔴|[471. Encode String with ]()||||||
-|🔴|[472. Concatenated Words]()||||||
+|🔴|[472. Concatenated Words]()|🔴 Jan 27, 2023|||||
 |🟡|[473. Matchsticks to Squa]()||||||
 |🟡|[474. Ones and Zeroes]()||||||
 |🟡|[475. Heaters]()||||||
