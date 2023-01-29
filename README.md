@@ -504,7 +504,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[457. Circular Array Loop]()||||||
 |🔴|[458. Poor Pigs]()||||||
 |🟢|[459. Repeated Substring ]()||||||
-|🔴|[460. LFU Cache]()||||||
+|🔴|[460. LFU Cache]()|🔴 Jan 29, 2023|||||
 |🟢|[461. Hamming Distance]()||||||
 |🟡|[462. Minimum Moves to Eq]()||||||
 |🟢|[463. Island Perimeter]()||||||
