@@ -1181,7 +1181,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1134. Armstrong Number]()||||||
 |🟡|[1135. Connecting Cities ]()||||||
 |🟡|[1136. Parallel Courses]()||||||
-|🟢|[1137. N-th Tribonacci Nu]()||||||
+|🟢|[1137. N-th Tribonacci Nu]()|🟢 Jan 30, 2023|||||
 |🟡|[1138. Alphabet Board Pat]()||||||
 |🟡|[1139. Largest 1-Bordered]()||||||
 |🟡|[1140. Stone Game II]()||||||
