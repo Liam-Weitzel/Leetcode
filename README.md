@@ -1670,7 +1670,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1623. All Valid Triplets]()||||||
 |🟢|[1624. Largest Substring ]()||||||
 |🟡|[1625. Lexicographically ]()||||||
-|🟡|[1626. Best Team With No ]()||||||
+|🟡|[1626. Best Team With No ]()|🔴 Jan 31, 2023|||||
 |🔴|[1627. Graph Connectivity]()||||||
 |🟡|[1628. Design an Expressi]()||||||
 |🟢|[1629. Slowest Key]()||||||
