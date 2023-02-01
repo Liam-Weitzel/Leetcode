@@ -1115,7 +1115,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1068. Product Sales Anal]()||||||
 |🟢|[1069. Product Sales Anal]()||||||
 |🟡|[1070. Product Sales Anal]()||||||
-|🟢|[1071. Greatest Common Di]()||||||
+|🟢|[1071. Greatest Common Di]()|🟡 Feb 01, 2023|||||
 |🟡|[1072. Flip Columns For M]()||||||
 |🟡|[1073. Adding Two Negabin]()||||||
 |🔴|[1074. Number of Submatri]()||||||
