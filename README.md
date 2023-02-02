@@ -997,7 +997,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[950. Reveal Cards In Inc]()||||||
 |🟡|[951. Flip Equivalent Bin]()||||||
 |🔴|[952. Largest Component S]()||||||
-|🟢|[953. Verifying an Alien ]()||||||
+|🟢|[953. Verifying an Alien ]()|🟢 Feb 02, 2023|||||
 |🟡|[954. Array of Doubled Pa]()||||||
 |🟡|[955. Delete Columns to M]()||||||
 |🔴|[956. Tallest Billboard]()||||||
