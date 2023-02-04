@@ -611,7 +611,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[564. Find the Closest Pa]()||||||
 |🟡|[565. Array Nesting]()||||||
 |🟢|[566. Reshape the Matrix]()||||||
-|🟡|[567. Permutation in Stri]()||||||
+|🟡|[567. Permutation in Stri]()|🟠 Feb 04, 2023|||||
 |🔴|[568. Maximum Vacation Da]()||||||
 |🔴|[569. Median Employee Sal]()||||||
 |🟡|[570. Managers with at Le]()||||||
