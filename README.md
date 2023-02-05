@@ -482,7 +482,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[435. Non-overlapping Int]()||||||
 |🟡|[436. Find Right Interval]()||||||
 |🟡|[437. Path Sum III]()||||||
-|🟡|[438. Find All Anagrams i]()|🟡 Nov 14, 2022|||||
+|🟡|[438. Find All Anagrams i]()|🟠 Nov 14, 2022|🟡 Feb 05, 2023||||
 |🟡|[439. Ternary Expression ]()||||||
 |🔴|[440. K-th Smallest in Le]()||||||
 |🟢|[441. Arranging Coins]()||||||
