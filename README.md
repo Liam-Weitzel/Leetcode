@@ -1514,7 +1514,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1467. Probability of a T]()||||||
 |🟡|[1468. Calculate Salaries]()||||||
 |🟢|[1469. Find All The Lonel]()||||||
-|🟢|[1470. Shuffle the Array]()||||||
+|🟢|[1470. Shuffle the Array]()|🟢 Feb 06, 2023|||||
 |🟡|[1471. The k Strongest Va]()||||||
 |🟡|[1472. Design Browser His]()||||||
 |🔴|[1473. Paint House III]()||||||
