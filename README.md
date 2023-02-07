@@ -948,7 +948,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[901. Online Stock Span]()||||||
 |🔴|[902. Numbers At Most N G]()||||||
 |🔴|[903. Valid Permutations ]()||||||
-|🟡|[904. Fruit Into Baskets]()||||||
+|🟡|[904. Fruit Into Baskets]()|🟡 Feb 07, 2023|||||
 |🟢|[905. Sort Array By Parit]()||||||
 |🔴|[906. Super Palindromes]()||||||
 |🟡|[907. Sum of Subarray Min]()||||||
