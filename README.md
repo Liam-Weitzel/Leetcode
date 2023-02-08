@@ -89,7 +89,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[42. Trapping Rain Water]()||||||
 |🟡|[43. Multiply Strings]()||||||
 |🔴|[44. Wildcard Matching]()||||||
-|🟡|[45. Jump Game II]()||||||
+|🟡|[45. Jump Game II]()|🔴 Feb 08, 2023|||||
 |🟡|[46. Permutations]()||||||
 |🟡|[47. Permutations II]()||||||
 |🟡|[48. Rotate Image]()||||||
