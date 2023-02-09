@@ -2350,7 +2350,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2303. Calculate Amount P]()||||||
 |🟡|[2304. Minimum Path Cost ]()||||||
 |🟡|[2305. Fair Distribution ]()||||||
-|🔴|[2306. Naming a Company]()||||||
+|🔴|[2306. Naming a Company]()|🔴 Feb 09, 2023|||||
 |🔴|[2307. Check for Contradi]()||||||
 |🟡|[2308. Arrange Table by G]()||||||
 |🟢|[2309. Greatest English L]()||||||
