@@ -2521,7 +2521,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[2474. Customers With Str]()||||||
 |🟢|[2475. Number of Unequal ]()||||||
 |🟡|[2476. Closest Nodes Quer]()||||||
-|🟡|[2477. Minimum Fuel Cost ]()||||||
+|🟡|[2477. Minimum Fuel Cost ]()|🔴 Feb 12, 2023|||||
 |🔴|[2478. Number of Beautifu]()||||||
 |🔴|[2479. Maximum XOR of Two]()||||||
 |🟢|[2480. Form a Chemical Bo]()||||||
