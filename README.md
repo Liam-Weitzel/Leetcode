@@ -1563,11 +1563,11 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1516. Move Sub-Tree of N]()||||||
 |🟢|[1517. Find Users With Va]()||||||
 |🟢|[1518. Water Bottles]()||||||
-|🟡|[1519. Number of Nodes in]()|🟢 12 Jan, 2023|||||
+|🟡|[1519. Number of Nodes in]()|🟢 Jan 12, 2023|||||
 |🔴|[1520. Maximum Number of ]()||||||
 |🔴|[1521. Find a Value of a ]()||||||
 |🟡|[1522. Diameter of N-Ary ]()||||||
-|🟢|[1523. Count Odd Numbers ]()||||||
+|🟢|[1523. Count Odd Numbers ]()|🟢 Feb 13, 2023|||||
 |🟡|[1524. Number of Sub-arra]()||||||
 |🟡|[1525. Number of Good Way]()||||||
 |🔴|[1526. Minimum Number of ]()||||||
