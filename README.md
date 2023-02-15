@@ -1033,7 +1033,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[986. Interval List Inter]()||||||
 |🔴|[987. Vertical Order Trav]()||||||
 |🟡|[988. Smallest String Sta]()||||||
-|🟢|[989. Add to Array-Form o]()||||||
+|🟢|[989. Add to Array-Form o]()|🟡 Feb 15, 2023|||||
 |🟡|[990. Satisfiability of E]()||||||
 |🟡|[991. Broken Calculator]()||||||
 |🔴|[992. Subarrays with K Di]()||||||
