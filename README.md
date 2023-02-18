@@ -270,7 +270,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[223. Rectangle Area]()||||||
 |🔴|[224. Basic Calculator]()||||||
 |🟢|[225. Implement Stack usi]()||||||
-|🟢|[226. Invert Binary Tree]()||||||
+|🟢|[226. Invert Binary Tree]()|🟢 Feb 18, 2023|||||
 |🟡|[227. Basic Calculator II]()||||||
 |🟢|[228. Summary Ranges]()||||||
 |🟡|[229. Majority Element II]()||||||
