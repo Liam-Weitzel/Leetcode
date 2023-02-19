@@ -147,7 +147,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[100. Same Tree]()|🟢 Jan 10, 2023|||||
 |🟢|[101. Symmetric Tree]()||||||
 |🟡|[102. Binary Tree Level O]()|🟢 Nov 06, 2022|||||
-|🟡|[103. Binary Tree Zigzag ]()||||||
+|🟡|[103. Binary Tree Zigzag ]()|🟢 Feb 19, 2023|||||
 |🟢|[104. Maximum Depth of Bi]()|🟢 Feb 16, 2023|||||
 |🟡|[105. Construct Binary Tr]()||||||
 |🟡|[106. Construct Binary Tr]()||||||
