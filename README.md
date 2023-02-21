@@ -584,7 +584,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[537. Complex Number Mult]()||||||
 |🟡|[538. Convert BST to Grea]()||||||
 |🟡|[539. Minimum Time Differ]()||||||
-|🟡|[540. Single Element in a]()||||||
+|🟡|[540. Single Element in a]()|🟡 Feb 21, 2023|||||
 |🟢|[541. Reverse String II]()||||||
 |🟡|[542. 01 Matrix]()||||||
 |🟢|[543. Diameter of Binary ]()||||||
