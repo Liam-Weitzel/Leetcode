@@ -1055,7 +1055,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1008. Construct Binary S]()||||||
 |🟢|[1009. Complement of Base]()||||||
 |🟡|[1010. Pairs of Songs Wit]()||||||
-|🟡|[1011. Capacity To Ship P]()||||||
+|🟡|[1011. Capacity To Ship P]()|🔴 Feb 22, 2023|||||
 |🔴|[1012. Numbers With Repea]()||||||
 |🟢|[1013. Partition Array In]()||||||
 |🟡|[1014. Best Sightseeing P]()||||||
