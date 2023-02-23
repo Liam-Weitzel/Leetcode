@@ -546,7 +546,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[499. The Maze III]()||||||
 |🟢|[500. Keyboard Row]()||||||
 |🟢|[501. Find Mode in Binary]()||||||
-|🔴|[502. IPO]()||||||
+|🔴|[502. IPO]()|🟠 Feb 23, 2023|||||
 |🟡|[503. Next Greater Elemen]()||||||
 |🟢|[504. Base 7]()||||||
 |🟡|[505. The Maze II]()||||||
