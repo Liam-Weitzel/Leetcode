@@ -1719,7 +1719,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1672. Richest Customer W]()||||||
 |🟡|[1673. Find the Most Comp]()||||||
 |🟡|[1674. Minimum Moves to M]()||||||
-|🔴|[1675. Minimize Deviation]()||||||
+|🔴|[1675. Minimize Deviation]()|🟡 Feb 24, 2023|||||
 |🟡|[1676. Lowest Common Ance]()||||||
 |🟢|[1677. Product's Worth Ov]()||||||
 |🟢|[1678. Goal Parser Interp]()||||||
