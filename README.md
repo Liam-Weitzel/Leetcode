@@ -165,7 +165,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[118. Pascal's Triangle]()||||||
 |🟢|[119. Pascal's Triangle I]()||||||
 |🟡|[120. Triangle]()||||||
-|🟢|[121. Best Time to Buy an]()|🟢 Nov 05, 2022|||||
+|🟢|[121. Best Time to Buy an]()|🟢 Nov 05, 2022|🟢 Feb 25, 2023||||
 |🟡|[122. Best Time to Buy an]()||||||
 |🔴|[123. Best Time to Buy an]()||||||
 |🔴|[124. Binary Tree Maximum]()|🟢 Dec 11, 2022|||||
