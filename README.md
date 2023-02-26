@@ -116,7 +116,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[69. Sqrt(x)]()||||||
 |🟢|[70. Climbing Stairs]()|🟢 Nov 08, 2022|🟢 Dec 12, 2022||||
 |🟡|[71. Simplify Path]()||||||
-|🔴|[72. Edit Distance]()||||||
+|🔴|[72. Edit Distance]()|🔴 Feb 26, 2023|||||
 |🟡|[73. Set Matrix Zeroes]()||||||
 |🟡|[74. Search a 2D Matrix]()||||||
 |🟡|[75. Sort Colors]()||||||
