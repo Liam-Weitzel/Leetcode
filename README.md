@@ -471,7 +471,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[424. Longest Repeating C]()||||||
 |🔴|[425. Word Squares]()||||||
 |🟡|[426. Convert Binary Sear]()||||||
-|🟡|[427. Construct Quad Tree]()||||||
+|🟡|[427. Construct Quad Tree]()|🔴 Feb 27, 2023|||||
 |🔴|[428. Serialize and Deser]()||||||
 |🟡|[429. N-ary Tree Level Or]()||||||
 |🟡|[430. Flatten a Multileve]()||||||
