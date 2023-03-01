@@ -956,7 +956,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[909. Snakes and Ladders]()|🔴 Jan 24, 2023|||||
 |🟡|[910. Smallest Range II]()||||||
 |🟡|[911. Online Election]()||||||
-|🟡|[912. Sort an Array]()||||||
+|🟡|[912. Sort an Array]()|🟠 Mar 01, 2023|||||
 |🔴|[913. Cat and Mouse]()||||||
 |🟢|[914. X of a Kind in a De]()||||||
 |🟡|[915. Partition Array int]()||||||
