@@ -487,7 +487,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[440. K-th Smallest in Le]()||||||
 |🟢|[441. Arranging Coins]()||||||
 |🟡|[442. Find All Duplicates]()||||||
-|🟡|[443. String Compression]()||||||
+|🟡|[443. String Compression]()|🔴 Mar 02, 2022|||||
 |🟡|[444. Sequence Reconstruc]()||||||
 |🟡|[445. Add Two Numbers II]()||||||
 |🔴|[446. Arithmetic Slices I]()||||||
