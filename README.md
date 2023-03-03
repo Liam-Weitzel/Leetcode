@@ -72,7 +72,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[25. Reverse Nodes in k-G]()||||||
 |🟢|[26. Remove Duplicates fr]()||||||
 |🟢|[27. Remove Element]()||||||
-|🟡|[28. Find the Index of th]()||||||
+|🟡|[28. Find the Index of th]()|🟢 Mar 03, 2023|||||
 |🟡|[29. Divide Two Integers]()||||||
 |🔴|[30. Substring with Conca]()||||||
 |🟡|[31. Next Permutation]()||||||
