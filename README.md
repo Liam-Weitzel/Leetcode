@@ -2488,7 +2488,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2441. Largest Positive I]()||||||
 |🟡|[2442. Count Number of Di]()||||||
 |🟡|[2443. Sum of Number and ]()||||||
-|🔴|[2444. Count Subarrays Wi]()||||||
+|🔴|[2444. Count Subarrays Wi]()|🔴 Mar 04, 2023|||||
 |🟡|[2445. Number of Nodes Wi]()||||||
 |🟢|[2446. Determine if Two E]()||||||
 |🟡|[2447. Number of Subarray]()||||||
