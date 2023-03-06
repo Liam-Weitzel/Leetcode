@@ -1583,7 +1583,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1536. Minimum Swaps to A]()||||||
 |🔴|[1537. Get the Maximum Sc]()||||||
 |🟡|[1538. Guess the Majority]()||||||
-|🟢|[1539. Kth Missing Positi]()||||||
+|🟢|[1539. Kth Missing Positi]()|🟡 Mar 06, 2023|||||
 |🟡|[1540. Can Convert String]()||||||
 |🟡|[1541. Minimum Insertions]()||||||
 |🔴|[1542. Find Longest Aweso]()||||||
