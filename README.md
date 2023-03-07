@@ -2231,7 +2231,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2184. Number of Ways to ]()||||||
 |🟢|[2185. Counting Words Wit]()||||||
 |🟡|[2186. Minimum Number of ]()||||||
-|🟡|[2187. Minimum Time to Co]()||||||
+|🟡|[2187. Minimum Time to Co]()|🟠 Mar 07, 2023|||||
 |🔴|[2188. Minimum Time to Fi]()||||||
 |🟡|[2189. Number of Ways to ]()||||||
 |🟢|[2190. Most Frequent Numb]()||||||
