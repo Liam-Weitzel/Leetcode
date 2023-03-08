@@ -919,7 +919,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[872. Leaf-Similar Trees]()|🟢 Dec 08, 2022|||||
 |🟡|[873. Length of Longest F]()||||||
 |🟡|[874. Walking Robot Simul]()||||||
-|🟡|[875. Koko Eating Bananas]()||||||
+|🟡|[875. Koko Eating Bananas]()|🟢 Mar 08, 2023|||||
 |🟢|[876. Middle of the Linke]()|🟢 Oct 27, 2022|🟢 Nov 02, 2022||||
 |🟡|[877. Stone Game]()||||||
 |🔴|[878. Nth Magical Number]()||||||
