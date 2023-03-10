@@ -426,7 +426,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[379. Design Phone Direct]()||||||
 |🟡|[380. Insert Delete GetRa]()||||||
 |🔴|[381. Insert Delete GetRa]()||||||
-|🟡|[382. Linked List Random ]()||||||
+|🟡|[382. Linked List Random ]()|🟢 Mar 10, 2023|||||
 |🟢|[383. Ransom Note]()||||||
 |🟡|[384. Shuffle an Array]()||||||
 |🟡|[385. Mini Parser]()||||||
