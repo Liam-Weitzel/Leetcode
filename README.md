@@ -153,7 +153,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[106. Construct Binary Tr]()||||||
 |🟡|[107. Binary Tree Level O]()||||||
 |🟢|[108. Convert Sorted Arra]()||||||
-|🟡|[109. Convert Sorted List]()||||||
+|🟡|[109. Convert Sorted List]()|🔴 Mar 11 , 2023|||||
 |🟢|[110. Balanced Binary Tre]()||||||
 |🟢|[111. Minimum Depth of Bi]()||||||
 |🟢|[112. Path Sum]()||||||
