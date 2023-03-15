@@ -1002,7 +1002,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[955. Delete Columns to M]()||||||
 |🔴|[956. Tallest Billboard]()||||||
 |🟡|[957. Prison Cells After ]()||||||
-|🟡|[958. Check Completeness ]()||||||
+|🟡|[958. Check Completeness ]()|🟢 Mar 15, 2023|||||
 |🟡|[959. Regions Cut By Slas]()||||||
 |🔴|[960. Delete Columns to M]()||||||
 |🟢|[961. N-Repeated Element ]()||||||
