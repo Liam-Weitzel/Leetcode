@@ -252,7 +252,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[205. Isomorphic Strings]()|🟢 Oct 30, 2022|||||
 |🟢|[206. Reverse Linked List]()|🔴 Nov 02, 2022|||||
 |🟡|[207. Course Schedule]()||||||
-|🟡|[208. Implement Trie (Pre]()||||||
+|🟡|[208. Implement Trie (Pre]()|🔴 Mar 17, 2023|||||
 |🟡|[209. Minimum Size Subarr]()||||||
 |🟡|[210. Course Schedule II]()||||||
 |🟡|[211. Design Add and Sear]()||||||
