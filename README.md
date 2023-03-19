@@ -255,7 +255,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[208. Implement Trie (Pre]()|🔴 Mar 17, 2023|||||
 |🟡|[209. Minimum Size Subarr]()||||||
 |🟡|[210. Course Schedule II]()||||||
-|🟡|[211. Design Add and Sear]()||||||
+|🟡|[211. Design Add and Sear]()|🔴 Mar 19, 2023|||||
 |🔴|[212. Word Search II]()||||||
 |🟡|[213. House Robber II]()||||||
 |🔴|[214. Shortest Palindrome]()||||||
