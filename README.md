@@ -649,7 +649,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[602. Friend Requests II:]()||||||
 |🟢|[603. Consecutive Availab]()||||||
 |🟢|[604. Design Compressed S]()||||||
-|🟢|[605. Can Place Flowers]()||||||
+|🟢|[605. Can Place Flowers]()|🟢 Mar 20, 2023|||||
 |🟢|[606. Construct String fr]()||||||
 |🟢|[607. Sales Person]()||||||
 |🟡|[608. Tree Node]()||||||
