@@ -2392,7 +2392,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2345. Finding the Number]()||||||
 |🟡|[2346. Compute the Rank a]()||||||
 |🟢|[2347. Best Poker Hand]()||||||
-|🟡|[2348. Number of Zero-Fil]()||||||
+|🟡|[2348. Number of Zero-Fil]()|🟢 Mar 21, 2023|||||
 |🟡|[2349. Design a Number Co]()||||||
 |🔴|[2350. Shortest Impossibl]()||||||
 |🟢|[2351. First Letter to Ap]()||||||
