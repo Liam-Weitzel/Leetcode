@@ -2536,7 +2536,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2489. Number of Substrin]()||||||
 |🟢|[2490. Circular Sentence]()||||||
 |🟡|[2491. Divide Players Int]()||||||
-|🟡|[2492. Minimum Score of a]()||||||
+|🟡|[2492. Minimum Score of a]()|🔴 Mar 22, 2023|||||
 |🔴|[2493. Divide Nodes Into ]()||||||
 |🔴|[2494. Merge Overlapping ]()||||||
 |🟡|[2495. Number of Subarray]()||||||
