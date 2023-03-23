@@ -1363,7 +1363,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1316. Distinct Echo Subs]()||||||
 |🟢|[1317. Convert Integer to]()||||||
 |🟡|[1318. Minimum Flips to M]()||||||
-|🟡|[1319. Number of Operatio]()||||||
+|🟡|[1319. Number of Operatio]()|🟡 Mar 23, 2023|||||
 |🔴|[1320. Minimum Distance t]()||||||
 |🟡|[1321. Restaurant Growth]()||||||
 |🟢|[1322. Ads Performance]()||||||
