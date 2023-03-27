@@ -108,7 +108,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[61. Rotate List]()||||||
 |🟡|[62. Unique Paths]()|🟢 Nov 10, 2022|||||
 |🟡|[63. Unique Paths II]()||||||
-|🟡|[64. Minimum Path Sum]()||||||
+|🟡|[64. Minimum Path Sum]()|🟢 March 27, 2023|||||
 |🔴|[65. Valid Number]()||||||
 |🟢|[66. Plus One]()||||||
 |🟢|[67. Add Binary]()|🟡 Feb 14, 2023|||||
