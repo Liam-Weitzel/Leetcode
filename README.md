@@ -1446,7 +1446,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1399. Count Largest Grou]()||||||
 |🟡|[1400. Construct K Palind]()||||||
 |🟡|[1401. Circle and Rectang]()||||||
-|🔴|[1402. Reducing Dishes]()||||||
+|🔴|[1402. Reducing Dishes]()|🔴 Mar 29, 2023|||||
 |🟢|[1403. Minimum Subsequenc]()||||||
 |🟡|[1404. Number of Steps to]()||||||
 |🟡|[1405. Longest Happy Stri]()||||||
