@@ -131,7 +131,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[84. Largest Rectangle in]()||||||
 |🔴|[85. Maximal Rectangle]()||||||
 |🟡|[86. Partition List]()||||||
-|🔴|[87. Scramble String]()||||||
+|🔴|[87. Scramble String]()|🔴 Mar 30, 2023|||||
 |🟢|[88. Merge Sorted Array]()||||||
 |🟡|[89. Gray Code]()||||||
 |🟡|[90. Subsets II]()||||||
