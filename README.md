@@ -748,7 +748,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[701. Insert into a Binar]()||||||
 |🟡|[702. Search in a Sorted ]()||||||
 |🟢|[703. Kth Largest Element]()||||||
-|🟢|[704. Binary Search]()|🟠 Nov 06, 2022|||||
+|🟢|[704. Binary Search]()|🟠 Nov 06, 2022|🟢 Apr 01, 2023||||
 |🟢|[705. Design HashSet]()||||||
 |🟢|[706. Design HashMap]()||||||
 |🟡|[707. Design Linked List]()||||||
