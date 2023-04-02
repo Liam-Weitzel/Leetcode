@@ -2344,7 +2344,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2297. Jump Game VIII]()||||||
 |🟡|[2298. Tasks Count in the]()||||||
 |🟢|[2299. Strong Password Ch]()||||||
-|🟡|[2300. Successful Pairs o]()||||||
+|🟡|[2300. Successful Pairs o]()|🟢 |||||
 |🔴|[2301. Match Substring Af]()||||||
 |🔴|[2302. Count Subarrays Wi]()||||||
 |🟢|[2303. Calculate Amount P]()||||||
