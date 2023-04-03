@@ -925,7 +925,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[878. Nth Magical Number]()||||||
 |🔴|[879. Profitable Schemes]()||||||
 |🟡|[880. Decoded String at I]()||||||
-|🟡|[881. Boats to Save Peopl]()||||||
+|🟡|[881. Boats to Save Peopl]()|🔴 Apr 03, 2023|||||
 |🔴|[882. Reachable Nodes In ]()||||||
 |🟢|[883. Projection Area of ]()||||||
 |🟢|[884. Uncommon Words from]()||||||
