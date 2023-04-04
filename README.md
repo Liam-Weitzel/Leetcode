@@ -2449,7 +2449,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[2402. Meeting Rooms III]()||||||
 |🔴|[2403. Minimum Time to Ki]()||||||
 |🟢|[2404. Most Frequent Even]()||||||
-|🟡|[2405. Optimal Partition ]()||||||
+|🟡|[2405. Optimal Partition ]()|🟢 Apr 04, 2023|||||
 |🟡|[2406. Divide Intervals I]()||||||
 |🔴|[2407. Longest Increasing]()||||||
 |🟡|[2408. Design SQL]()||||||
