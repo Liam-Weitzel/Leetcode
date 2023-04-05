@@ -2483,7 +2483,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2436. Minimum Split Into]()||||||
 |🟢|[2437. Number of Valid Cl]()||||||
 |🟡|[2438. Range Product Quer]()||||||
-|🟡|[2439. Minimize Maximum o]()||||||
+|🟡|[2439. Minimize Maximum o]()|🔴 Apr 05, 2023|||||
 |🔴|[2440. Create Components ]()||||||
 |🟢|[2441. Largest Positive I]()||||||
 |🟡|[2442. Count Number of Di]()||||||
