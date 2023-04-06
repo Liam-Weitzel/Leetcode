@@ -1298,7 +1298,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1251. Average Selling Pr]()||||||
 |🟢|[1252. Cells with Odd Val]()||||||
 |🟡|[1253. Reconstruct a 2-Ro]()||||||
-|🟡|[1254. Number of Closed I]()||||||
+|🟡|[1254. Number of Closed I]()|🟢 Apr 06, 2023|||||
 |🔴|[1255. Maximum Score Word]()||||||
 |🟡|[1256. Encode Number]()||||||
 |🟡|[1257. Smallest Common Re]()||||||
