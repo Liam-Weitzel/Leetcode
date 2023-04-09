@@ -1901,7 +1901,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1854. Maximum Population]()||||||
 |🟡|[1855. Maximum Distance B]()||||||
 |🟡|[1856. Maximum Subarray M]()||||||
-|🔴|[1857. Largest Color Valu]()||||||
+|🔴|[1857. Largest Color Valu]()|🔴 Apr 09, 2023|||||
 |🟡|[1858. Longest Word With ]()||||||
 |🟢|[1859. Sorting the Senten]()||||||
 |🟡|[1860. Incremental Memory]()||||||
