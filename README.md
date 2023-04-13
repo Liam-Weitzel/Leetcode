@@ -990,7 +990,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[943. Find the Shortest S]()||||||
 |🟢|[944. Delete Columns to M]()|🟢 Jan 03, 2023|||||
 |🟡|[945. Minimum Increment t]()||||||
-|🟡|[946. Validate Stack Sequ]()||||||
+|🟡|[946. Validate Stack Sequ]()|🟢 Apr 13, 2023|||||
 |🟡|[947. Most Stones Removed]()||||||
 |🟡|[948. Bag of Tokens]()||||||
 |🟡|[949. Largest Time for Gi]()||||||
