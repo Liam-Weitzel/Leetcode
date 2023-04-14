@@ -560,7 +560,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[513. Find Bottom Left Tr]()||||||
 |🔴|[514. Freedom Trail]()||||||
 |🟡|[515. Find Largest Value ]()||||||
-|🟡|[516. Longest Palindromic]()||||||
+|🟡|[516. Longest Palindromic]()|🔴 Apr 14, 2023|||||
 |🔴|[517. Super Washing Machi]()||||||
 |🟡|[518. Coin Change II]()||||||
 |🟡|[519. Random Flip Matrix]()||||||
