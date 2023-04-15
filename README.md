@@ -2262,7 +2262,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2215. Find the Differenc]()||||||
 |🟡|[2216. Minimum Deletions ]()||||||
 |🟡|[2217. Find Palindrome Wi]()||||||
-|🔴|[2218. Maximum Value of K]()||||||
+|🔴|[2218. Maximum Value of K]()|🔴 Apr 15, 2023|||||
 |🟡|[2219. Maximum Sum Score ]()||||||
 |🟢|[2220. Minimum Bit Flips ]()||||||
 |🟡|[2221. Find Triangular Su]()||||||
