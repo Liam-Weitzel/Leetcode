@@ -1683,7 +1683,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1636. Sort Array by Incr]()||||||
 |🟡|[1637. Widest Vertical Ar]()||||||
 |🟡|[1638. Count Substrings T]()||||||
-|🔴|[1639. Number of Ways to ]()||||||
+|🔴|[1639. Number of Ways to ]()|🔴 Apr 16, 2023|||||
 |🟢|[1640. Check Array Format]()||||||
 |🟡|[1641. Count Sorted Vowel]()||||||
 |🟡|[1642. Furthest Building ]()||||||
