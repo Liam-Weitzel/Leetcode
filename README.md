@@ -1475,7 +1475,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1428. Leftmost Column wi]()||||||
 |🟡|[1429. First Unique Numbe]()||||||
 |🟡|[1430. Check If a String ]()||||||
-|🟢|[1431. Kids With the Grea]()||||||
+|🟢|[1431. Kids With the Grea]()|🟢 Apr 17, 2023|||||
 |🟡|[1432. Max Difference You]()||||||
 |🟡|[1433. Check If a String ]()||||||
 |🔴|[1434. Number of Ways to ]()||||||
