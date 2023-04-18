@@ -1812,7 +1812,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1765. Map of Highest Pea]()||||||
 |🔴|[1766. Tree of Coprimes]()||||||
 |🔴|[1767. Find the Subtasks ]()||||||
-|🟢|[1768. Merge Strings Alte]()||||||
+|🟢|[1768. Merge Strings Alte]()|🟢 Apr 18, 2023|||||
 |🟡|[1769. Minimum Number of ]()||||||
 |🔴|[1770. Maximum Score from]()||||||
 |🔴|[1771. Maximize Palindrom]()||||||
