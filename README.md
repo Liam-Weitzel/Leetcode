@@ -1416,7 +1416,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1369. Get the Second Mos]()||||||
 |🟢|[1370. Increasing Decreas]()||||||
 |🟡|[1371. Find the Longest S]()||||||
-|🟡|[1372. Longest ZigZag Pat]()||||||
+|🟡|[1372. Longest ZigZag Pat]()|🟢 Apr 19, 2023|||||
 |🔴|[1373. Maximum Sum BST in]()||||||
 |🟢|[1374. Generate a String ]()||||||
 |🟡|[1375. Number of Times Bi]()||||||
