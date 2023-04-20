@@ -706,7 +706,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[659. Split Array into Co]()||||||
 |🔴|[660. Remove 9]()||||||
 |🟢|[661. Image Smoother]()||||||
-|🟡|[662. Maximum Width of Bi]()||||||
+|🟡|[662. Maximum Width of Bi]()|🟠 Apr 20, 2023|||||
 |🟡|[663. Equal Tree Partitio]()||||||
 |🔴|[664. Strange Printer]()||||||
 |🟡|[665. Non-decreasing Arra]()||||||
