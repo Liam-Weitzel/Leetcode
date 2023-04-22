@@ -1356,7 +1356,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1309. Decrypt String fro]()||||||
 |🟡|[1310. XOR Queries of a S]()||||||
 |🟡|[1311. Get Watched Videos]()||||||
-|🔴|[1312. Minimum Insertion ]()|🔴 22 Apr, 2023|||||
+|🔴|[1312. Minimum Insertion ]()|🔴 Apr 22, 2023|||||
 |🟢|[1313. Decompress Run-Len]()||||||
 |🟡|[1314. Matrix Block Sum]()||||||
 |🟡|[1315. Sum of Nodes with ]()||||||
@@ -2344,7 +2344,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2297. Jump Game VIII]()||||||
 |🟡|[2298. Tasks Count in the]()||||||
 |🟢|[2299. Strong Password Ch]()||||||
-|🟡|[2300. Successful Pairs o]()|🟢 |||||
+|🟡|[2300. Successful Pairs o]()|🟢 Apr 02, 2023|||||
 |🔴|[2301. Match Substring Af]()||||||
 |🔴|[2302. Count Subarrays Wi]()||||||
 |🟢|[2303. Calculate Amount P]()||||||
