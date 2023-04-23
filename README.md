@@ -1460,7 +1460,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1413. Minimum Value to G]()||||||
 |🟡|[1414. Find the Minimum N]()||||||
 |🟡|[1415. The k-th Lexicogra]()||||||
-|🔴|[1416. Restore The Array]()||||||
+|🔴|[1416. Restore The Array]()|🔴 Apr 23, 2023|||||
 |🟢|[1417. Reformat The Strin]()||||||
 |🟡|[1418. Display Table of F]()||||||
 |🟡|[1419. Minimum Number of ]()||||||
