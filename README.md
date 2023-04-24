@@ -1090,7 +1090,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1043. Partition Array fo]()||||||
 |🔴|[1044. Longest Duplicate ]()||||||
 |🟡|[1045. Customers Who Boug]()||||||
-|🟢|[1046. Last Stone Weight]()||||||
+|🟢|[1046. Last Stone Weight]()|🟢 Apr 24, 2023|||||
 |🟢|[1047. Remove All Adjacen]()||||||
 |🟡|[1048. Longest String Cha]()||||||
 |🟡|[1049. Last Stone Weight ]()||||||
