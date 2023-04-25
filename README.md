@@ -2380,7 +2380,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2333. Minimum Sum of Squ]()||||||
 |🔴|[2334. Subarray With Elem]()||||||
 |🟢|[2335. Minimum Amount of ]()||||||
-|🟡|[2336. Smallest Number in]()||||||
+|🟡|[2336. Smallest Number in]()|🟡 Apr 25, 2023|||||
 |🟡|[2337. Move Pieces to Obt]()||||||
 |🔴|[2338. Count the Number o]()||||||
 |🟢|[2339. All the Matches of]()||||||
