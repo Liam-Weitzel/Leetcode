@@ -302,7 +302,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[255. Verify Preorder Seq]()||||||
 |🟡|[256. Paint House]()||||||
 |🟢|[257. Binary Tree Paths]()||||||
-|🟢|[258. Add Digits]()||||||
+|🟢|[258. Add Digits]()|🟡 Apr 26, 2023|||||
 |🟡|[259. 3Sum Smaller]()||||||
 |🟡|[260. Single Number III]()||||||
 |🟡|[261. Graph Valid Tree]()||||||
