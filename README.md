@@ -363,7 +363,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[316. Remove Duplicate Le]()||||||
 |🔴|[317. Shortest Distance f]()||||||
 |🟡|[318. Maximum Product of ]()||||||
-|🟡|[319. Bulb Switcher]()||||||
+|🟡|[319. Bulb Switcher]()|🔴 Apr 27, 2023|||||
 |🟡|[320. Generalized Abbrevi]()||||||
 |🔴|[321. Create Maximum Numb]()||||||
 |🟡|[322. Coin Change]()||||||
