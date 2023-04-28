@@ -883,7 +883,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[836. Rectangle Overlap]()||||||
 |🟡|[837. New 21 Game]()||||||
 |🟡|[838. Push Dominoes]()||||||
-|🔴|[839. Similar String Grou]()||||||
+|🔴|[839. Similar String Grou]()|🔴 Apr 28, 2023|||||
 |🟡|[840. Magic Squares In Gr]()||||||
 |🟡|[841. Keys and Rooms]()|🟢 Dec 20, 2022|||||
 |🟡|[842. Split Array into Fi]()||||||
