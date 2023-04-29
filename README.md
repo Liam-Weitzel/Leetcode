@@ -1741,7 +1741,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1694. Reformat Phone Num]()||||||
 |🟡|[1695. Maximum Erasure Va]()||||||
 |🟡|[1696. Jump Game VI]()||||||
-|🔴|[1697. Checking Existence]()||||||
+|🔴|[1697. Checking Existence]()|🔴 Apr 29, 2023|||||
 |🟡|[1698. Number of Distinct]()||||||
 |🟡|[1699. Number of Calls Be]()||||||
 |🟢|[1700. Number of Students]()||||||
