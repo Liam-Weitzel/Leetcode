@@ -1623,7 +1623,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1576. Replace All ?'s to]()||||||
 |🟡|[1577. Number of Ways Whe]()||||||
 |🟡|[1578. Minimum Time to Ma]()||||||
-|🔴|[1579. Remove Max Number ]()||||||
+|🔴|[1579. Remove Max Number ]()|🔴 Apr 30, 2023|||||
 |🟡|[1580. Put Boxes Into the]()||||||
 |🟢|[1581. Customer Who Visit]()||||||
 |🟢|[1582. Special Positions ]()||||||
