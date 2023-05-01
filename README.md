@@ -1535,7 +1535,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1488. Avoid Flood in The]()||||||
 |🔴|[1489. Find Critical and ]()||||||
 |🟡|[1490. Clone N-ary Tree]()||||||
-|🟢|[1491. Average Salary Exc]()||||||
+|🟢|[1491. Average Salary Exc]()|🟢 May 1, 2023|||||
 |🟡|[1492. The kth Factor of ]()||||||
 |🟡|[1493. Longest Subarray o]()||||||
 |🔴|[1494. Parallel Courses I]()||||||
