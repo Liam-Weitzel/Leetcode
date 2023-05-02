@@ -1866,7 +1866,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1819. Number of Differen]()||||||
 |🟡|[1820. Maximum Number of ]()||||||
 |🟢|[1821. Find Customers Wit]()||||||
-|🟢|[1822. Sign of the Produc]()||||||
+|🟢|[1822. Sign of the Produc]()|🟡 May 2, 2023|||||
 |🟡|[1823. Find the Winner of]()||||||
 |🟡|[1824. Minimum Sideway Ju]()||||||
 |🔴|[1825. Finding MK Average]()||||||
