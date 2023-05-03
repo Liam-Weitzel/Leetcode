@@ -2259,7 +2259,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2212. Maximum Points in ]()||||||
 |🔴|[2213. Longest Substring ]()||||||
 |🟡|[2214. Minimum Health to ]()||||||
-|🟢|[2215. Find the Differenc]()||||||
+|🟢|[2215. Find the Differenc]()|🟢 May 3, 2023|||||
 |🟡|[2216. Minimum Deletions ]()||||||
 |🟡|[2217. Find Palindrome Wi]()||||||
 |🔴|[2218. Maximum Value of K]()|🔴 Apr 15, 2023|||||
