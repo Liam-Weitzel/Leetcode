@@ -693,7 +693,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[646. Maximum Length of P]()||||||
 |🟡|[647. Palindromic Substri]()||||||
 |🟡|[648. Replace Words]()||||||
-|🟡|[649. Dota2 Senate]()||||||
+|🟡|[649. Dota2 Senate]()|🟡 May 4, 2023|||||
 |🟡|[650. 2 Keys Keyboard]()||||||
 |🟡|[651. 4 Keys Keyboard]()||||||
 |🟡|[652. Find Duplicate Subt]()|🟢 Feb 28, 2023|||||
