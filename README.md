@@ -1535,14 +1535,14 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1488. Avoid Flood in The]()||||||
 |🔴|[1489. Find Critical and ]()||||||
 |🟡|[1490. Clone N-ary Tree]()||||||
-|🟢|[1491. Average Salary Exc]()|🟢 May 1, 2023|||||
+|🟢|[1491. Average Salary Exc]()|🟢 May 01, 2023|||||
 |🟡|[1492. The kth Factor of ]()||||||
 |🟡|[1493. Longest Subarray o]()||||||
 |🔴|[1494. Parallel Courses I]()||||||
 |🟢|[1495. Friendly Movies St]()||||||
 |🟢|[1496. Path Crossing]()||||||
 |🟡|[1497. Check If Array Pai]()||||||
-|🟡|[1498. Number of Subseque]()||||||
+|🟡|[1498. Number of Subseque]()|🔴 May 06, 2023|||||
 |🔴|[1499. Max Value of Equat]()||||||
 |🟡|[1500. Design a File Shar]()||||||
 |🟡|[1501. Countries You Can ]()||||||
