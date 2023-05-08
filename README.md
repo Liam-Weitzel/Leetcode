@@ -1616,7 +1616,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1569. Number of Ways to ]()||||||
 |🟡|[1570. Dot Product of Two]()||||||
 |🟢|[1571. Warehouse Manager]()||||||
-|🟢|[1572. Matrix Diagonal Su]()||||||
+|🟢|[1572. Matrix Diagonal Su]()|🟢 May 08, 2023|||||
 |🟡|[1573. Number of Ways to ]()||||||
 |🟡|[1574. Shortest Subarray ]()||||||
 |🔴|[1575. Count All Possible]()||||||
