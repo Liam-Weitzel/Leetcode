@@ -1079,7 +1079,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1032. Stream of Characte]()||||||
 |🟡|[1033. Moving Stones Unti]()||||||
 |🟡|[1034. Coloring A Border]()||||||
-|🟡|[1035. Uncrossed Lines]()||||||
+|🟡|[1035. Uncrossed Lines]()|🔴 May 11, 2023|||||
 |🔴|[1036. Escape a Large Maz]()||||||
 |🟢|[1037. Valid Boomerang]()||||||
 |🟡|[1038. Binary Search Tree]()||||||
