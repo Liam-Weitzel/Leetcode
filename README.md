@@ -1834,7 +1834,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1796. Second Largest Dig]()||||||
 |🟡|[1797. Design Authenticat]()||||||
 |🟡|[1798. Maximum Number of ]()||||||
-|🔴|[1799. Maximize Score Aft]()||||||
+|🔴|[1799. Maximize Score Aft]()|🔴 May 14, 2023|||||
 |🟢|[1800. Maximum Ascending ]()||||||
 |🟡|[1801. Number of Orders i]()||||||
 |🟡|[1802. Maximum Value at a]()||||||
