@@ -1756,7 +1756,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1718. Construct the Lexi]()||||||
 |🔴|[1719. Number Of Ways To ]()||||||
 |🟢|[1720. Decode XORed Array]()||||||
-|🟡|[1721. Swapping Nodes in ]()||||||
+|🟡|[1721. Swapping Nodes in ]()|🔴 May 15, 2023|||||
 |🟡|[1722. Minimize Hamming D]()||||||
 |🔴|[1723. Find Minimum Time ]()||||||
 |🔴|[1724. Checking Existence]()||||||
