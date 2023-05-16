@@ -59,7 +59,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[21. Merge Two Sorted Lis]()|🟢 Oct 27, 2022|||||
 |🟡|[22. Generate Parentheses]()||||||
 |🔴|[23. Merge k Sorted Lists]()|🟢 Mar 12, 2023|||||
-|🟡|[24. Swap Nodes in Pairs]()||||||
+|🟡|[24. Swap Nodes in Pairs]()|🔴 May 16, 2023|||||
 |🔴|[25. Reverse Nodes in k-G]()||||||
 |🟢|[26. Remove Duplicates fr]()||||||
 |🟢|[27. Remove Element]()||||||
