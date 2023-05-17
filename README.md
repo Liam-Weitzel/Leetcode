@@ -2165,7 +2165,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[2127. Maximum Employees ]()||||||
 |🟡|[2128. Remove All Ones Wi]()||||||
 |🟢|[2129. Capitalize the Tit]()||||||
-|🟡|[2130. Maximum Twin Sum o]()||||||
+|🟡|[2130. Maximum Twin Sum o]()|🟢 May 17, 2023|||||
 |🟡|[2131. Longest Palindrome]()||||||
 |🔴|[2132. Stamping the Grid]()||||||
 |🟢|[2133. Check if Every Row]()||||||
