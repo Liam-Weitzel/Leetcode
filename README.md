@@ -1592,7 +1592,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1554. Strings Differ by ]()||||||
 |🟡|[1555. Bank Account Summa]()||||||
 |🟢|[1556. Thousand Separator]()||||||
-|🟡|[1557. Minimum Number of ]()||||||
+|🟡|[1557. Minimum Number of ]()|🔴 May 18, 2023|||||
 |🟡|[1558. Minimum Numbers of]()||||||
 |🟡|[1559. Detect Cycles in 2]()||||||
 |🟢|[1560. Most Visited Secto]()||||||
