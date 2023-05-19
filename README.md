@@ -820,7 +820,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[782. Transform to Chessb]()||||||
 |🟢|[783. Minimum Distance Be]()|🟢 Feb 17, 2023|||||
 |🟡|[784. Letter Case Permuta]()||||||
-|🟡|[785. Is Graph Bipartite?]()||||||
+|🟡|[785. Is Graph Bipartite?]()|🟡 May 19, 2023|||||
 |🟡|[786. K-th Smallest Prime]()||||||
 |🟡|[787. Cheapest Flights Wi]()|🔴 Jan 26, 2023|||||
 |🟡|[788. Rotated Digits]()||||||
