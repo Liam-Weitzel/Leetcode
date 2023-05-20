@@ -434,7 +434,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[396. Rotate Function]()||||||
 |🟡|[397. Integer Replacement]()||||||
 |🟡|[398. Random Pick Index]()||||||
-|🟡|[399. Evaluate Division]()||||||
+|🟡|[399. Evaluate Division]()|🔴 May 20, 2023|||||
 |🟡|[400. Nth Digit]()||||||
 |🟢|[401. Binary Watch]()||||||
 |🟡|[402. Remove K Digits]()||||||
