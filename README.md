@@ -382,7 +382,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[344. Reverse String]()||||||
 |🟢|[345. Reverse Vowels of a]()||||||
 |🟢|[346. Moving Average from]()||||||
-|🟡|[347. Top K Frequent Elem]()|🟡 Dec 13, 2022|||||
+|🟡|[347. Top K Frequent Elem]()|🟡 Dec 13, 2022|🟢 May 22, 2023||||
 |🟡|[348. Design Tic-Tac-Toe]()||||||
 |🟢|[349. Intersection of Two]()||||||
 |🟢|[350. Intersection of Two]()||||||
