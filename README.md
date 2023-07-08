@@ -36,7 +36,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 ## Problems
 |Dif|Problem|Attempt 1|Attempt 2|Attempt 3|Attempt 4|
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|🟢|[1. Two Sum]()|🟡 Mar 01, 2022|🟢 Dec 13, 2022||||
+|🟢|[1. Two Sum]()|🟡 Mar 01, 2022|🟢 Dec 13, 2022|🟢 Jul 8, 2023|||
 |🟡|[2. Add Two Numbers]()|🟢 Dec 03, 2022|||||
 |🟡|[3. Longest Substring With]()|🟢 Dec 12, 2022|||||
 |🔴|[4. Median of Two Sorted A]()|🟠 Dec 12, 2022|||||
@@ -84,7 +84,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[46. Permutations]()||||||
 |🟡|[47. Permutations II]()||||||
 |🟡|[48. Rotate Image]()||||||
-|🟡|[49. Group Anagrams]()|🟢 Dec 13, 2022|||||
+|🟡|[49. Group Anagrams]()|🟢 Dec 13, 2022|🟢 Jul 8, 2023||||
 |🟡|[50. Pow(x, n)]()||||||
 |🔴|[51. N-Queens]()||||||
 |🔴|[52. N-Queens II]()||||||
@@ -252,7 +252,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[214. Shortest Palindrome]()||||||
 |🟡|[215. Kth Largest Element]()||||||
 |🟡|[216. Combination Sum III]()||||||
-|🟢|[217. Contains Duplicate]()|🟢 Dec 13, 2022|||||
+|🟢|[217. Contains Duplicate]()|🟢 Dec 13, 2022|🟢 Jul 7, 2023||||
 |🔴|[218. The Skyline Problem]()||||||
 |🟢|[219. Contains Duplicate ]()||||||
 |🔴|[220. Contains Duplicate ]()||||||
@@ -277,7 +277,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[239. Sliding Window Maxi]()||||||
 |🟡|[240. Search a 2D Matrix ]()||||||
 |🟡|[241. Different Ways to A]()||||||
-|🟢|[242. Valid Anagram]()|🟢 Dec 13, 2022|||||
+|🟢|[242. Valid Anagram]()|🟢 Dec 13, 2022|🟢 Jul 7, 2023||||
 |🟢|[243. Shortest Word Dista]()||||||
 |🟡|[244. Shortest Word Dista]()||||||
 |🟡|[245. Shortest Word Dista]()||||||
