@@ -160,7 +160,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[122. Best Time to Buy an]()||||||
 |🔴|[123. Best Time to Buy an]()||||||
 |🔴|[124. Binary Tree Maximum]()|🟢 Dec 11, 2022|||||
-|🟢|[125. Valid Palindrome]()||||||
+|🟢|[125. Valid Palindrome]()|🟢 Jul 16, 2023|||||
 |🔴|[126. Word Ladder II]()||||||
 |🔴|[127. Word Ladder]()||||||
 |🟡|[128. Longest Consecutive]()|🟢 Jul 09, 2023|||||
