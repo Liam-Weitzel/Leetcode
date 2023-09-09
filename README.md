@@ -153,7 +153,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[115. Distinct Subsequenc]()||||||
 |🟡|[116. Populating Next Rig]()||||||
 |🟡|[117. Populating Next Rig]()||||||
-|🟢|[118. Pascal's Triangle]()||||||
+|🟢|[118. Pascal's Triangle]()|🟢 Sep 08, 2023|||||
 |🟢|[119. Pascal's Triangle I]()||||||
 |🟡|[120. Triangle]()||||||
 |🟢|[121. Best Time to Buy an]()|🟢 Nov 05, 2022|🟢 Feb 25, 2023||||
@@ -412,7 +412,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[374. Guess Number Higher]()||||||
 |🟡|[375. Guess Number Higher]()||||||
 |🟡|[376. Wiggle Subsequence]()||||||
-|🟡|[377. Combination Sum IV]()||||||
+|🟡|[377. Combination Sum IV]()|🟢 Sep 09, 2023|||||
 |🟡|[378. Kth Smallest Elemen]()||||||
 |🟡|[379. Design Phone Direct]()||||||
 |🟡|[380. Insert Delete GetRa]()||||||
