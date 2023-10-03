@@ -1547,7 +1547,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1509. Minimum Difference]()||||||
 |🔴|[1510. Stone Game IV]()||||||
 |🟢|[1511. Customer Order Fre]()||||||
-|🟢|[1512. Number of Good Pai]()||||||
+|🟢|[1512. Number of Good Pai]()|🟢 Oct 03, 2023|||||
 |🟡|[1513. Number of Substrin]()||||||
 |🟡|[1514. Path with Maximum ]()||||||
 |🔴|[1515. Best Position for ]()||||||
