@@ -264,7 +264,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[226. Invert Binary Tree]()|🟢 Feb 18, 2023|||||
 |🟡|[227. Basic Calculator II]()||||||
 |🟢|[228. Summary Ranges]()||||||
-|🟡|[229. Majority Element II]()||||||
+|🟡|[229. Majority Element II]()|🟡 Oct 05, 2023|||||
 |🟡|[230. Kth Smallest Elemen]()||||||
 |🟢|[231. Power of Two]()|🟢 Dec 17, 2022|||||
 |🟢|[232. Implement Queue usi]()|🟢 Dec 16, 2022|||||
