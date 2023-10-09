@@ -69,7 +69,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[31. Next Permutation]()||||||
 |🔴|[32. Longest Valid Parent]()||||||
 |🟡|[33. Search in Rotated So]()||||||
-|🟡|[34. Find First and Last ]()||||||
+|🟡|[34. Find First and Last ]()|🔴 Oct 09, 2023|||||
 |🟢|[35. Search Insert Positi]()|🟠 Oct 27, 2022|🟢 Feb 20, 2023||||
 |🟡|[36. Valid Sudoku]()||||||
 |🔴|[37. Sudoku Solver]()||||||
