@@ -2044,7 +2044,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2006. Count Number of Pa]()||||||
 |🟡|[2007. Find Original Arra]()||||||
 |🟡|[2008. Maximum Earnings F]()||||||
-|🔴|[2009. Minimum Number of ]()||||||
+|🔴|[2009. Minimum Number of ]()|🔴 Oct 10, 2023|||||
 |🔴|[2010. The Number of Seni]()||||||
 |🟢|[2011. Final Value of Var]()||||||
 |🟡|[2012. Sum of Beauty in t]()||||||
