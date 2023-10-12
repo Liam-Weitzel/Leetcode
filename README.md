@@ -1130,7 +1130,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1092. Shortest Common Su]()||||||
 |🟡|[1093. Statistics from a ]()||||||
 |🟡|[1094. Car Pooling]()||||||
-|🔴|[1095. Find in Mountain A]()||||||
+|🔴|[1095. Find in Mountain A]()|🔴 Oct 12, 2023|||||
 |🔴|[1096. Brace Expansion II]()||||||
 |🔴|[1097. Game Play Analysis]()||||||
 |🟡|[1098. Unpopular Books]()||||||
