@@ -781,7 +781,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[743. Network Delay Time]()||||||
 |🟢|[744. Find Smallest Lette]()||||||
 |🔴|[745. Prefix and Suffix S]()||||||
-|🟢|[746. Min Cost Climbing S]()|🔴 Nov 09, 2022|||||
+|🟢|[746. Min Cost Climbing S]()|🔴 Nov 09, 2022|🟢 Oct 13, 2023||||
 |🟢|[747. Largest Number At L]()||||||
 |🟢|[748. Shortest Completing]()||||||
 |🔴|[749. Contain Virus]()||||||
