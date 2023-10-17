@@ -1396,7 +1396,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1358. Number of Substrin]()||||||
 |🔴|[1359. Count All Valid Pi]()|🔴 Sep 10, 2023|||||
 |🟢|[1360. Number of Days Bet]()||||||
-|🟡|[1361. Validate Binary Tr]()||||||
+|🟡|[1361. Validate Binary Tr]()|🟢 Oct 17, 2023|||||
 |🟡|[1362. Closest Divisors]()||||||
 |🔴|[1363. Largest Multiple o]()||||||
 |🟡|[1364. Number of Trusted ]()||||||
