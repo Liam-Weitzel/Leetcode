@@ -2085,7 +2085,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2047. Number of Valid Wo]()||||||
 |🟡|[2048. Next Greater Numer]()||||||
 |🟡|[2049. Count Nodes With t]()||||||
-|🔴|[2050. Parallel Courses I]()||||||
+|🔴|[2050. Parallel Courses I]()|🔴 Oct 18, 2023|||||
 |🟡|[2051. The Category of Ea]()||||||
 |🟡|[2052. Minimum Cost to Se]()||||||
 |🟢|[2053. Kth Distinct Strin]()||||||
