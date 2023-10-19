@@ -879,7 +879,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[841. Keys and Rooms]()|🟢 Dec 20, 2022|||||
 |🟡|[842. Split Array into Fi]()||||||
 |🔴|[843. Guess the Word]()||||||
-|🟢|[844. Backspace String Co]()||||||
+|🟢|[844. Backspace String Co]()|🟡 Oct 19, 2023|||||
 |🟡|[845. Longest Mountain in]()||||||
 |🟡|[846. Hand of Straights]()||||||
 |🔴|[847. Shortest Path Visit]()||||||
