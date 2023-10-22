@@ -1828,7 +1828,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1790. Check if One Strin]()||||||
 |🟢|[1791. Find Center of Sta]()||||||
 |🟡|[1792. Maximum Average Pa]()||||||
-|🔴|[1793. Maximum Score of a]()||||||
+|🔴|[1793. Maximum Score of a]()|🔴 Oct 22, 2023|||||
 |🟡|[1794. Count Pairs of Equ]()||||||
 |🟢|[1795. Rearrange Products]()||||||
 |🟢|[1796. Second Largest Dig]()||||||
