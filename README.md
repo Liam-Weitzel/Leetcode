@@ -377,7 +377,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[339. Nested List Weight ]()||||||
 |🟡|[340. Longest Substring w]()||||||
 |🟡|[341. Flatten Nested List]()|🟢 Oct 20, 2023|||||
-|🟢|[342. Power of Four]()||||||
+|🟢|[342. Power of Four]()|🟢 Oct 23, 2023|||||
 |🟡|[343. Integer Break]()|🔴 Oct 06, 2023|||||
 |🟢|[344. Reverse String]()||||||
 |🟢|[345. Reverse Vowels of a]()||||||
