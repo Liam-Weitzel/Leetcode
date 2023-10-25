@@ -814,7 +814,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[776. Split BST]()||||||
 |🟡|[777. Swap Adjacent in LR]()||||||
 |🔴|[778. Swim in Rising Wate]()||||||
-|🟡|[779. K-th Symbol in Gram]()||||||
+|🟡|[779. K-th Symbol in Gram]()|🔴 Oct 25, 2023|||||
 |🔴|[780. Reaching Points]()||||||
 |🟡|[781. Rabbits in Forest]()||||||
 |🔴|[782. Transform to Chessb]()||||||
