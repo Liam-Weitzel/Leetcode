@@ -858,7 +858,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[820. Short Encoding of W]()||||||
 |🟢|[821. Shortest Distance t]()||||||
 |🟡|[822. Card Flipping Game]()||||||
-|🟡|[823. Binary Trees With F]()||||||
+|🟡|[823. Binary Trees With F]()|🔴 Oct 26, 2023|||||
 |🟢|[824. Goat Latin]()||||||
 |🟡|[825. Friends Of Appropri]()||||||
 |🟡|[826. Most Profit Assigni]()||||||
