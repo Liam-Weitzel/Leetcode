@@ -40,7 +40,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2. Add Two Numbers]()|🟢 Dec 03, 2022|||||
 |🟡|[3. Longest Substring With]()|🟢 Dec 12, 2022|||||
 |🔴|[4. Median of Two Sorted A]()|🟠 Dec 12, 2022|||||
-|🟡|[5. Longest Palindromic Su]()||||||
+|🟡|[5. Longest Palindromic Su]()|🔴 Oct 27, 2023|||||
 |🟡|[6. Zigzag Conversion]()|🟡 Dec 13, 2022|🟡 Feb 02, 2023||||
 |🟡|[7. Reverse Integer]()||||||
 |🟡|[8. String to Integer (at]()||||||
