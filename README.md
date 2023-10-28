@@ -1255,7 +1255,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1217. Minimum Cost to Mo]()||||||
 |🟡|[1218. Longest Arithmetic]()||||||
 |🟡|[1219. Path with Maximum ]()||||||
-|🔴|[1220. Count Vowels Permu]()||||||
+|🔴|[1220. Count Vowels Permu]()|🟡 Oct 28, 2023|||||
 |🟢|[1221. Split a String in ]()||||||
 |🟡|[1222. Queens That Can At]()||||||
 |🔴|[1223. Dice Roll Simulati]()||||||
