@@ -1391,7 +1391,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1353. Maximum Number of ]()||||||
 |🔴|[1354. Construct Target A]()||||||
 |🟡|[1355. Activity Participa]()||||||
-|🟢|[1356. Sort Integers by T]()||||||
+|🟢|[1356. Sort Integers by T]()|🟢 Oct 30, 2023|||||
 |🟡|[1357. Apply Discount Eve]()||||||
 |🟡|[1358. Number of Substrin]()||||||
 |🔴|[1359. Count All Valid Pi]()|🔴 Sep 10, 2023|||||
