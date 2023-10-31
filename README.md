@@ -2468,7 +2468,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[2430. Maximum Deletions ]()||||||
 |🟡|[2431. Maximize Total Tas]()||||||
 |🟢|[2432. The Employee That ]()||||||
-|🟡|[2433. Find The Original ]()||||||
+|🟡|[2433. Find The Original ]()|🟢 Oct 31, 2023|||||
 |🟡|[2434. Using a Robot to P]()||||||
 |🔴|[2435. Paths in Matrix Wh]()||||||
 |🟡|[2436. Minimum Split Into]()||||||
