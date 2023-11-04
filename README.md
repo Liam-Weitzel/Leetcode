@@ -1538,7 +1538,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1500. Design a File Shar]()||||||
 |🟡|[1501. Countries You Can ]()||||||
 |🟢|[1502. Can Make Arithmeti]()||||||
-|🟡|[1503. Last Moment Before]()||||||
+|🟡|[1503. Last Moment Before]()|🟢 Nov 04, 2023|||||
 |🟡|[1504. Count Submatrices ]()||||||
 |🔴|[1505. Minimum Possible I]()||||||
 |🟡|[1506. Find Root of N-Ary]()||||||
