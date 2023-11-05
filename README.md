@@ -1570,7 +1570,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1532. The Most Recent Th]()||||||
 |🟡|[1533. Find the Index of ]()||||||
 |🟢|[1534. Count Good Triplet]()||||||
-|🟡|[1535. Find the Winner of]()||||||
+|🟡|[1535. Find the Winner of]()|🟢 Nov 05, 2023|||||
 |🟡|[1536. Minimum Swaps to A]()||||||
 |🔴|[1537. Get the Maximum Sc]()||||||
 |🟡|[1538. Guess the Majority]()||||||
