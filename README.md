@@ -1956,7 +1956,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1918. Kth Smallest Subar]()||||||
 |🔴|[1919. Leetcodify Similar]()||||||
 |🟢|[1920. Build Array from P]()||||||
-|🟡|[1921. Eliminate Maximum ]()||||||
+|🟡|[1921. Eliminate Maximum ]()|🟢 Nov 07, 2023|||||
 |🟡|[1922. Count Good Numbers]()||||||
 |🔴|[1923. Longest Common Sub]()||||||
 |🔴|[1924. Erect the Fence II]()||||||
