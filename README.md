@@ -1794,7 +1794,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1756. Design Most Recent]()||||||
 |🟢|[1757. Recyclable and Low]()||||||
 |🟢|[1758. Minimum Changes To]()||||||
-|🟡|[1759. Count Number of Ho]()||||||
+|🟡|[1759. Count Number of Ho]()|🟢 Nov 09, 2023|||||
 |🟡|[1760. Minimum Limit of B]()||||||
 |🔴|[1761. Minimum Degree of ]()||||||
 |🟡|[1762. Buildings With an ]()||||||
