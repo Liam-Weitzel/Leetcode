@@ -1778,7 +1778,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1740. Find Distance in a]()||||||
 |🟢|[1741. Find Total Time Sp]()||||||
 |🟢|[1742. Maximum Number of ]()||||||
-|🟡|[1743. Restore the Array ]()||||||
+|🟡|[1743. Restore the Array ]()|🟢 Nov 10, 2023|||||
 |🟡|[1744. Can You Eat Your F]()||||||
 |🔴|[1745. Palindrome Partiti]()||||||
 |🟡|[1746. Maximum Subarray S]()||||||
