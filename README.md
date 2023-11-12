@@ -850,7 +850,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[812. Largest Triangle Ar]()||||||
 |🟡|[813. Largest Sum of Aver]()||||||
 |🟡|[814. Binary Tree Pruning]()||||||
-|🔴|[815. Bus Routes]()||||||
+|🔴|[815. Bus Routes]()|🔴 Nov 12, 2023|||||
 |🟡|[816. Ambiguous Coordinat]()||||||
 |🟡|[817. Linked List Compone]()||||||
 |🔴|[818. Race Car]()||||||
