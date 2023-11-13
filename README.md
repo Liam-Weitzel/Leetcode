@@ -2543,4 +2543,5 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2505. Bitwise OR of All ]()||||||
 |🔴|[2642. Design Graph With ]()|🔴 Nov 11, 2023|||||
 |🔴|[2742. Painting the Walls]()|🔴 Oct 14, 2023|||||
+|🟡|[2785. Sort Vowels in a S]()|🟢 Nov 13, 2023|||||
 |🟡|[2849. Determine if a Cel]()|🟢 Nov 08, 2023|||||
