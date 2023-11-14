@@ -1965,7 +1965,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1927. Sum Game]()||||||
 |🔴|[1928. Minimum Cost to Re]()||||||
 |🟢|[1929. Concatenation of A]()||||||
-|🟡|[1930. Unique Length-3 Pa]()||||||
+|🟡|[1930. Unique Length-3 Pa]()|🔴 Nov 14, 2023|||||
 |🔴|[1931. Painting a Grid Wi]()||||||
 |🔴|[1932. Merge BSTs to Crea]()||||||
 |🟢|[1933. Check if String Is]()||||||
