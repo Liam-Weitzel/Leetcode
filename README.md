@@ -1881,7 +1881,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1843. Suspicious Bank Ac]()||||||
 |🟢|[1844. Replace All Digits]()||||||
 |🟡|[1845. Seat Reservation M]()|🟢 Nov 06, 2023|||||
-|🟡|[1846. Maximum Element Af]()||||||
+|🟡|[1846. Maximum Element Af]()|🟢 Nov 15, 2023|||||
 |🔴|[1847. Closest Room]()||||||
 |🟢|[1848. Minimum Distance t]()||||||
 |🟡|[1849. Splitting a String]()||||||
