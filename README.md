@@ -2015,7 +2015,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1977. Number of Ways to ]()||||||
 |🟢|[1978. Employees Whose Ma]()||||||
 |🟢|[1979. Find Greatest Comm]()||||||
-|🟡|[1980. Find Unique Binary]()||||||
+|🟡|[1980. Find Unique Binary]()|🟡 Nov 16, 2023|||||
 |🟡|[1981. Minimize the Diffe]()||||||
 |🔴|[1982. Find Array Given S]()||||||
 |🟡|[1983. Widest Pair of Ind]()||||||
