@@ -1912,7 +1912,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1874. Minimize Product S]()||||||
 |🟡|[1875. Group Employees of]()||||||
 |🟢|[1876. Substrings of Size]()||||||
-|🟡|[1877. Minimize Maximum P]()||||||
+|🟡|[1877. Minimize Maximum P]()|🟢 Nov 17, 2023|||||
 |🟡|[1878. Get Biggest Three ]()||||||
 |🔴|[1879. Minimum XOR Sum of]()||||||
 |🟢|[1880. Check if Word Equa]()||||||
