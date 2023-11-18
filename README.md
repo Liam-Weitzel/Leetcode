@@ -1873,7 +1873,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1835. Find XOR Sum of Al]()||||||
 |🟡|[1836. Remove Duplicates ]()||||||
 |🟢|[1837. Sum of Digits in B]()||||||
-|🟡|[1838. Frequency of the M]()||||||
+|🟡|[1838. Frequency of the M]()|🟠 Nov 18, 2023|||||
 |🟡|[1839. Longest Substring ]()||||||
 |🔴|[1840. Maximum Building H]()||||||
 |🟡|[1841. League Statistics]()||||||
