@@ -1922,7 +1922,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1884. Egg Drop With 2 Eg]()||||||
 |🟡|[1885. Count Pairs in Two]()||||||
 |🟢|[1886. Determine Whether ]()||||||
-|🟡|[1887. Reduction Operatio]()||||||
+|🟡|[1887. Reduction Operatio]()|🟢 Nov 19, 2023|||||
 |🟡|[1888. Minimum Number of ]()||||||
 |🔴|[1889. Minimum Space Wast]()||||||
 |🟢|[1890. The Latest Login i]()||||||
