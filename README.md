@@ -2426,7 +2426,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[2388. Change Null Values]()||||||
 |🟢|[2389. Longest Subsequenc]()|🟡 Dec 25, 2022|||||
 |🟡|[2390. Removing Stars Fro]()|🟠 Apr 11, 2023|||||
-|🟡|[2391. Minimum Amount of ]()||||||
+|🟡|[2391. Minimum Amount of ]()|🟢 Nov 20, 2023|||||
 |🔴|[2392. Build a Matrix Wit]()||||||
 |🟡|[2393. Count Strictly Inc]()||||||
 |🟡|[2394. Employees With Ded]()||||||
