@@ -1849,7 +1849,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1811. Find Interview Can]()||||||
 |🟢|[1812. Determine Color of]()||||||
 |🟡|[1813. Sentence Similarit]()||||||
-|🟡|[1814. Count Nice Pairs i]()||||||
+|🟡|[1814. Count Nice Pairs i]()|🟢 Nov 21, 2023|||||
 |🔴|[1815. Maximum Number of ]()||||||
 |🟢|[1816. Truncate Sentence]()||||||
 |🟡|[1817. Finding the Users ]()||||||
