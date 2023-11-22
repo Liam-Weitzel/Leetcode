@@ -1459,7 +1459,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1421. NPV Queries]()||||||
 |🟢|[1422. Maximum Score Afte]()||||||
 |🟡|[1423. Maximum Points You]()||||||
-|🟡|[1424. Diagonal Traverse ]()||||||
+|🟡|[1424. Diagonal Traverse ]()|🟢 Nov 22, 2023|||||
 |🔴|[1425. Constrained Subseq]()|🔴 Oct 21, 2023|||||
 |🟢|[1426. Counting Elements]()||||||
 |🟢|[1427. Perform String Shi]()||||||
