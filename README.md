@@ -1665,7 +1665,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1627. Graph Connectivity]()||||||
 |🟡|[1628. Design an Expressi]()||||||
 |🟢|[1629. Slowest Key]()||||||
-|🟡|[1630. Arithmetic Subarra]()||||||
+|🟡|[1630. Arithmetic Subarra]()|🟠 Nov 23, 2023|||||
 |🟡|[1631. Path With Minimum ]()||||||
 |🔴|[1632. Rank Transform of ]()||||||
 |🟢|[1633. Percentage of User]()||||||
