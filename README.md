@@ -1762,7 +1762,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1724. Checking Existence]()||||||
 |🟢|[1725. Number Of Rectangl]()||||||
 |🟡|[1726. Tuple with Same Pr]()||||||
-|🟡|[1727. Largest Submatrix ]()||||||
+|🟡|[1727. Largest Submatrix ]()|🔴 Nov 26, 2023|||||
 |🔴|[1728. Cat and Mouse II]()||||||
 |🟢|[1729. Find Followers Cou]()||||||
 |🟡|[1730. Shortest Path to G]()||||||
