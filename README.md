@@ -970,7 +970,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[932. Beautiful Array]()||||||
 |🟢|[933. Number of Recent Ca]()||||||
 |🟡|[934. Shortest Bridge]()|🔴 May 21, 2023|||||
-|🟡|[935. Knight Dialer]()||||||
+|🟡|[935. Knight Dialer]()|🟠 Nov 27, 2023|||||
 |🔴|[936. Stamping The Sequen]()||||||
 |🟡|[937. Reorder Data in Log]()||||||
 |🟢|[938. Range Sum of BST]()|🟢 Dec 07, 2022|||||
