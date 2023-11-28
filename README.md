@@ -2182,7 +2182,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[2144. Minimum Cost of Bu]()||||||
 |🟡|[2145. Count the Hidden S]()||||||
 |🟡|[2146. K Highest Ranked I]()||||||
-|🔴|[2147. Number of Ways to ]()||||||
+|🔴|[2147. Number of Ways to ]()|🔴 Nov 28, 2023|||||
 |🟢|[2148. Count Elements Wit]()||||||
 |🟡|[2149. Rearrange Array El]()||||||
 |🟡|[2150. Find All Lonely Nu]()||||||
