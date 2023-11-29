@@ -226,7 +226,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[188. Best Time to Buy an]()||||||
 |🟡|[189. Rotate Array]()||||||
 |🟢|[190. Reverse Bits]()||||||
-|🟢|[191. Number of 1 Bits]()||||||
+|🟢|[191. Number of 1 Bits]()|🟡 Nov 29, 2023|||||
 |🟡|[192. Word Frequency]()||||||
 |🟢|[193. Valid Phone Numbers]()||||||
 |🟡|[194. Transpose File]()||||||
