@@ -1646,7 +1646,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[1608. Special Array With]()||||||
 |🟡|[1609. Even Odd Tree]()||||||
 |🔴|[1610. Maximum Number of ]()||||||
-|🔴|[1611. Minimum One Bit Op]()||||||
+|🔴|[1611. Minimum One Bit Op]()|🔴 Nov 30, 2023|||||
 |🟡|[1612. Check If Two Expre]()||||||
 |🟡|[1613. Find the Missing I]()||||||
 |🟢|[1614. Maximum Nesting De]()||||||
