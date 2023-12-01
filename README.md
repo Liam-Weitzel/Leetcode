@@ -1697,7 +1697,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1659. Maximize Grid Happ]()||||||
 |🟡|[1660. Correct a Binary T]()||||||
 |🟢|[1661. Average Time of Pr]()||||||
-|🟢|[1662. Check If Two Strin]()||||||
+|🟢|[1662. Check If Two Strin]()|🟢 Dec 01, 2023|||||
 |🟡|[1663. Smallest String Wi]()||||||
 |🟡|[1664. Ways to Make a Fai]()||||||
 |🔴|[1665. Minimum Initial En]()||||||
