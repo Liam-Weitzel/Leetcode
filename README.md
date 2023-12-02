@@ -1195,7 +1195,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1157. Online Majority El]()||||||
 |🟡|[1158. Market Analysis I]()||||||
 |🔴|[1159. Market Analysis II]()||||||
-|🟢|[1160. Find Words That Ca]()||||||
+|🟢|[1160. Find Words That Ca]()|🟢 Dec 02, 2023|||||
 |🟡|[1161. Maximum Level Sum ]()||||||
 |🟡|[1162. As Far from Land a]()|🔴 Feb 10, 2023|||||
 |🔴|[1163. Last Substring in ]()||||||
