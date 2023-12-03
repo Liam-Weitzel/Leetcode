@@ -1301,7 +1301,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1263. Minimum Moves to M]()||||||
 |🟡|[1264. Page Recommendatio]()||||||
 |🟡|[1265. Print Immutable Li]()||||||
-|🟢|[1266. Minimum Time Visit]()||||||
+|🟢|[1266. Minimum Time Visit]()|🟢 Dec 03, 2023|||||
 |🟡|[1267. Count Servers that]()||||||
 |🟡|[1268. Search Suggestions]()||||||
 |🔴|[1269. Number of Ways to ]()|🔴 Oct 15, 2023|||||
