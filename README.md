@@ -1723,7 +1723,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1685. Sum of Absolute Di]()|🟢 Nov 25, 2023|||||
 |🟡|[1686. Stone Game VI]()||||||
 |🔴|[1687. Delivering Boxes f]()||||||
-|🟢|[1688. Count of Matches i]()||||||
+|🟢|[1688. Count of Matches i]()|🟡 Dec 05, 2023|||||
 |🟡|[1689. Partitioning Into ]()||||||
 |🟡|[1690. Stone Game VII]()||||||
 |🔴|[1691. Maximum Height by ]()||||||
