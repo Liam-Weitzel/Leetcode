@@ -1751,7 +1751,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1713. Minimum Operations]()||||||
 |🔴|[1714. Sum Of Special Eve]()||||||
 |🟡|[1715. Count Apples and O]()||||||
-|🟢|[1716. Calculate Money in]()||||||
+|🟢|[1716. Calculate Money in]()|🟢 Dec 06, 2023|||||
 |🟡|[1717. Maximum Score From]()||||||
 |🟡|[1718. Construct the Lexi]()||||||
 |🔴|[1719. Number Of Ways To ]()||||||
