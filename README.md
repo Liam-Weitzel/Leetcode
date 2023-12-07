@@ -1938,7 +1938,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1900. The Earliest and L]()||||||
 |🟡|[1901. Find a Peak Elemen]()||||||
 |🟡|[1902. Depth of BST Given]()||||||
-|🟢|[1903. Largest Odd Number]()|🟢  Dec 07, 2023|||||
+|🟢|[1903. Largest Odd Number]()|🟢 Dec 07, 2023|||||
 |🟡|[1904. The Number of Full]()||||||
 |🟡|[1905. Count Sub Islands]()||||||
 |🟡|[1906. Minimum Absolute D]()||||||
