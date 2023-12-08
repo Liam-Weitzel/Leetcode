@@ -188,7 +188,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[150. Evaluate Reverse Po]()|🟢 Dec 17, 2022|||||
 |🟡|[151. Reverse Words in a ]()||||||
 |🟡|[152. Maximum Product Sub]()||||||
-|🟡|[153. Find Minimum in Rot]()||||||
+|🟡|[153. Find Minimum in Rot]()|🟢 Dec 08, 2023|||||
 |🔴|[154. Find Minimum in Rot]()||||||
 |🟡|[155. Min Stack]()||||||
 |🟡|[156. Binary Tree Upside ]()||||||
@@ -641,7 +641,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟢|[603. Consecutive Availab]()||||||
 |🟢|[604. Design Compressed S]()||||||
 |🟢|[605. Can Place Flowers]()|🟢 Mar 20, 2023|||||
-|🟢|[606. Construct String fr]()||||||
+|🟢|[606. Construct String fr]()|🟢 Dec 08, 2023|||||
 |🟢|[607. Sales Person]()||||||
 |🟡|[608. Tree Node]()||||||
 |🟡|[609. Find Duplicate File]()||||||
