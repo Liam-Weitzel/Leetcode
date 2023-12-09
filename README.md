@@ -68,7 +68,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[30. Substring with Conca]()||||||
 |🟡|[31. Next Permutation]()||||||
 |🔴|[32. Longest Valid Parent]()||||||
-|🟡|[33. Search in Rotated So]()||||||
+|🟡|[33. Search in Rotated So]()|🔴 Dec 09, 2023|||||
 |🟡|[34. Find First and Last ]()|🔴 Oct 09, 2023|||||
 |🟢|[35. Search Insert Positi]()|🟠 Oct 27, 2022|🟢 Feb 20, 2023||||
 |🟡|[36. Valid Sudoku]()||||||
@@ -129,7 +129,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[91. Decode Ways]()||||||
 |🟡|[92. Reverse Linked List ]()||||||
 |🟡|[93. Restore IP Addresses]()|🔴 Jan 21, 2023|||||
-|🟢|[94. Binary Tree Inorder ]()|🔴 Nov 22, 2023|||||
+|🟢|[94. Binary Tree Inorder ]()|🔴 Nov 22, 2023|🟢 Dec 09, 2023||||
 |🟡|[95. Unique Binary Search]()||||||
 |🟡|[96. Unique Binary Search]()||||||
 |🟡|[97. Interleaving String]()||||||
