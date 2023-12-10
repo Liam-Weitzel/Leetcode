@@ -902,7 +902,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[864. Shortest Path to Ge]()||||||
 |🟡|[865. Smallest Subtree wi]()||||||
 |🟡|[866. Prime Palindrome]()||||||
-|🟢|[867. Transpose Matrix]()||||||
+|🟢|[867. Transpose Matrix]()|🟢 Dec 10, 2023|||||
 |🟢|[868. Binary Gap]()||||||
 |🟡|[869. Reordered Power of ]()||||||
 |🟡|[870. Advantage Shuffle]()||||||
