@@ -1499,7 +1499,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🟡|[1461. Check If a String ]()||||||
 |🟡|[1462. Course Schedule IV]()||||||
 |🔴|[1463. Cherry Pickup II]()||||||
-|🟢|[1464. Maximum Product of]()||||||
+|🟢|[1464. Maximum Product of]()|🟢 Dec 12, 2023|||||
 |🟡|[1465. Maximum Area of a ]()||||||
 |🟡|[1466. Reorder Routes to ]()|🔴 Mar 24, 2023|||||
 |🔴|[1467. Probability of a T]()||||||
