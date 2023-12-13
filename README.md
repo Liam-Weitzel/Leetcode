@@ -1617,7 +1617,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[1579. Remove Max Number ]()|🔴 Apr 30, 2023|||||
 |🟡|[1580. Put Boxes Into the]()||||||
 |🟢|[1581. Customer Who Visit]()||||||
-|🟢|[1582. Special Positions ]()||||||
+|🟢|[1582. Special Positions ]()|🟢 Dec 13, 2023|||||
 |🟡|[1583. Count Unhappy Frie]()||||||
 |🟡|[1584. Min Cost to Connec]()||||||
 |🔴|[1585. Check If String Is]()||||||
