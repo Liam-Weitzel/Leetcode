@@ -2517,7 +2517,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[2479. Maximum XOR of Two]()||||||
 |🟢|[2480. Form a Chemical Bo]()||||||
 |🟢|[2481. Minimum Cuts to Di]()||||||
-|🟡|[2482. Difference Between]()||||||
+|🟡|[2482. Difference Between]()|🟢 Dec 14, 2023|||||
 |🟡|[2483. Minimum Penalty fo]()||||||
 |🔴|[2484. Count Palindromic ]()||||||
 |🟢|[2485. Find the Pivot Int]()||||||
