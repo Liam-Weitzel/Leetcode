@@ -277,7 +277,7 @@ Spaced repitition is a proven study method. This README is ingested using an AWS
 |🔴|[239. Sliding Window Maxi]()||||||
 |🟡|[240. Search a 2D Matrix ]()||||||
 |🟡|[241. Different Ways to A]()||||||
-|🟢|[242. Valid Anagram]()|🟢 Dec 13, 2022|🟢 Jul 07, 2023||||
+|🟢|[242. Valid Anagram]()|🟢 Dec 13, 2022|🟢 Jul 07, 2023|🟢 Dec 16, 2023|||
 |🟢|[243. Shortest Word Dista]()||||||
 |🟡|[244. Shortest Word Dista]()||||||
 |🟡|[245. Shortest Word Dista]()||||||
