@@ -1930,7 +1930,7 @@
 |🟡|[1910. Remove All Occurre]()||||||
 |🟡|[1911. Maximum Alternatin]()||||||
 |🔴|[1912. Design Movie Renta]()||||||
-|🟢|[1913. Maximum Product Di]()||||||
+|🟢|[1913. Maximum Product Di]()|🟢 Dec 18, 2023|||||
 |🟡|[1914. Cyclically Rotatin]()||||||
 |🟡|[1915. Number of Wonderfu]()||||||
 |🔴|[1916. Count Ways to Buil]()||||||
