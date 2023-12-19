@@ -678,7 +678,7 @@
 |🟡|[658. Find K Closest Elem]()||||||
 |🟡|[659. Split Array into Co]()||||||
 |🔴|[660. Remove 9]()||||||
-|🟢|[661. Image Smoother]()||||||
+|🟢|[661. Image Smoother]()|🟢 Dec 19, 2023|||||
 |🟡|[662. Maximum Width of Bi]()|🟠 Apr 20, 2023|||||
 |🟡|[663. Equal Tree Partitio]()||||||
 |🔴|[664. Strange Printer]()||||||
