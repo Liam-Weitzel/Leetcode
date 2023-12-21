@@ -1654,7 +1654,7 @@
 |🟡|[1634. Add Two Polynomial]()||||||
 |🔴|[1635. Hopper Company Que]()||||||
 |🟢|[1636. Sort Array by Incr]()||||||
-|🟡|[1637. Widest Vertical Ar]()||||||
+|🟡|[1637. Widest Vertical Ar]()|🟢 Dec 21, 2023|||||
 |🟡|[1638. Count Substrings T]()||||||
 |🔴|[1639. Number of Ways to ]()|🔴 Apr 16, 2023|||||
 |🟢|[1640. Check Array Format]()||||||
