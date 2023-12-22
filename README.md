@@ -1439,7 +1439,7 @@
 |🟡|[1419. Minimum Number of ]()||||||
 |🔴|[1420. Build Array Where ]()||||||
 |🟢|[1421. NPV Queries]()||||||
-|🟢|[1422. Maximum Score Afte]()||||||
+|🟢|[1422. Maximum Score Afte]()|🟢 Dec 22, 2023|||||
 |🟡|[1423. Maximum Points You]()||||||
 |🟡|[1424. Diagonal Traverse ]()|🟢 Nov 22, 2023|||||
 |🔴|[1425. Constrained Subseq]()|🔴 Oct 21, 2023|||||
