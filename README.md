@@ -1513,7 +1513,7 @@
 |🟡|[1493. Longest Subarray o]()||||||
 |🔴|[1494. Parallel Courses I]()||||||
 |🟢|[1495. Friendly Movies St]()||||||
-|🟢|[1496. Path Crossing]()||||||
+|🟢|[1496. Path Crossing]()|🟢 Dec 23, 2023|||||
 |🟡|[1497. Check If Array Pai]()||||||
 |🟡|[1498. Number of Subseque]()|🔴 May 06, 2023|||||
 |🔴|[1499. Max Value of Equat]()||||||
