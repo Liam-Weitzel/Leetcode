@@ -1775,7 +1775,7 @@
 |🔴|[1755. Closest Subsequenc]()||||||
 |🟡|[1756. Design Most Recent]()||||||
 |🟢|[1757. Recyclable and Low]()||||||
-|🟢|[1758. Minimum Changes To]()||||||
+|🟢|[1758. Minimum Changes To]()|🟢 Dec 24, 2023|||||
 |🟡|[1759. Count Number of Ho]()|🟢 Nov 09, 2023|||||
 |🟡|[1760. Minimum Limit of B]()||||||
 |🔴|[1761. Minimum Degree of ]()||||||
