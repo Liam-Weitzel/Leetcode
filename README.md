@@ -1548,7 +1548,7 @@
 |🟢|[1528. Shuffle String]()||||||
 |🟡|[1529. Minimum Suffix Fli]()||||||
 |🟡|[1530. Number of Good Lea]()||||||
-|🔴|[1531. String Compression]()||||||
+|🔴|[1531. String Compression]()|🔴 Dec 28, 2023|||||
 |🟡|[1532. The Most Recent Th]()||||||
 |🟡|[1533. Find the Index of ]()||||||
 |🟢|[1534. Count Good Triplet]()||||||
