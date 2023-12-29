@@ -1352,7 +1352,7 @@
 |🟢|[1332. Remove Palindromic]()||||||
 |🟡|[1333. Filter Restaurants]()||||||
 |🟡|[1334. Find the City With]()||||||
-|🔴|[1335. Minimum Difficulty]()||||||
+|🔴|[1335. Minimum Difficulty]()|🔴 Dec 29, 2023|||||
 |🔴|[1336. Number of Transact]()||||||
 |🟢|[1337. The K Weakest Rows]()||||||
 |🟡|[1338. Reduce Array Size ]()||||||
