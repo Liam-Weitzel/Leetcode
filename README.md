@@ -1914,7 +1914,7 @@
 |🟡|[1894. Find the Student t]()||||||
 |🟡|[1895. Largest Magic Squa]()||||||
 |🔴|[1896. Minimum Cost to Ch]()||||||
-|🟢|[1897. Redistribute Chara]()||||||
+|🟢|[1897. Redistribute Chara]()|🟢 Dec 30, 2023|||||
 |🟡|[1898. Maximum Number of ]()||||||
 |🟡|[1899. Merge Triplets to ]()||||||
 |🔴|[1900. The Earliest and L]()||||||
