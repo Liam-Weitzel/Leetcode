@@ -472,7 +472,7 @@
 |🟡|[452. Minimum Number of A]()|🔴 Jan 05, 2023|||||
 |🟡|[453. Minimum Moves to Eq]()||||||
 |🟡|[454. 4Sum II]()||||||
-|🟢|[455. Assign Cookies]()||||||
+|🟢|[455. Assign Cookies]()|🟢 Jan 01, 2024|||||
 |🟡|[456. 132 Pattern]()||||||
 |🟡|[457. Circular Array Loop]()||||||
 |🔴|[458. Poor Pigs]()|🔴 Oct 29, 2023|||||
