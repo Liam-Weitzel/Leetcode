@@ -2525,6 +2525,7 @@
 |🟡|[2505. Bitwise OR of All ]()||||||
 |🟡|[2610. Convert an Array I]()|🟢 Jan 02, 2024|||||
 |🔴|[2642. Design Graph With ]()|🔴 Nov 11, 2023|||||
+|🟡|[2870. Minimum Number of ]()|🟡 Jan 04, 2024|||||
 |🟢|[2706. Buy Two Chocolates]()|🟢 Dec 20, 2023|||||
 |🔴|[2742. Painting the Walls]()|🔴 Oct 14, 2023|||||
 |🟡|[2785. Sort Vowels in a S]()|🟢 Nov 13, 2023|||||
