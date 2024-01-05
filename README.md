@@ -317,7 +317,7 @@
 |🔴|[297. Serialize and Deser]()||||||
 |🟡|[298. Binary Tree Longest]()||||||
 |🟡|[299. Bulls and Cows]()||||||
-|🟡|[300. Longest Increasing ]()||||||
+|🟡|[300. Longest Increasing ]()|🔴 Jan 05, 2024|||||
 |🔴|[301. Remove Invalid Pare]()||||||
 |🔴|[302. Smallest Rectangle ]()||||||
 |🟢|[303. Range Sum Query - I]()||||||
