@@ -1252,7 +1252,7 @@
 |🟢|[1232. Check If It Is a S]()||||||
 |🟡|[1233. Remove Sub-Folders]()||||||
 |🟡|[1234. Replace the Substr]()||||||
-|🔴|[1235. Maximum Profit in ]()||||||
+|🔴|[1235. Maximum Profit in ]()|🔴 Jan 06, 2024|||||
 |🟡|[1236. Web Crawler]()||||||
 |🟡|[1237. Find Positive Inte]()||||||
 |🟡|[1238. Circular Permutati]()||||||
