@@ -463,7 +463,7 @@
 |🟡|[443. String Compression]()|🔴 Mar 02, 2022|||||
 |🟡|[444. Sequence Reconstruc]()||||||
 |🟡|[445. Add Two Numbers II]()||||||
-|🔴|[446. Arithmetic Slices I]()||||||
+|🔴|[446. Arithmetic Slices I]()|🔴 Jan 07, 2024|||||
 |🟡|[447. Number of Boomerang]()||||||
 |🟢|[448. Find All Numbers Di]()||||||
 |🟡|[449. Serialize and Deser]()||||||
