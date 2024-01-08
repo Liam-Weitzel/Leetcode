@@ -955,7 +955,7 @@
 |🟡|[935. Knight Dialer]()|🟠 Nov 27, 2023|||||
 |🔴|[936. Stamping The Sequen]()||||||
 |🟡|[937. Reorder Data in Log]()||||||
-|🟢|[938. Range Sum of BST]()|🟢 Dec 07, 2022|||||
+|🟢|[938. Range Sum of BST]()|🟢 Dec 07, 2022|🟢 Jan 08, 2024||||
 |🟡|[939. Minimum Area Rectan]()||||||
 |🔴|[940. Distinct Subsequenc]()||||||
 |🟢|[941. Valid Mountain Arra]()||||||
