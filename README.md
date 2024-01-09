@@ -889,7 +889,7 @@
 |🟡|[869. Reordered Power of ]()||||||
 |🟡|[870. Advantage Shuffle]()||||||
 |🔴|[871. Minimum Number of R]()||||||
-|🟢|[872. Leaf-Similar Trees]()|🟢 Dec 08, 2022|||||
+|🟢|[872. Leaf-Similar Trees]()|🟢 Dec 08, 2022|🟢 Jan 09, 2024||||
 |🟡|[873. Length of Longest F]()||||||
 |🟡|[874. Walking Robot Simul]()||||||
 |🟡|[875. Koko Eating Bananas]()|🟢 Mar 08, 2023|||||
