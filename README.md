@@ -2402,7 +2402,7 @@
 |🔴|[2382. Maximum Segment Su]()||||||
 |🟢|[2383. Minimum Hours of T]()||||||
 |🟡|[2384. Largest Palindromi]()||||||
-|🟡|[2385. Amount of Time for]()||||||
+|🟡|[2385. Amount of Time for]()|🟢 Jan 10, 2024|||||
 |🔴|[2386. Find the K-Sum of ]()||||||
 |🟡|[2387. Median of a Row Wi]()||||||
 |🟡|[2388. Change Null Values]()||||||
