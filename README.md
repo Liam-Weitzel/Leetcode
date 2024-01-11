@@ -1043,7 +1043,7 @@
 |🟡|[1023. Camelcase Matching]()||||||
 |🟡|[1024. Video Stitching]()||||||
 |🟢|[1025. Divisor Game]()||||||
-|🟡|[1026. Maximum Difference]()|🟢 Dec 09, 2022|||||
+|🟡|[1026. Maximum Difference]()|🟢 Dec 09, 2022|🟢 Jan 11, 2024||||
 |🟡|[1027. Longest Arithmetic]()||||||
 |🔴|[1028. Recover a Tree Fro]()||||||
 |🟡|[1029. Two City Schedulin]()||||||
