@@ -1721,7 +1721,7 @@
 |🟡|[1701. Average Waiting Ti]()||||||
 |🟡|[1702. Maximum Binary Str]()||||||
 |🔴|[1703. Minimum Adjacent S]()||||||
-|🟢|[1704. Determine if Strin]()||||||
+|🟢|[1704. Determine if Strin]()|🟢 Jan 12, 2024|||||
 |🟡|[1705. Maximum Number of ]()||||||
 |🟡|[1706. Where Will the Bal]()||||||
 |🔴|[1707. Maximum XOR With a]()||||||
