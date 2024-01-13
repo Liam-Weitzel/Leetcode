@@ -1364,7 +1364,7 @@
 |🟡|[1344. Angle Between Hand]()||||||
 |🔴|[1345. Jump Game IV]()|🔴 Mar 05, 2023|||||
 |🟢|[1346. Check If N and Its]()||||||
-|🟡|[1347. Minimum Number of ]()||||||
+|🟡|[1347. Minimum Number of ]()|🟢 Jan 13, 2024|||||
 |🟡|[1348. Tweet Counts Per F]()||||||
 |🔴|[1349. Maximum Students T]()||||||
 |🟢|[1350. Students With Inva]()||||||
