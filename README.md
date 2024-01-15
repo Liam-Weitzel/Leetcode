@@ -2242,7 +2242,7 @@
 |🟡|[2222. Number of Ways to ]()||||||
 |🔴|[2223. Sum of Scores of B]()||||||
 |🟢|[2224. Minimum Number of ]()||||||
-|🟡|[2225. Find Players With ]()||||||
+|🟡|[2225. Find Players With ]()|🟢 Jan 15, 2023|||||
 |🟡|[2226. Maximum Candies Al]()||||||
 |🔴|[2227. Encrypt and Decryp]()||||||
 |🟡|[2228. Users With Two Pur]()||||||
