@@ -397,7 +397,7 @@
 |🟡|[377. Combination Sum IV]()|🟢 Sep 09, 2023|||||
 |🟡|[378. Kth Smallest Elemen]()||||||
 |🟡|[379. Design Phone Direct]()||||||
-|🟡|[380. Insert Delete GetRa]()||||||
+|🟡|[380. Insert Delete GetRa]()|🔴 Jan 16, 2024|||||
 |🔴|[381. Insert Delete GetRa]()||||||
 |🟡|[382. Linked List Random ]()|🟢 Mar 10, 2023|||||
 |🟢|[383. Ransom Note]()||||||
