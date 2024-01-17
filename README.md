@@ -1224,7 +1224,7 @@
 |🟡|[1204. Last Person to Fit]()||||||
 |🟡|[1205. Monthly Transactio]()||||||
 |🔴|[1206. Design Skiplist]()||||||
-|🟢|[1207. Unique Number of O]()|🔴 Nov 30, 2022|||||
+|🟢|[1207. Unique Number of O]()|🔴 Nov 30, 2022|🟢 Jan 17, 2024||||
 |🟡|[1208. Get Equal Substrin]()||||||
 |🟡|[1209. Remove All Adjacen]()||||||
 |🔴|[1210. Minimum Moves to R]()||||||
