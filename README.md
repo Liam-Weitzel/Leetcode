@@ -87,7 +87,7 @@
 |🟢|[67. Add Binary]()|🟡 Feb 14, 2023|||||
 |🔴|[68. Text Justification]()||||||
 |🟢|[69. Sqrt(x)]()||||||
-|🟢|[70. Climbing Stairs]()|🟢 Nov 08, 2022|🟢 Dec 12, 2022||||
+|🟢|[70. Climbing Stairs]()|🟢 Nov 08, 2022|🟢 Dec 12, 2022|🟢 Jan 18, 2024|||
 |🟡|[71. Simplify Path]()|🔴 Apr 12, 2023|||||
 |🔴|[72. Edit Distance]()|🔴 Feb 26, 2023|||||
 |🟡|[73. Set Matrix Zeroes]()||||||
