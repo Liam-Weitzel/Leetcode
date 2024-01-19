@@ -948,7 +948,7 @@
 |🔴|[928. Minimize Malware Sp]()||||||
 |🟢|[929. Unique Email Addres]()||||||
 |🟡|[930. Binary Subarrays Wi]()||||||
-|🟡|[931. Minimum Falling Pat]()|🟡 Dec 13, 2022|🟢 Dec 16, 2022||||
+|🟡|[931. Minimum Falling Pat]()|🟡 Dec 13, 2022|🟢 Dec 16, 2022|🟢 Jan 19, 2024|||
 |🟡|[932. Beautiful Array]()||||||
 |🟢|[933. Number of Recent Ca]()||||||
 |🟡|[934. Shortest Bridge]()|🔴 May 21, 2023|||||
