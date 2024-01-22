@@ -662,7 +662,7 @@
 |🔴|[642. Design Search Autoc]()||||||
 |🟢|[643. Maximum Average Sub]()||||||
 |🔴|[644. Maximum Average Sub]()||||||
-|🟢|[645. Set Mismatch]()||||||
+|🟢|[645. Set Mismatch]()|🟢 Jan 22, 2024|||||
 |🟡|[646. Maximum Length of P]()||||||
 |🟡|[647. Palindromic Substri]()||||||
 |🟡|[648. Replace Words]()||||||
