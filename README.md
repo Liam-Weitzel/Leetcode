@@ -1474,7 +1474,7 @@
 |🟡|[1454. Active Users]()||||||
 |🟢|[1455. Check If a Word Oc]()||||||
 |🟡|[1456. Maximum Number of ]()|🟡 May 05, 2023|||||
-|🟡|[1457. Pseudo-Palindromic]()||||||
+|🟡|[1457. Pseudo-Palindromic]()|🟢 Jan 24, 2024|||||
 |🔴|[1458. Max Dot Product of]()||||||
 |🟡|[1459. Rectangles Area]()||||||
 |🟢|[1460. Make Two Arrays Eq]()||||||
