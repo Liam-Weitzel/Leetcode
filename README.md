@@ -1160,7 +1160,7 @@
 |🟡|[1140. Stone Game II]()||||||
 |🟢|[1141. User Activity for ]()||||||
 |🟢|[1142. User Activity for ]()||||||
-|🟡|[1143. Longest Common Sub]()|🔴 Dec 15, 2022|||||
+|🟡|[1143. Longest Common Sub]()|🔴 Dec 15, 2022|🔴 Jan 25, 2024||||
 |🟡|[1144. Decrease Elements ]()||||||
 |🟡|[1145. Binary Tree Colori]()||||||
 |🟡|[1146. Snapshot Array]()||||||
