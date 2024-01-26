@@ -593,7 +593,7 @@
 |🟡|[573. Squirrel Simulation]()||||||
 |🟡|[574. Winning Candidate]()||||||
 |🟢|[575. Distribute Candies]()||||||
-|🟡|[576. Out of Boundary Pat]()||||||
+|🟡|[576. Out of Boundary Pat]()|🔴 Jan 26, 2024|||||
 |🟢|[577. Employee Bonus]()||||||
 |🟡|[578. Get Highest Answer ]()||||||
 |🔴|[579. Find Cumulative Sal]()||||||
