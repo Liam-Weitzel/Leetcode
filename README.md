@@ -646,7 +646,7 @@
 |🟡|[626. Exchange Seats]()|🟢 Jan 07, 2022|||||
 |🟢|[627. Swap Salary]()|🟢 Jan 06, 2022|||||
 |🟢|[628. Maximum Product of ]()||||||
-|🔴|[629. K Inverse Pairs Arr]()||||||
+|🔴|[629. K Inverse Pairs Arr]()|🔴 Jan 27, 2024|||||
 |🔴|[630. Course Schedule III]()||||||
 |🔴|[631. Design Excel Sum Fo]()||||||
 |🔴|[632. Smallest Range Cove]()||||||
