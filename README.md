@@ -1091,7 +1091,7 @@
 |🟢|[1071. Greatest Common Di]()|🟡 Feb 01, 2023|||||
 |🟡|[1072. Flip Columns For M]()||||||
 |🟡|[1073. Adding Two Negabin]()||||||
-|🔴|[1074. Number of Submatri]()||||||
+|🔴|[1074. Number of Submatri]()|🔴 Jan 28, 2024|||||
 |🟢|[1075. Project Employees ]()||||||
 |🟢|[1076. Project Employees ]()||||||
 |🟡|[1077. Project Employees ]()||||||
