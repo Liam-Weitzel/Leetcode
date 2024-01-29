@@ -249,7 +249,7 @@
 |🟡|[229. Majority Element II]()|🟡 Oct 05, 2023|||||
 |🟡|[230. Kth Smallest Elemen]()||||||
 |🟢|[231. Power of Two]()|🟢 Dec 17, 2022|||||
-|🟢|[232. Implement Queue usi]()|🟢 Dec 16, 2022|||||
+|🟢|[232. Implement Queue usi]()|🟢 Dec 16, 2022|🟢 Jan 29, 2024||||
 |🔴|[233. Number of Digit One]()||||||
 |🟢|[234. Palindrome Linked L]()||||||
 |🟡|[235. Lowest Common Ances]()|🟢 Nov 07, 2022|||||
