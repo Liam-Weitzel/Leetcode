@@ -756,7 +756,7 @@
 |🔴|[736. Parse Lisp Expressi]()||||||
 |🟡|[737. Sentence Similarity]()||||||
 |🟡|[738. Monotone Increasing]()||||||
-|🟡|[739. Daily Temperatures]()|🟠 Dec 17, 2022|🟢 Dec 18, 2022||||
+|🟡|[739. Daily Temperatures]()|🟠 Dec 17, 2022|🟢 Dec 18, 2022|🟡 Jan 31, 2024|||
 |🟡|[740. Delete and Earn]()||||||
 |🔴|[741. Cherry Pickup]()||||||
 |🟡|[742. Closest Leaf in a B]()||||||
