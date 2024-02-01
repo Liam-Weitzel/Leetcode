@@ -2530,3 +2530,4 @@
 |🔴|[2742. Painting the Walls]()|🔴 Oct 14, 2023|||||
 |🟡|[2785. Sort Vowels in a S]()|🟢 Nov 13, 2023|||||
 |🟡|[2849. Determine if a Cel]()|🟢 Nov 08, 2023|||||
+|🟡|[2966. Divide Array Into ]()|🟢 Feb 01, 2024|||||
