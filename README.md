@@ -1308,7 +1308,7 @@
 |🟡|[1288. Remove Covered Int]()||||||
 |🔴|[1289. Minimum Falling Pa]()||||||
 |🟢|[1290. Convert Binary Num]()||||||
-|🟡|[1291. Sequential Digits]()||||||
+|🟡|[1291. Sequential Digits]()|🟡 Feb 02, 2024|||||
 |🟡|[1292. Maximum Side Lengt]()||||||
 |🔴|[1293. Shortest Path in a]()||||||
 |🟢|[1294. Weather Type in Ea]()||||||
