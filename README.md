@@ -93,7 +93,7 @@
 |🟡|[73. Set Matrix Zeroes]()||||||
 |🟡|[74. Search a 2D Matrix]()||||||
 |🟡|[75. Sort Colors]()||||||
-|🔴|[76. Minimum Window Subst]()||||||
+|🔴|[76. Minimum Window Subst]()|🔴 Feb 04, 2024|||||
 |🟡|[77. Combinations]()||||||
 |🟡|[78. Subsets]()||||||
 |🟡|[79. Word Search]()||||||
