@@ -404,7 +404,7 @@
 |🟡|[384. Shuffle an Array]()||||||
 |🟡|[385. Mini Parser]()||||||
 |🟡|[386. Lexicographical Num]()||||||
-|🟢|[387. First Unique Charac]()||||||
+|🟢|[387. First Unique Charac]()|🟢 Feb 05, 2024|||||
 |🟡|[388. Longest Absolute Fi]()||||||
 |🟢|[389. Find the Difference]()||||||
 |🟡|[390. Elimination Game]()||||||
