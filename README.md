@@ -66,7 +66,7 @@
 |🟡|[46. Permutations]()||||||
 |🟡|[47. Permutations II]()||||||
 |🟡|[48. Rotate Image]()||||||
-|🟡|[49. Group Anagrams]()|🟢 Dec 13, 2022|🟢 Jul 8, 2023||||
+|🟡|[49. Group Anagrams]()|🟢 Dec 13, 2022|🟢 Jul 08, 2023|🟢 Feb 06, 2024|||
 |🟡|[50. Pow(x, n)]()||||||
 |🔴|[51. N-Queens]()||||||
 |🔴|[52. N-Queens II]()||||||
