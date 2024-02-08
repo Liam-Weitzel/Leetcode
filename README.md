@@ -296,7 +296,7 @@
 |🟡|[276. Paint Fence]()||||||
 |🟡|[277. Find the Celebrity]()||||||
 |🟢|[278. First Bad Version]()|🟠 Oct 27, 2022|🟢 Nov 06, 2022||||
-|🟡|[279. Perfect Squares]()||||||
+|🟡|[279. Perfect Squares]()|🟡 Feb 08, 2024|||||
 |🟡|[280. Wiggle Sort]()||||||
 |🟡|[281. Zigzag Iterator]()||||||
 |🔴|[282. Expression Add Oper]()||||||
