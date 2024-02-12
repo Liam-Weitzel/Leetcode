@@ -186,7 +186,7 @@
 |🟡|[166. Fraction to Recurri]()||||||
 |🟡|[167. Two Sum II - Input ]()||||||
 |🟢|[168. Excel Sheet Column ]()||||||
-|🟢|[169. Majority Element]()||||||
+|🟢|[169. Majority Element]()|🟢 Feb 12, 2024|||||
 |🟢|[170. Two Sum III - Data ]()||||||
 |🟢|[171. Excel Sheet Column ]()||||||
 |🟡|[172. Factorial Trailing ]()||||||
