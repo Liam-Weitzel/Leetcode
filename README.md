@@ -2125,7 +2125,7 @@
 |🟡|[2105. Watering Plants II]()||||||
 |🔴|[2106. Maximum Fruits Har]()||||||
 |🟡|[2107. Number of Unique F]()||||||
-|🟢|[2108. Find First Palindr]()||||||
+|🟢|[2108. Find First Palindr]()|🟢 Feb 13, 2024|||||
 |🟡|[2109. Adding Spaces to a]()||||||
 |🟡|[2110. Number of Smooth D]()||||||
 |🔴|[2111. Minimum Operations]()||||||
