@@ -1498,7 +1498,7 @@
 |🔴|[1478. Allocate Mailboxes]()||||||
 |🔴|[1479. Sales by Day of th]()||||||
 |🟢|[1480. Running Sum of 1d ]()|🟢 Oct 27, 2022|||||
-|🟡|[1481. Least Number of Un]()||||||
+|🟡|[1481. Least Number of Un]()|🟢 Feb 16, 2024|||||
 |🟡|[1482. Minimum Number of ]()||||||
 |🔴|[1483. Kth Ancestor of a ]()||||||
 |🟢|[1484. Group Sold Product]()||||||
