@@ -1659,7 +1659,7 @@
 |🔴|[1639. Number of Ways to ]()|🔴 Apr 16, 2023|||||
 |🟢|[1640. Check Array Format]()||||||
 |🟡|[1641. Count Sorted Vowel]()||||||
-|🟡|[1642. Furthest Building ]()||||||
+|🟡|[1642. Furthest Building ]()|🟠 Feb 17, 2024|||||
 |🔴|[1643. Kth Smallest Instr]()||||||
 |🟡|[1644. Lowest Common Ance]()||||||
 |🔴|[1645. Hopper Company Que]()||||||
