@@ -2419,7 +2419,7 @@
 |🟢|[2399. Check Distances Be]()||||||
 |🟡|[2400. Number of Ways to ]()||||||
 |🟡|[2401. Longest Nice Subar]()||||||
-|🔴|[2402. Meeting Rooms III]()||||||
+|🔴|[2402. Meeting Rooms III]()|🟠 Feb 18, 2024|||||
 |🔴|[2403. Minimum Time to Ki]()||||||
 |🟢|[2404. Most Frequent Even]()||||||
 |🟡|[2405. Optimal Partition ]()|🟢 Apr 04, 2023|||||
