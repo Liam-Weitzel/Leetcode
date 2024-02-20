@@ -285,7 +285,7 @@
 |🔴|[265. Paint House II]()||||||
 |🟢|[266. Palindrome Permutat]()||||||
 |🟡|[267. Palindrome Permutat]()||||||
-|🟢|[268. Missing Number]()||||||
+|🟢|[268. Missing Number]()|🟢 Feb 20, 2024|||||
 |🔴|[269. Alien Dictionary]()||||||
 |🟢|[270. Closest Binary Sear]()||||||
 |🟡|[271. Encode and Decode S]()||||||
