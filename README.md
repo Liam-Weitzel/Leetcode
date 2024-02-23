@@ -804,7 +804,7 @@
 |🟡|[784. Letter Case Permuta]()||||||
 |🟡|[785. Is Graph Bipartite?]()|🟡 May 19, 2023|||||
 |🟡|[786. K-th Smallest Prime]()||||||
-|🟡|[787. Cheapest Flights Wi]()|🔴 Jan 26, 2023|||||
+|🟡|[787. Cheapest Flights Wi]()|🔴 Jan 26, 2023|🔴 Feb 23, 2024||||
 |🟡|[788. Rotated Digits]()||||||
 |🟡|[789. Escape The Ghosts]()||||||
 |🟡|[790. Domino and Tromino ]()|🔴 Dec 24, 2022|||||
