@@ -2109,7 +2109,7 @@
 |🟢|[2089. Find Target Indice]()||||||
 |🟡|[2090. K Radius Subarray ]()||||||
 |🟡|[2091. Removing Minimum a]()||||||
-|🔴|[2092. Find All People Wi]()||||||
+|🔴|[2092. Find All People Wi]()|🔴 Feb 24, 2024|||||
 |🟡|[2093. Minimum Cost to Re]()||||||
 |🟢|[2094. Finding 3-Digit Ev]()||||||
 |🟡|[2095. Delete the Middle ]()||||||
