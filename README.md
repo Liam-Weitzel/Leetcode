@@ -994,7 +994,7 @@
 |🟡|[974. Subarray Sums Divis]()|🟡 Jan 19, 2023|||||
 |🔴|[975. Odd Even Jump]()||||||
 |🟢|[976. Largest Perimeter T]()||||||
-|🟢|[977. Squares of a Sorted]()||||||
+|🟢|[977. Squares of a Sorted](977.cpp)|🟢 Mar 02, 2024|||||
 |🟡|[978. Longest Turbulent S]()||||||
 |🟡|[979. Distribute Coins in]()||||||
 |🔴|[980. Unique Paths III]()|🟢 Dec 31, 2022|||||
