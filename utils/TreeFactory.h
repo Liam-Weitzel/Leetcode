@@ -6,7 +6,7 @@
 
 class TreeFactory {
 public:
-  TreeNode* createTree(const std::vector<int>& input);
+  static TreeNode* CreateTree(const std::vector<int>& input);
 };
 
 #endif // TREEFACTORY_H

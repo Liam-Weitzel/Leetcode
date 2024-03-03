@@ -1,8 +1,7 @@
 #include <iostream>
-#include "TreeNode.h"
 #include "TreePrinter.h"
 
-void TreePrinter::printTree(const std::string& prefix, TreeNode* node, bool isLeft) {
+void TreePrinter::PrintTree(const std::string& prefix, TreeNode* node, bool isLeft) {
   if( node != nullptr ) {
     std::cout << prefix;
 
@@ -12,11 +11,11 @@ void TreePrinter::printTree(const std::string& prefix, TreeNode* node, bool isLe
     std::cout << node->val << std::endl;
 
     // enter the next tree level - left and right branch
-    printTree( prefix + (isLeft ? "│   " : "    "), node->left, node->right);
-    printTree( prefix + (isLeft ? "│   " : "    "), node->right, false);
+    PrintTree( prefix + (isLeft ? "│   " : "    "), node->left, node->right);
+    PrintTree( prefix + (isLeft ? "│   " : "    "), node->right, false);
   }
 }
 
-void TreePrinter::printTree(TreeNode* root) {
-  printTree("", root, false);    
+void TreePrinter::PrintTree(TreeNode* root) {
+  PrintTree("", root, false);
 }

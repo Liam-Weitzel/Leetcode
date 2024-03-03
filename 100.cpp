@@ -48,13 +48,10 @@ int main (int argc, char *argv[]) {
   std::vector<int> pVec = {1,2,3,4};
   std::vector<int> qVec = {1,2,3};
 
-  TreeFactory factory;
-  TreeNode* p = factory.createTree(pVec);
-  TreeNode* q = factory.createTree(qVec);
-
-  TreePrinter printer;
-  printer.printTree(p);
-  printer.printTree(q);
+  TreeNode* p = TreeFactory::CreateTree(pVec);
+  TreeNode* q = TreeFactory::CreateTree(qVec);
+  TreePrinter::PrintTree(p);
+  TreePrinter::PrintTree(q);
 
   std::unique_ptr<Solution> res = std::make_unique<Solution>();
   std::cout << res->isSameTree(p, q) << std::endl;

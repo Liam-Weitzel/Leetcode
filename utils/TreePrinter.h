@@ -6,8 +6,8 @@
 
 class TreePrinter {
 public:
-  void printTree(const std::string& prefix, TreeNode* root, bool isLeft);
-  void printTree(TreeNode* root);
+  static void PrintTree(const std::string& prefix, TreeNode* root, bool isLeft);
+  static void PrintTree(TreeNode* root);
 };
 
 #endif // TREEPRINTER_H

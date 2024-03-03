@@ -1,8 +1,7 @@
 #include "TreeFactory.h"
 #include <queue>
 
-
-TreeNode* TreeFactory::createTree(const std::vector<int>& input) {
+TreeNode* TreeFactory::CreateTree(const std::vector<int>& input) {
   if (input.empty() || input[0] == -1) return nullptr;
 
   TreeNode* root = new TreeNode(input[0]);
@@ -21,4 +20,4 @@ TreeNode* TreeFactory::createTree(const std::vector<int>& input) {
   }
 
   return root;
-};
+}

@@ -27,10 +27,8 @@ public:
 
 int main (int argc, char *argv[]) {
   std::vector<int> treeVec = {1,2,3,4,5,6,7,8,9};
-  TreeFactory factory;
-  TreeNode* root = factory.createTree(treeVec);
-  TreePrinter printer;
-  printer.printTree(root);
+  TreeNode* root = TreeFactory::CreateTree(treeVec);
+  TreePrinter::PrintTree(root);
 
   std::unique_ptr<Solution> res = std::make_unique<Solution>();
   std::cout << res->diameterOfBinaryTree(root) << std::endl;
