@@ -36,7 +36,7 @@
 |🟡|[16. 3Sum Closest]()||||||
 |🟡|[17. Letter Combinations ]()||||||
 |🟡|[18. 4Sum]()||||||
-|🟡|[19. Remove Nth Node From]()||||||
+|🟡|[19. Remove Nth Node From](19.cpp)|🟢 Mar 03, 2024|||||
 |🟢|[20. Valid Parentheses]()|🟡 Oct 26, 2022|🟢 Apr 10, 2023||||
 |🟢|[21. Merge Two Sorted Lis]()|🟢 Oct 27, 2022|||||
 |🟡|[22. Generate Parentheses]()||||||
