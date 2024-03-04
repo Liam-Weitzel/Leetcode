@@ -965,7 +965,7 @@
 |🟡|[945. Minimum Increment t]()||||||
 |🟡|[946. Validate Stack Sequ]()|🟢 Apr 13, 2023|||||
 |🟡|[947. Most Stones Removed]()||||||
-|🟡|[948. Bag of Tokens]()||||||
+|🟡|[948. Bag of Tokens](948.cpp)|🟢 Mar 04, 2024|||||
 |🟡|[949. Largest Time for Gi]()||||||
 |🟡|[950. Reveal Cards In Inc]()||||||
 |🟡|[951. Flip Equivalent Bin]()||||||
