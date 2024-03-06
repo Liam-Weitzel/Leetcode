@@ -7,7 +7,7 @@
 #include "utils/TreeFactory.h"
 #include "utils/TreePrinter.h"
 
-class Solution { //Feb 27, 2024
+class Solution { // Feb 27, 2024
 private:
   int longestPath = 0;
   TreeNode* root = nullptr;
