@@ -893,7 +893,7 @@
 |🟡|[873. Length of Longest F]()||||||
 |🟡|[874. Walking Robot Simul]()||||||
 |🟡|[875. Koko Eating Bananas]()|🟢 Mar 08, 2023|||||
-|🟢|[876. Middle of the Linke]()|🟢 Oct 27, 2022|🟢 Nov 02, 2022||||
+|🟢|[876. Middle of the Linke](876.cpp)|🟢 Oct 27, 2022|🟢 Nov 02, 2022|🟢 Mar 07, 2024|||
 |🟡|[877. Stone Game]()||||||
 |🔴|[878. Nth Magical Number]()||||||
 |🔴|[879. Profitable Schemes]()|🔴 Apr 21, 2023|||||
