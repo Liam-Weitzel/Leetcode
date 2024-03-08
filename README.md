@@ -2534,3 +2534,4 @@
 |🟢|[2864. Maximum Odd Binary](2864.cpp)|🟢 Mar 01, 2024|||||
 |🟡|[2966. Divide Array Into ]()|🟢 Feb 01, 2024|||||
 |🟡|[2971. Find Polygon With ]()|🟢 Feb 15, 2024|||||
+|🟢|[3005. Count Elements Wit](3005.cpp)|🟢 Mar 08, 2024|||||
