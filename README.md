@@ -366,7 +366,7 @@
 |🟢|[346. Moving Average from]()||||||
 |🟡|[347. Top K Frequent Elem]()|🟡 Dec 13, 2022|🟢 May 22, 2023|🟢 Jul 08, 2023|||
 |🟡|[348. Design Tic-Tac-Toe]()||||||
-|🟢|[349. Intersection of Two]()||||||
+|🟢|[349. Intersection of Two](349.cpp)|🟢 Mar 10, 2024|||||
 |🟢|[350. Intersection of Two]()||||||
 |🟡|[351. Android Unlock Patt]()||||||
 |🔴|[352. Data Stream as Disj]()|🔴 Jan 28, 2023|||||
