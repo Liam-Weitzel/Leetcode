@@ -1,6 +1,6 @@
 <div align="center">
 
-# My LeetCode Journey
+# My Leetcode Journey
 
 </div>
 
