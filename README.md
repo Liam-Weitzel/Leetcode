@@ -1188,7 +1188,7 @@
 |🔴|[1168. Optimize Water Dis]()||||||
 |🟡|[1169. Invalid Transactio]()||||||
 |🟡|[1170. Compare Strings by]()||||||
-|🟡|[1171. Remove Zero Sum Co]()||||||
+|🟡|[1171. Remove Zero Sum Co]()|🔴 Mar 12, 2024|||||
 |🔴|[1172. Dinner Plate Stack]()||||||
 |🟢|[1173. Immediate Food Del]()||||||
 |🟡|[1174. Immediate Food Del]()||||||
