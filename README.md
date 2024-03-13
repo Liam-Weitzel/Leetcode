@@ -2502,7 +2502,7 @@
 |🟡|[2482. Difference Between]()|🟢 Dec 14, 2023|||||
 |🟡|[2483. Minimum Penalty fo]()||||||
 |🔴|[2484. Count Palindromic ]()||||||
-|🟢|[2485. Find the Pivot Int]()||||||
+|🟢|[2485. Find the Pivot Int](2485.cpp)|🟡 Mar 13, 2024|||||
 |🟡|[2486. Append Characters ]()||||||
 |🟡|[2487. Remove Nodes From ]()||||||
 |🔴|[2488. Count Subarrays Wi]()||||||
