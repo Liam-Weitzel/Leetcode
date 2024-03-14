@@ -947,7 +947,7 @@
 |🔴|[927. Three Equal Parts]()||||||
 |🔴|[928. Minimize Malware Sp]()||||||
 |🟢|[929. Unique Email Addres]()||||||
-|🟡|[930. Binary Subarrays Wi]()||||||
+|🟡|[930. Binary Subarrays Wi]()|🔴 Mar 14, 2024|||||
 |🟡|[931. Minimum Falling Pat]()|🟡 Dec 13, 2022|🟢 Dec 16, 2022|🟢 Jan 19, 2024|||
 |🟡|[932. Beautiful Array]()||||||
 |🟢|[933. Number of Recent Ca]()||||||
