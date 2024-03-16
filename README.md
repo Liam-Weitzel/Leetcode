@@ -449,7 +449,7 @@
 |🟡|[429. N-ary Tree Level Or]()||||||
 |🟡|[430. Flatten a Multileve]()||||||
 |🔴|[431. Encode N-ary Tree t]()||||||
-|🔴|[432. All O`one Data Stru]()||||||
+|🔴|[432. All O one Data Stru]()||||||
 |🟡|[433. Minimum Genetic Mut]()||||||
 |🟢|[434. Number of Segments ]()||||||
 |🟡|[435. Non-overlapping Int]()||||||
@@ -542,7 +542,7 @@
 |🟡|[522. Longest Uncommon Su]()||||||
 |🟡|[523. Continuous Subarray]()||||||
 |🟡|[524. Longest Word in Dic]()||||||
-|🟡|[525. Contiguous Array]()||||||
+|🟡|[525. Contiguous Array](525.cpp)|🟢 Mar 16, 2024|||||
 |🟡|[526. Beautiful Arrangeme]()||||||
 |🔴|[527. Word Abbreviation]()||||||
 |🟡|[528. Random Pick with We]()||||||
