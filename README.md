@@ -638,7 +638,7 @@
 |🔴|[618. Students Report By ]()||||||
 |🟢|[619. Biggest Single Numb]()||||||
 |🟢|[620. Not Boring Movies]()|🟢 Jan 06, 2022|||||
-|🟡|[621. Task Scheduler]()||||||
+|🟡|[621. Task Scheduler]()|🔴 Mar 19, 2024|||||
 |🟡|[622. Design Circular Que]()||||||
 |🟡|[623. Add One Row to Tree]()||||||
 |🟡|[624. Maximum Distance in]()||||||
