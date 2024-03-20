@@ -1686,7 +1686,7 @@
 |🟡|[1666. Change the Root of]()||||||
 |🟢|[1667. Fix Names in a Tab]()||||||
 |🟢|[1668. Maximum Repeating ]()||||||
-|🟡|[1669. Merge In Between L]()||||||
+|🟡|[1669. Merge In Between L](1669.cpp)|🟢 Mar 20, 2024|||||
 |🟡|[1670. Design Front Middl]()||||||
 |🔴|[1671. Minimum Number of ]()||||||
 |🟢|[1672. Richest Customer W]()||||||
