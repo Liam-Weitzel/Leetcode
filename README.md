@@ -223,7 +223,7 @@
 |🟢|[203. Remove Linked List ]()||||||
 |🟡|[204. Count Primes]()||||||
 |🟢|[205. Isomorphic Strings]()|🟢 Oct 30, 2022|||||
-|🟢|[206. Reverse Linked List]()|🔴 Nov 02, 2022|||||
+|🟢|[206. Reverse Linked List](206.cpp)|🔴 Nov 02, 2022|🟢 Mar 21, 2024||||
 |🟡|[207. Course Schedule]()||||||
 |🟡|[208. Implement Trie (Pre]()|🔴 Mar 17, 2023|||||
 |🟡|[209. Minimum Size Subarr]()||||||
