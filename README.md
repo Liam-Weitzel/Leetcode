@@ -251,7 +251,7 @@
 |🟢|[231. Power of Two]()|🟢 Dec 17, 2022|🟢 Feb 19, 2024||||
 |🟢|[232. Implement Queue usi]()|🟢 Dec 16, 2022|🟢 Jan 29, 2024||||
 |🔴|[233. Number of Digit One]()||||||
-|🟢|[234. Palindrome Linked L]()||||||
+|🟢|[234. Palindrome Linked L](234.cpp)|🟢 Mar 22, 2024|||||
 |🟡|[235. Lowest Common Ances]()|🟢 Nov 07, 2022|||||
 |🟡|[236. Lowest Common Ances]()||||||
 |🟡|[237. Delete Node in a Li]()||||||
