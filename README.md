@@ -160,7 +160,7 @@
 |🔴|[140. Word Break II]()||||||
 |🟢|[141. Linked List Cycle](141.cpp)|🟢 Oct 27, 2022|🟢 Mar 06, 2024||||
 |🟡|[142. Linked List Cycle I]()|🔴 Oct 27, 2022|🟢 Nov 04, 2022|🟢 Mar 09, 2023|||
-|🟡|[143. Reorder List]()||||||
+|🟡|[143. Reorder List](143.cpp)|🟢 Mar 23, 2024|||||
 |🟢|[144. Binary Tree Preorde]()|🟢 Jan 09, 2023|||||
 |🟢|[145. Binary Tree Postord]()||||||
 |🟡|[146. LRU Cache]()||||||
