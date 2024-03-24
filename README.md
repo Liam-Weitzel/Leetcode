@@ -304,7 +304,7 @@
 |🟡|[284. Peeking Iterator]()||||||
 |🟡|[285. Inorder Successor i]()||||||
 |🟡|[286. Walls and Gates]()||||||
-|🟡|[287. Find the Duplicate ]()||||||
+|🟡|[287. Find the Duplicate ](287.cpp)|🔴 Mar 24, 2024|||||
 |🟡|[288. Unique Word Abbrevi]()||||||
 |🟡|[289. Game of Life]()||||||
 |🟢|[290. Word Pattern]()|🟢 Jan 01, 2023|||||
