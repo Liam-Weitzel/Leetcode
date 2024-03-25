@@ -459,7 +459,7 @@
 |🟡|[439. Ternary Expression ]()||||||
 |🔴|[440. K-th Smallest in Le]()||||||
 |🟢|[441. Arranging Coins]()||||||
-|🟡|[442. Find All Duplicates]()||||||
+|🟡|[442. Find All Duplicates]()|🔴 Mar 25, 2024|||||
 |🟡|[443. String Compression]()|🔴 Mar 02, 2022|||||
 |🟡|[444. Sequence Reconstruc]()||||||
 |🟡|[445. Add Two Numbers II]()||||||
