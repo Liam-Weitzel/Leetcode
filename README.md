@@ -58,7 +58,7 @@
 |🟡|[38. Count and Say]()||||||
 |🟡|[39. Combination Sum]()||||||
 |🟡|[40. Combination Sum II]()||||||
-|🔴|[41. First Missing Positi]()||||||
+|🔴|[41. First Missing Positi]()|🔴 Mar 26, 2024|||||
 |🔴|[42. Trapping Rain Water]()||||||
 |🟡|[43. Multiply Strings]()||||||
 |🔴|[44. Wildcard Matching]()||||||
