@@ -730,7 +730,7 @@
 |🔴|[710. Random Pick with Bl]()||||||
 |🔴|[711. Number of Distinct ]()||||||
 |🟡|[712. Minimum ASCII Delet]()||||||
-|🟡|[713. Subarray Product Le]()||||||
+|🟡|[713. Subarray Product Le]()|🔴 Mar 27, 2024|||||
 |🟡|[714. Best Time to Buy an]()||||||
 |🔴|[715. Range Module]()||||||
 |🔴|[716. Max Stack]()||||||
