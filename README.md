@@ -2536,4 +2536,5 @@
 |🟡|[2966. Divide Array Into ]()|🟢 Feb 01, 2024|||||
 |🟡|[2971. Find Polygon With ]()|🟢 Feb 15, 2024|||||
 |🟡|[2958. Length of Longest ](2958.cpp)|🟢 Mar 28, 2024|||||
+|🟡|[2962. Count Subarrays Wh](2962.cpp)|🟢 Mar 29, 2024|||||
 |🟢|[3005. Count Elements Wit](3005.cpp)|🟢 Mar 08, 2024|||||
