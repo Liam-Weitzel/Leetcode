@@ -1009,7 +1009,7 @@
 |🟢|[989. Add to Array-Form o]()|🟡 Feb 15, 2023|||||
 |🟡|[990. Satisfiability of E]()||||||
 |🟡|[991. Broken Calculator]()||||||
-|🔴|[992. Subarrays with K Di]()||||||
+|🔴|[992. Subarrays with K Di]()|🔴 Mar 30, 2024|||||
 |🟢|[993. Cousins in Binary T]()||||||
 |🟡|[994. Rotting Oranges]()||||||
 |🔴|[995. Minimum Number of K]()||||||
