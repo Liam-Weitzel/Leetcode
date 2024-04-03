@@ -96,7 +96,7 @@
 |🔴|[76. Minimum Window Subst]()|🔴 Feb 04, 2024|||||
 |🟡|[77. Combinations]()||||||
 |🟡|[78. Subsets]()||||||
-|🟡|[79. Word Search]()||||||
+|🟡|[79. Word Search](79.cpp)|🟡 Apr 03, 2024|||||
 |🟡|[80. Remove Duplicates fr]()||||||
 |🟡|[81. Search in Rotated So]()||||||
 |🟡|[82. Remove Duplicates fr]()||||||
