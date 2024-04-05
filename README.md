@@ -1561,7 +1561,7 @@
 |🟡|[1541. Minimum Insertions]()||||||
 |🔴|[1542. Find Longest Aweso]()||||||
 |🟢|[1543. Fix Product Name F]()||||||
-|🟢|[1544. Make The String Gr]()||||||
+|🟢|[1544. Make The String Gr](1544.cpp)|🟡 Apr 05, 2024|||||
 |🟡|[1545. Find Kth Bit in Nt]()||||||
 |🟡|[1546. Maximum Number of ]()||||||
 |🔴|[1547. Minimum Cost to Cu]()||||||
