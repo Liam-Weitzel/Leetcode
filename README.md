@@ -1266,7 +1266,7 @@
 |🔴|[1246. Palindrome Removal]()||||||
 |🟡|[1247. Minimum Swaps to M]()||||||
 |🟡|[1248. Count Number of Ni]()||||||
-|🟡|[1249. Minimum Remove to ]()||||||
+|🟡|[1249. Minimum Remove to ](1249.cpp)|🟢 Apr 06, 2024|||||
 |🔴|[1250. Check If It Is a G]()||||||
 |🟢|[1251. Average Selling Pr]()||||||
 |🟢|[1252. Cells with Odd Val]()||||||
