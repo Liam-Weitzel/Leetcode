@@ -695,7 +695,7 @@
 |🔴|[675. Cut Off Trees for G]()||||||
 |🟡|[676. Implement Magic Dic]()||||||
 |🟡|[677. Map Sum Pairs]()||||||
-|🟡|[678. Valid Parenthesis S]()||||||
+|🟡|[678. Valid Parenthesis S](678.cpp)|🟢 Apr 07, 2024|||||
 |🔴|[679. 24 Game]()||||||
 |🟢|[680. Valid Palindrome II]()||||||
 |🟡|[681. Next Closest Time]()||||||
