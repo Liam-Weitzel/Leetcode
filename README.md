@@ -1717,7 +1717,7 @@
 |🔴|[1697. Checking Existence]()|🔴 Apr 29, 2023|||||
 |🟡|[1698. Number of Distinct]()||||||
 |🟡|[1699. Number of Calls Be]()||||||
-|🟢|[1700. Number of Students]()||||||
+|🟢|[1700. Number of Students](1700.cpp)|🟡 Apr 08, 2024|||||
 |🟡|[1701. Average Waiting Ti]()||||||
 |🟡|[1702. Maximum Binary Str]()||||||
 |🔴|[1703. Minimum Adjacent S]()||||||
