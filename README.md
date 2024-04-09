@@ -2090,7 +2090,7 @@
 |🟡|[2070. Most Beautiful Ite]()||||||
 |🔴|[2071. Maximum Number of ]()||||||
 |🟢|[2072. The Winner Univers]()||||||
-|🟢|[2073. Time Needed to Buy]()||||||
+|🟢|[2073. Time Needed to Buy](2073.cpp)|🟡 Apr 09, 2024|||||
 |🟡|[2074. Reverse Nodes in E]()||||||
 |🟡|[2075. Decode the Slanted]()||||||
 |🔴|[2076. Process Restricted]()||||||
