@@ -967,7 +967,7 @@
 |🟡|[947. Most Stones Removed]()||||||
 |🟡|[948. Bag of Tokens](948.cpp)|🟢 Mar 04, 2024|||||
 |🟡|[949. Largest Time for Gi]()||||||
-|🟡|[950. Reveal Cards In Inc]()||||||
+|🟡|[950. Reveal Cards In Inc]()|🔴 Apr 10, 2024|||||
 |🟡|[951. Flip Equivalent Bin]()||||||
 |🔴|[952. Largest Component S]()||||||
 |🟢|[953. Verifying an Alien ]()|🟢 Feb 02, 2023|||||
