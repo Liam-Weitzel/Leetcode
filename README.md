@@ -419,7 +419,7 @@
 |🟡|[399. Evaluate Division]()|🔴 May 20, 2023|||||
 |🟡|[400. Nth Digit]()||||||
 |🟢|[401. Binary Watch]()||||||
-|🟡|[402. Remove K Digits]()||||||
+|🟡|[402. Remove K Digits]()|🔴 Apr 11, 2024|||||
 |🔴|[403. Frog Jump]()||||||
 |🟢|[404. Sum of Left Leaves]()||||||
 |🟢|[405. Convert a Number to]()||||||
