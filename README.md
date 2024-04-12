@@ -59,7 +59,7 @@
 |🟡|[39. Combination Sum]()||||||
 |🟡|[40. Combination Sum II]()||||||
 |🔴|[41. First Missing Positi]()|🔴 Mar 26, 2024|||||
-|🔴|[42. Trapping Rain Water]()||||||
+|🔴|[42. Trapping Rain Water]()|🔴 Apr 12, 2024|||||
 |🟡|[43. Multiply Strings]()||||||
 |🔴|[44. Wildcard Matching]()||||||
 |🟡|[45. Jump Game II]()|🔴 Feb 08, 2023|||||
