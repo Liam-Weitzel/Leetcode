@@ -102,7 +102,7 @@
 |🟡|[82. Remove Duplicates fr]()||||||
 |🟢|[83. Remove Duplicates fr]()||||||
 |🔴|[84. Largest Rectangle in]()||||||
-|🔴|[85. Maximal Rectangle]()||||||
+|🔴|[85. Maximal Rectangle]()|🔴 Apr 13, 2024|||||
 |🟡|[86. Partition List]()||||||
 |🔴|[87. Scramble String]()|🔴 Mar 30, 2023|||||
 |🟢|[88. Merge Sorted Array]()||||||
