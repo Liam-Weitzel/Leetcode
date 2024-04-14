@@ -59,7 +59,7 @@
 |🟡|[39. Combination Sum]()||||||
 |🟡|[40. Combination Sum II]()||||||
 |🔴|[41. First Missing Positi]()|🔴 Mar 26, 2024|||||
-|🔴|[42. Trapping Rain Water]()||||||
+|🔴|[42. Trapping Rain Water]()|🔴 Apr 12, 2024|||||
 |🟡|[43. Multiply Strings]()||||||
 |🔴|[44. Wildcard Matching]()||||||
 |🟡|[45. Jump Game II]()|🔴 Feb 08, 2023|||||
@@ -102,7 +102,7 @@
 |🟡|[82. Remove Duplicates fr]()||||||
 |🟢|[83. Remove Duplicates fr]()||||||
 |🔴|[84. Largest Rectangle in]()||||||
-|🔴|[85. Maximal Rectangle]()||||||
+|🔴|[85. Maximal Rectangle]()|🔴 Apr 13, 2024|||||
 |🟡|[86. Partition List]()||||||
 |🔴|[87. Scramble String]()|🔴 Mar 30, 2023|||||
 |🟢|[88. Merge Sorted Array]()||||||
@@ -419,9 +419,9 @@
 |🟡|[399. Evaluate Division]()|🔴 May 20, 2023|||||
 |🟡|[400. Nth Digit]()||||||
 |🟢|[401. Binary Watch]()||||||
-|🟡|[402. Remove K Digits]()||||||
+|🟡|[402. Remove K Digits]()|🔴 Apr 11, 2024|||||
 |🔴|[403. Frog Jump]()||||||
-|🟢|[404. Sum of Left Leaves]()||||||
+|🟢|[404. Sum of Left Leaves](404.cpp)|🟢 Apr 14, 2024|||||
 |🟢|[405. Convert a Number to]()||||||
 |🟡|[406. Queue Reconstructio]()||||||
 |🔴|[407. Trapping Rain Water]()||||||
