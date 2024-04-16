@@ -640,7 +640,7 @@
 |🟢|[620. Not Boring Movies]()|🟢 Jan 06, 2022|||||
 |🟡|[621. Task Scheduler]()|🔴 Mar 19, 2024|||||
 |🟡|[622. Design Circular Que]()||||||
-|🟡|[623. Add One Row to Tree]()||||||
+|🟡|[623. Add One Row to Tree](623.cpp)|🟢 Apr 16, 2024|||||
 |🟡|[624. Maximum Distance in]()||||||
 |🟡|[625. Minimum Factorizati]()||||||
 |🟡|[626. Exchange Seats]()|🟢 Jan 07, 2022|||||
