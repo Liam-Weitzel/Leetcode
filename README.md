@@ -1005,7 +1005,7 @@
 |🟡|[985. Sum of Even Numbers]()||||||
 |🟡|[986. Interval List Inter]()||||||
 |🔴|[987. Vertical Order Trav]()||||||
-|🟡|[988. Smallest String Sta]()||||||
+|🟡|[988. Smallest String Sta](988.cpp)|🟢 Apr 17, 2024|||||
 |🟢|[989. Add to Array-Form o]()|🟡 Feb 15, 2023|||||
 |🟡|[990. Satisfiability of E]()||||||
 |🟡|[991. Broken Calculator]()||||||
