@@ -2009,7 +2009,7 @@
 |🟡|[1989. Maximum Number of ]()||||||
 |🟡|[1990. Count the Number o]()||||||
 |🟢|[1991. Find the Middle In]()||||||
-|🟡|[1992. Find All Groups of]()||||||
+|🟡|[1992. Find All Groups of](1992.cpp)|🟢 Apr 20, 2024|||||
 |🟡|[1993. Operations on Tree]()||||||
 |🔴|[1994. The Number of Good]()||||||
 |🟢|[1995. Count Special Quad]()||||||
