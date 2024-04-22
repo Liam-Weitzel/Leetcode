@@ -769,7 +769,7 @@
 |🔴|[749. Contain Virus]()||||||
 |🟡|[750. Number Of Corner Re]()||||||
 |🟡|[751. IP to CIDR]()||||||
-|🟡|[752. Open the Lock]()||||||
+|🟡|[752. Open the Lock]()|🔴 Apr 22, 2024|||||
 |🔴|[753. Cracking the Safe]()||||||
 |🟡|[754. Reach a Number]()||||||
 |🟡|[755. Pour Water]()||||||
