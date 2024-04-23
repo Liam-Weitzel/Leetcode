@@ -327,7 +327,7 @@
 |🟡|[307. Range Sum Query - M]()||||||
 |🔴|[308. Range Sum Query 2D ]()||||||
 |🟡|[309. Best Time to Buy an]()|🟠 Dec 23, 2022|||||
-|🟡|[310. Minimum Height Tree]()||||||
+|🟡|[310. Minimum Height Tree]()|🔴 Apr 23, 2024|||||
 |🟡|[311. Sparse Matrix Multi]()||||||
 |🔴|[312. Burst Balloons]()||||||
 |🟡|[313. Super Ugly Number]()||||||
