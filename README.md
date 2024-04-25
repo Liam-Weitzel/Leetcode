@@ -2387,7 +2387,7 @@
 |🟢|[2367. Number of Arithmet]()||||||
 |🟡|[2368. Reachable Nodes Wi]()||||||
 |🟡|[2369. Check if There is ]()||||||
-|🟡|[2370. Longest Ideal Subs]()||||||
+|🟡|[2370. Longest Ideal Subs]()|🔴 Apr 25, 2024|||||
 |🔴|[2371. Minimize Maximum V]()||||||
 |🟡|[2372. Calculate the Infl]()||||||
 |🟢|[2373. Largest Local Valu]()||||||
