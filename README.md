@@ -1306,7 +1306,7 @@
 |🟡|[1286. Iterator for Combi]()||||||
 |🟢|[1287. Element Appearing ]()|🟢 Dec 11, 2023|||||
 |🟡|[1288. Remove Covered Int]()||||||
-|🔴|[1289. Minimum Falling Pa]()||||||
+|🔴|[1289. Minimum Falling Pa]()|🔴 Apr 26, 2024|||||
 |🟢|[1290. Convert Binary Num]()||||||
 |🟡|[1291. Sequential Digits]()|🟡 Feb 02, 2024|||||
 |🟡|[1292. Maximum Side Lengt]()||||||
