@@ -531,7 +531,7 @@
 |🟢|[511. Game Play Analysis ]()||||||
 |🟢|[512. Game Play Analysis ]()||||||
 |🟡|[513. Find Bottom Left Tr](513.cpp)|🟢 Feb 28, 2024|||||
-|🔴|[514. Freedom Trail]()||||||
+|🔴|[514. Freedom Trail]()|🔴 Apr 27, 2024|||||
 |🟡|[515. Find Largest Value ]()|🟢 Oct 24, 2023|||||
 |🟡|[516. Longest Palindromic]()|🔴 Apr 14, 2023|||||
 |🔴|[517. Super Washing Machi]()||||||
