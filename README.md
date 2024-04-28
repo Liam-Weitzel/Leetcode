@@ -851,7 +851,7 @@
 |🟡|[831. Masking Personal In]()||||||
 |🟢|[832. Flipping an Image]()||||||
 |🟡|[833. Find And Replace in]()||||||
-|🔴|[834. Sum of Distances in]()|🟢 Dec 22, 2022|||||
+|🔴|[834. Sum of Distances in]()|🟢 Dec 22, 2022|🔴 Apr 28, 2024||||
 |🟡|[835. Image Overlap]()||||||
 |🟢|[836. Rectangle Overlap]()||||||
 |🟡|[837. New 21 Game]()||||||
