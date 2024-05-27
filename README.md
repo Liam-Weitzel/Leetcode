@@ -34,7 +34,7 @@
 |🟢|[14. Longest Common Prefi]()||||||
 |🟡|[15. 3Sum]()||||||
 |🟡|[16. 3Sum Closest]()||||||
-|🟡|[17. Letter Combinations ]()||||||
+|🟡|[17. Letter Combinations ]()|🟢 May 13, 2024|||||
 |🟡|[18. 4Sum]()||||||
 |🟡|[19. Remove Nth Node From](19.cpp)|🟢 Mar 03, 2024|||||
 |🟢|[20. Valid Parentheses]()|🟡 Oct 26, 2022|🟢 Apr 10, 2023||||
@@ -1004,7 +1004,7 @@
 |🟡|[984. String Without AAA ]()||||||
 |🟡|[985. Sum of Even Numbers]()||||||
 |🟡|[986. Interval List Inter]()||||||
-|🔴|[987. Vertical Order Trav]()||||||
+|🔴|[987. Vertical Order Trav]()|🟢 May 27, 2024|||||
 |🟡|[988. Smallest String Sta](988.cpp)|🟢 Apr 17, 2024|||||
 |🟢|[989. Add to Array-Form o]()|🟡 Feb 15, 2023|||||
 |🟡|[990. Satisfiability of E]()||||||
