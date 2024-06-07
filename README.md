@@ -665,7 +665,7 @@
 |🟢|[645. Set Mismatch]()|🟢 Jan 22, 2024|||||
 |🟡|[646. Maximum Length of P]()||||||
 |🟡|[647. Palindromic Substri]()|🔴 Feb 10, 2024|||||
-|🟡|[648. Replace Words]()||||||
+|🟡|[648. Replace Words](648.cpp)|🟡 Jun 07, 2024|||||
 |🟡|[649. Dota2 Senate]()|🟡 May 04, 2023|||||
 |🟡|[650. 2 Keys Keyboard]()||||||
 |🟡|[651. 4 Keys Keyboard]()||||||
