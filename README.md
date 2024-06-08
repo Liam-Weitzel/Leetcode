@@ -540,7 +540,7 @@
 |🟢|[520. Detect Capital]()|🟢 Jan 02, 2023|||||
 |🟢|[521. Longest Uncommon Su]()||||||
 |🟡|[522. Longest Uncommon Su]()||||||
-|🟡|[523. Continuous Subarray]()||||||
+|🟡|[523. Continuous Subarray]()|🔴 Jun 08, 2024|||||
 |🟡|[524. Longest Word in Dic]()||||||
 |🟡|[525. Contiguous Array](525.cpp)|🟢 Mar 16, 2024|||||
 |🟡|[526. Beautiful Arrangeme]()||||||
