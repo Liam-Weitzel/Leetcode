@@ -991,7 +991,7 @@
 |🟡|[971. Flip Binary Tree To]()||||||
 |🔴|[972. Equal Rational Numb]()||||||
 |🟡|[973. K Closest Points to]()||||||
-|🟡|[974. Subarray Sums Divis]()|🟡 Jan 19, 2023|||||
+|🟡|[974. Subarray Sums Divis]()|🟡 Jan 19, 2023|🔴 Jun 09, 2024||||
 |🔴|[975. Odd Even Jump]()||||||
 |🟢|[976. Largest Perimeter T]()||||||
 |🟢|[977. Squares of a Sorted](977.cpp)|🟢 Mar 02, 2024|||||
