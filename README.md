@@ -1068,7 +1068,7 @@
 |🟡|[1048. Longest String Cha]()||||||
 |🟡|[1049. Last Stone Weight ]()||||||
 |🟢|[1050. Actors and Directo]()||||||
-|🟢|[1051. Height Checker]()||||||
+|🟢|[1051. Height Checker](1051.cpp)|🟢 Jan 10, 2024|||||
 |🟡|[1052. Grumpy Bookstore O]()||||||
 |🟡|[1053. Previous Permutati]()||||||
 |🟡|[1054. Distant Barcodes]()||||||
