@@ -92,7 +92,7 @@
 |🔴|[72. Edit Distance]()|🔴 Feb 26, 2023|||||
 |🟡|[73. Set Matrix Zeroes]()||||||
 |🟡|[74. Search a 2D Matrix]()||||||
-|🟡|[75. Sort Colors]()||||||
+|🟡|[75. Sort Colors](75.cpp)|🟢 Jun 12, 2024|||||
 |🔴|[76. Minimum Window Subst]()|🔴 Feb 04, 2024|||||
 |🟡|[77. Combinations]()||||||
 |🟡|[78. Subsets]()||||||
