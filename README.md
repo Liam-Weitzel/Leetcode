@@ -2054,7 +2054,7 @@
 |🟡|[2034. Stock Price Fluctu]()||||||
 |🔴|[2035. Partition Array In]()||||||
 |🟡|[2036. Maximum Alternatin]()||||||
-|🟢|[2037. Minimum Number of ]()||||||
+|🟢|[2037. Minimum Number of ](2037.cpp)|🟢 Jun 13, 2024|||||
 |🟡|[2038. Remove Colored Pie]()||||||
 |🟡|[2039. The Time When the ]()||||||
 |🔴|[2040. Kth Smallest Produ]()||||||
