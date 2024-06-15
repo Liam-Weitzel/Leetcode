@@ -519,7 +519,7 @@
 |🔴|[499. The Maze III]()||||||
 |🟢|[500. Keyboard Row]()||||||
 |🟢|[501. Find Mode in Binary]()|🟢 Nov 01, 2023|||||
-|🔴|[502. IPO]()|🟠 Feb 23, 2023|||||
+|🔴|[502. IPO]()|🟠 Feb 23, 2023|🔴 Jun 15, 2024||||
 |🟡|[503. Next Greater Elemen]()||||||
 |🟢|[504. Base 7]()||||||
 |🟡|[505. The Maze II]()||||||
