@@ -347,7 +347,7 @@
 |🔴|[327. Count of Range Sum]()||||||
 |🟡|[328. Odd Even Linked Lis]()|🟢 Dec 08, 2022|||||
 |🔴|[329. Longest Increasing ]()||||||
-|🔴|[330. Patching Array]()||||||
+|🔴|[330. Patching Array](330.cpp)|🟠 Jan 16, 2024|||||
 |🟡|[331. Verify Preorder Ser]()||||||
 |🔴|[332. Reconstruct Itinera]()||||||
 |🟡|[333. Largest BST Subtree]()||||||
