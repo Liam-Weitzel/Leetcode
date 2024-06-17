@@ -650,7 +650,7 @@
 |🔴|[630. Course Schedule III]()||||||
 |🔴|[631. Design Excel Sum Fo]()||||||
 |🔴|[632. Smallest Range Cove]()||||||
-|🟡|[633. Sum of Square Numbe]()||||||
+|🟡|[633. Sum of Square Numbe](633.cpp)|🟡 Jan 17, 2024|||||
 |🟡|[634. Find the Derangemen]()||||||
 |🟡|[635. Design Log Storage ]()||||||
 |🟡|[636. Exclusive Time of F]()||||||
