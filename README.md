@@ -843,7 +843,7 @@
 |🟡|[823. Binary Trees With F]()|🔴 Oct 26, 2023|||||
 |🟢|[824. Goat Latin]()||||||
 |🟡|[825. Friends Of Appropri]()||||||
-|🟡|[826. Most Profit Assigni]()||||||
+|🟡|[826. Most Profit Assigni]()|🔴 Jan 18, 2024|||||
 |🔴|[827. Making A Large Isla]()||||||
 |🔴|[828. Count Unique Charac]()||||||
 |🔴|[829. Consecutive Numbers]()||||||
