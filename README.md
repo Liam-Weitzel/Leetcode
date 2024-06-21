@@ -347,7 +347,7 @@
 |🔴|[327. Count of Range Sum]()||||||
 |🟡|[328. Odd Even Linked Lis]()|🟢 Dec 08, 2022|||||
 |🔴|[329. Longest Increasing ]()||||||
-|🔴|[330. Patching Array](330.cpp)|🟠 Jan 16, 2024|||||
+|🔴|[330. Patching Array](330.cpp)|🟠 Jun 16, 2024|||||
 |🟡|[331. Verify Preorder Ser]()||||||
 |🔴|[332. Reconstruct Itinera]()||||||
 |🟡|[333. Largest BST Subtree]()||||||
@@ -650,7 +650,7 @@
 |🔴|[630. Course Schedule III]()||||||
 |🔴|[631. Design Excel Sum Fo]()||||||
 |🔴|[632. Smallest Range Cove]()||||||
-|🟡|[633. Sum of Square Numbe](633.cpp)|🟡 Jan 17, 2024|||||
+|🟡|[633. Sum of Square Numbe](633.cpp)|🟡 Jun 17, 2024|||||
 |🟡|[634. Find the Derangemen]()||||||
 |🟡|[635. Design Log Storage ]()||||||
 |🟡|[636. Exclusive Time of F]()||||||
@@ -962,7 +962,7 @@
 |🟢|[942. DI String Match]()||||||
 |🔴|[943. Find the Shortest S]()||||||
 |🟢|[944. Delete Columns to M]()|🟢 Jan 03, 2023|||||
-|🟡|[945. Minimum Increment t]()|🟠 Jan 14, 2024|||||
+|🟡|[945. Minimum Increment t]()|🟠 Jun 14, 2024|||||
 |🟡|[946. Validate Stack Sequ]()|🟢 Apr 13, 2023|||||
 |🟡|[947. Most Stones Removed]()||||||
 |🟡|[948. Bag of Tokens](948.cpp)|🟢 Mar 04, 2024|||||
@@ -1068,8 +1068,8 @@
 |🟡|[1048. Longest String Cha]()||||||
 |🟡|[1049. Last Stone Weight ]()||||||
 |🟢|[1050. Actors and Directo]()||||||
-|🟢|[1051. Height Checker](1051.cpp)|🟢 Jan 10, 2024|||||
-|🟡|[1052. Grumpy Bookstore O]()||||||
+|🟢|[1051. Height Checker](1051.cpp)|🟢 Jun 10, 2024|||||
+|🟡|[1052. Grumpy Bookstore O](1052.cpp)|🟢 Jun 21, 2024|||||
 |🟡|[1053. Previous Permutati]()||||||
 |🟡|[1054. Distant Barcodes]()||||||
 |🟡|[1055. Shortest Way to Fo]()||||||
@@ -1139,7 +1139,7 @@
 |🟢|[1119. Remove Vowels from]()||||||
 |🟡|[1120. Maximum Average Su]()||||||
 |🔴|[1121. Divide Array Into ]()||||||
-|🟢|[1122. Relative Sort Arra](1122.cpp)|🟢 Jan 11, 2024|||||
+|🟢|[1122. Relative Sort Arra](1122.cpp)|🟢 Jun 11, 2024|||||
 |🟡|[1123. Lowest Common Ance]()||||||
 |🟡|[1124. Longest Well-Perfo]()||||||
 |🔴|[1125. Smallest Sufficien]()||||||

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <set>
 
-class Solution { // Jan 17, 2024
+class Solution { // Jun 17, 2024
 public:
   bool judgeSquareSum(int c) {
     long long i = 0;

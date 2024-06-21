@@ -2,7 +2,7 @@
 #include <set>
 #include <vector>
 
-class Solution { // Jan 16, 2024
+class Solution { // Jun 16, 2024
 private:
   void dfs(std::vector<int> nums, std::set<int>& possibleSums, int currDepth, int currSum, std::set<int> alreadyPicked, int lastPicked){
     possibleSums.insert(currSum);
