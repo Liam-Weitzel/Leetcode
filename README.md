@@ -1055,7 +1055,7 @@
 |🟡|[1035. Uncrossed Lines]()|🔴 May 11, 2023|||||
 |🔴|[1036. Escape a Large Maz]()||||||
 |🟢|[1037. Valid Boomerang]()||||||
-|🟡|[1038. Binary Search Tree]()||||||
+|🟡|[1038. Binary Search Tree](1038.cpp)|🟢 Jun 25, 2024|||||
 |🟡|[1039. Minimum Score Tria]()||||||
 |🟡|[1040. Moving Stones Unti]()||||||
 |🟡|[1041. Robot Bounded In C]()||||||
