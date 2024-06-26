@@ -1399,7 +1399,7 @@
 |🟢|[1379. Find a Correspondi]()||||||
 |🟢|[1380. Lucky Numbers in a]()||||||
 |🟡|[1381. Design a Stack Wit]()||||||
-|🟡|[1382. Balance a Binary S]()||||||
+|🟡|[1382. Balance a Binary S](1382.cpp)|🔴 Jun 26, 2024|||||
 |🔴|[1383. Maximum Performanc]()||||||
 |🔴|[1384. Total Sales Amount]()||||||
 |🟢|[1385. Find the Distance ]()||||||
