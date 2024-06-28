@@ -2302,7 +2302,7 @@
 |🟡|[2282. Number of People T]()||||||
 |🟢|[2283. Check if Number Ha]()||||||
 |🟡|[2284. Sender With Larges]()||||||
-|🟡|[2285. Maximum Total Impo]()||||||
+|🟡|[2285. Maximum Total Impo](2285.cpp)|🟢 Jun 28, 2024|||||
 |🔴|[2286. Booking Concert Ti]()||||||
 |🟢|[2287. Rearrange Characte]()||||||
 |🟡|[2288. Apply Discount to ]()||||||
