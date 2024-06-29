@@ -2209,7 +2209,7 @@
 |🟡|[2189. Number of Ways to ]()||||||
 |🟢|[2190. Most Frequent Numb]()||||||
 |🟡|[2191. Sort the Jumbled N]()||||||
-|🟡|[2192. All Ancestors of a]()||||||
+|🟡|[2192. All Ancestors of a](2192.cpp)|🟢 Jun 29, 2024|||||
 |🔴|[2193. Minimum Number of ]()||||||
 |🟢|[2194. Cells in a Range o]()||||||
 |🟡|[2195. Append K Integers ]()||||||
