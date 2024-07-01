@@ -1567,7 +1567,7 @@
 |🔴|[1547. Minimum Cost to Cu]()||||||
 |🔴|[1548. The Most Similar P]()||||||
 |🟡|[1549. The Most Recent Or]()||||||
-|🟢|[1550. Three Consecutive ]()||||||
+|🟢|[1550. Three Consecutive ](1550.cpp)|🟢 Jul 1, 2024|||||
 |🟡|[1551. Minimum Operations]()||||||
 |🟡|[1552. Magnetic Force Bet]()||||||
 |🔴|[1553. Minimum Number of ]()||||||
