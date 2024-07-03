@@ -1526,7 +1526,7 @@
 |🟡|[1506. Find Root of N-Ary]()||||||
 |🟢|[1507. Reformat Date]()||||||
 |🟡|[1508. Range Sum of Sorte]()||||||
-|🟡|[1509. Minimum Difference]()||||||
+|🟡|[1509. Minimum Difference]()|🔴 Jul 03, 2024|||||
 |🔴|[1510. Stone Game IV]()||||||
 |🟢|[1511. Customer Order Fre]()||||||
 |🟢|[1512. Number of Good Pai]()|🟢 Oct 03, 2023|||||
