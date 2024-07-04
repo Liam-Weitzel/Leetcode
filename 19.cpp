@@ -1,7 +1,6 @@
 //COMPILED USING: g++ 19.cpp utils/ListFactory.cpp utils/ListPrinter.cpp -o 19
 
 #include "utils/ListNode.h"
-#include "utils/ListNode.h"
 #include "utils/ListPrinter.h"
 #include "utils/ListFactory.h"
 #include <vector>

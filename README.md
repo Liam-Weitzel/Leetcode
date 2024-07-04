@@ -2198,7 +2198,7 @@
 |🟡|[2178. Maximum Split of P]()||||||
 |🔴|[2179. Count Good Triplet]()||||||
 |🟢|[2180. Count Integers Wit]()||||||
-|🟡|[2181. Merge Nodes in Bet]()||||||
+|🟡|[2181. Merge Nodes in Bet](2181.cpp)|🟢 Jul 04, 2024|||||
 |🟡|[2182. Construct String W]()||||||
 |🔴|[2183. Count Array Pairs ]()||||||
 |🟡|[2184. Number of Ways to ]()||||||
