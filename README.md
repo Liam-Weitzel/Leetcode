@@ -2524,6 +2524,7 @@
 |🟢|[2504. Concatenate the Na]()||||||
 |🟡|[2505. Bitwise OR of All ]()||||||
 |🟢|[2540. Minimum Common Val](2540.cpp)|🟢 Mar 09, 2024|||||
+|🟢|[2582. Pass the Pillow](2582.cpp)|🟢 Jul 06, 2024|||||
 |🟡|[2610. Convert an Array I]()|🟢 Jan 02, 2024|||||
 |🔴|[2642. Design Graph With ]()|🔴 Nov 11, 2023|||||
 |🟡|[2870. Minimum Number of ]()|🟡 Jan 04, 2024|||||
