@@ -1615,7 +1615,7 @@
 |🔴|[1595. Minimum Cost to Co]()||||||
 |🟡|[1596. The Most Frequentl]()||||||
 |🔴|[1597. Build Binary Expre]()||||||
-|🟢|[1598. Crawler Log Folder]()||||||
+|🟢|[1598. Crawler Log Folder](1598.cpp)|🟢 Jul 10, 2024|||||
 |🟡|[1599. Maximum Profit of ]()||||||
 |🟡|[1600. Throne Inheritance]()||||||
 |🔴|[1601. Maximum Number of ]()||||||
