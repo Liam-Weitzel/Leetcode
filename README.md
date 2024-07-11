@@ -1207,7 +1207,7 @@
 |🔴|[1187. Make Array Strictl]()||||||
 |🟡|[1188. Design Bounded Blo]()||||||
 |🟢|[1189. Maximum Number of ]()||||||
-|🟡|[1190. Reverse Substrings]()||||||
+|🟡|[1190. Reverse Substrings]()|🔴 Jul 11, 2024|||||
 |🟡|[1191. K-Concatenation Ma]()||||||
 |🔴|[1192. Critical Connectio]()||||||
 |🟡|[1193. Monthly Transactio]()||||||
