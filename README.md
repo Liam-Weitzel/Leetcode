@@ -2531,6 +2531,7 @@
 |🟢|[2706. Buy Two Chocolates]()|🟢 Dec 20, 2023|||||
 |🔴|[2709. Greatest Common Di]()|🔴 Feb 25, 2024|||||
 |🔴|[2742. Painting the Walls]()|🔴 Oct 14, 2023|||||
+|🔴|[2751. Robot Collisions](2751.cpp)|🟢 Jul 13, 2024|||||
 |🟡|[2785. Sort Vowels in a S]()|🟢 Nov 13, 2023|||||
 |🟡|[2849. Determine if a Cel]()|🟢 Nov 08, 2023|||||
 |🟢|[2864. Maximum Odd Binary](2864.cpp)|🟢 Mar 01, 2024|||||
