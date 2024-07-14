@@ -743,7 +743,7 @@
 |🟡|[723. Candy Crush]()||||||
 |🟢|[724. Find Pivot Index]()|🟢 Oct 27, 2022|||||
 |🟡|[725. Split Linked List i]()||||||
-|🔴|[726. Number of Atoms]()||||||
+|🔴|[726. Number of Atoms](726.cpp)|🟢 Jul 14, 2024|||||
 |🔴|[727. Minimum Window Subs]()||||||
 |🟢|[728. Self Dividing Numbe]()||||||
 |🟡|[729. My Calendar I]()||||||
