@@ -1127,7 +1127,7 @@
 |🟡|[1107. New Users Daily Co]()||||||
 |🟢|[1108. Defanging an IP Ad]()||||||
 |🟡|[1109. Corporate Flight B]()||||||
-|🟡|[1110. Delete Nodes And R]()||||||
+|🟡|[1110. Delete Nodes And R]()|🔴 Jul 17, 2024|||||
 |🟡|[1111. Maximum Nesting De]()||||||
 |🟡|[1112. Highest Grade For ]()||||||
 |🟢|[1113. Reported Posts]()||||||
@@ -2113,7 +2113,7 @@
 |🟡|[2093. Minimum Cost to Re]()||||||
 |🟢|[2094. Finding 3-Digit Ev]()||||||
 |🟡|[2095. Delete the Middle ]()||||||
-|🟡|[2096. Step-By-Step Direc]()||||||
+|🟡|[2096. Step-By-Step Direc]()|🔴 Jul 16, 2024|||||
 |🔴|[2097. Valid Arrangement ]()||||||
 |🟡|[2098. Subsequence of Siz]()||||||
 |🟢|[2099. Find Subsequence o]()||||||
