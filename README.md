@@ -1622,7 +1622,7 @@
 |🟡|[1602. Find Nearest Right]()||||||
 |🟢|[1603. Design Parking Sys]()||||||
 |🟡|[1604. Alert Using Same K]()||||||
-|🟡|[1605. Find Valid Matrix ]()||||||
+|🟡|[1605. Find Valid Matrix ]()|🟢 Jul 20, 2024|||||
 |🔴|[1606. Find Servers That ]()||||||
 |🟢|[1607. Sellers With No Sa]()||||||
 |🟢|[1608. Special Array With]()||||||
