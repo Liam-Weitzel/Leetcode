@@ -2062,7 +2062,7 @@
 |🟢|[2042. Check if Numbers A]()||||||
 |🟡|[2043. Simple Bank System]()||||||
 |🟡|[2044. Count Number of Ma]()||||||
-|🔴|[2045. Second Minimum Tim]()||||||
+|🔴|[2045. Second Minimum Tim](2045.java)|🟠 Jul 28, 2024|||||
 |🟡|[2046. Sort Linked List A]()||||||
 |🟢|[2047. Number of Valid Wo]()||||||
 |🟡|[2048. Next Greater Numer]()||||||
