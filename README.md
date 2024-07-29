@@ -1,9 +1,3 @@
-<div align="center">
-
-# My Leetcode Journey
-
-</div>
-
 ## Progress
 
 ![leetcode_profile](profile.jpg)
@@ -1412,7 +1406,7 @@
 |🔴|[1392. Longest Happy Pref]()||||||
 |🟡|[1393. Capital Gain/Loss]()||||||
 |🟢|[1394. Find Lucky Integer]()||||||
-|🟡|[1395. Count Number of Te]()||||||
+|🟡|[1395. Count Number of Te](1395.java)|🟢 Jul 29, 2024|||||
 |🟡|[1396. Design Underground]()||||||
 |🔴|[1397. Find All Good Stri]()||||||
 |🟡|[1398. Customers Who Boug]()||||||

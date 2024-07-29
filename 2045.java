@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution { // Jul 28, 2024
     private static int ETA(Integer currTime, Integer time, Integer change) {
         boolean green = (Math.floor(currTime/change)%2 == 0);
         if(green) return currTime + time;
