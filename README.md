@@ -1664,7 +1664,7 @@
 |🟡|[1650. Lowest Common Ance]()||||||
 |🔴|[1651. Hopper Company Que]()||||||
 |🟢|[1652. Defuse the Bomb]()||||||
-|🟡|[1653. Minimum Deletions ]()||||||
+|🟡|[1653. Minimum Deletions ](1653.java)|🟢 Jul 30, 2024|||||
 |🟡|[1654. Minimum Jumps to R]()||||||
 |🔴|[1655. Distribute Repeati]()||||||
 |🟢|[1656. Design an Ordered ]()||||||
