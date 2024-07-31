@@ -1116,7 +1116,7 @@
 |🟡|[1102. Path With Maximum ]()||||||
 |🟢|[1103. Distribute Candies]()||||||
 |🟡|[1104. Path In Zigzag Lab]()||||||
-|🟡|[1105. Filling Bookcase S]()||||||
+|🟡|[1105. Filling Bookcase S](1105.java)|🔴 Jul 31, 2024|||||
 |🔴|[1106. Parsing A Boolean ]()||||||
 |🟡|[1107. New Users Daily Co]()||||||
 |🟢|[1108. Defanging an IP Ad]()||||||
