@@ -2521,7 +2521,7 @@
 |🟢|[2582. Pass the Pillow](2582.cpp)|🟡 Jul 06, 2024|||||
 |🟡|[2610. Convert an Array I]()|🟢 Jan 02, 2024|||||
 |🔴|[2642. Design Graph With ]()|🔴 Nov 11, 2023|||||
-|🟡|[2870. Minimum Number of ]()|🟡 Jan 04, 2024|||||
+|🟢|[2678. Number of Senior C](2678.java)|🟢 Aug 01, 2024|||||
 |🟢|[2706. Buy Two Chocolates]()|🟢 Dec 20, 2023|||||
 |🔴|[2709. Greatest Common Di]()|🔴 Feb 25, 2024|||||
 |🔴|[2742. Painting the Walls]()|🔴 Oct 14, 2023|||||
@@ -2529,6 +2529,7 @@
 |🟡|[2785. Sort Vowels in a S]()|🟢 Nov 13, 2023|||||
 |🟡|[2849. Determine if a Cel]()|🟢 Nov 08, 2023|||||
 |🟢|[2864. Maximum Odd Binary](2864.cpp)|🟢 Mar 01, 2024|||||
+|🟡|[2870. Minimum Number of ]()|🟡 Jan 04, 2024|||||
 |🟡|[2966. Divide Array Into ]()|🟢 Feb 01, 2024|||||
 |🟡|[2971. Find Polygon With ]()|🟢 Feb 15, 2024|||||
 |🟡|[2958. Length of Longest ](2958.cpp)|🟢 Mar 28, 2024|||||
