@@ -2145,7 +2145,7 @@
 |🟡|[2131. Longest Palindrome]()||||||
 |🔴|[2132. Stamping the Grid]()||||||
 |🟢|[2133. Check if Every Row]()||||||
-|🟡|[2134. Minimum Swaps to G]()||||||
+|🟡|[2134. Minimum Swaps to G](2134.java)|🟢 Aug 02, 2024|||||
 |🟡|[2135. Count Words Obtain]()||||||
 |🔴|[2136. Earliest Possible ]()||||||
 |🟡|[2137. Pour Water Between]()||||||
