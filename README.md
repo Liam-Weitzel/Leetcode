@@ -1471,7 +1471,7 @@
 |🟡|[1457. Pseudo-Palindromic]()|🟢 Jan 24, 2024|||||
 |🔴|[1458. Max Dot Product of]()||||||
 |🟡|[1459. Rectangles Area]()||||||
-|🟢|[1460. Make Two Arrays Eq]()||||||
+|🟢|[1460. Make Two Arrays Eq](1460.java)|🟢 Aug 03, 2024|||||
 |🟡|[1461. Check If a String ]()||||||
 |🟡|[1462. Course Schedule IV]()||||||
 |🔴|[1463. Cherry Pickup II]()|🟢 Feb 11, 2024|||||
