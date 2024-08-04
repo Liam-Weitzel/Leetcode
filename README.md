@@ -1519,7 +1519,7 @@
 |🔴|[1505. Minimum Possible I]()||||||
 |🟡|[1506. Find Root of N-Ary]()||||||
 |🟢|[1507. Reformat Date]()||||||
-|🟡|[1508. Range Sum of Sorte]()||||||
+|🟡|[1508. Range Sum of Sorte](1508.java)|🟡 Aug 04, 2024|||||
 |🟡|[1509. Minimum Difference]()|🔴 Jul 03, 2024|||||
 |🔴|[1510. Stone Game IV]()||||||
 |🟢|[1511. Customer Order Fre]()||||||
