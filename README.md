@@ -2064,7 +2064,7 @@
 |🔴|[2050. Parallel Courses I]()|🔴 Oct 18, 2023|||||
 |🟡|[2051. The Category of Ea]()||||||
 |🟡|[2052. Minimum Cost to Se]()||||||
-|🟢|[2053. Kth Distinct Strin]()||||||
+|🟢|[2053. Kth Distinct Strin](2053.java)|🟢 Aug 05, 2024|||||
 |🟡|[2054. Two Best Non-Overl]()||||||
 |🟡|[2055. Plates Between Can]()||||||
 |🔴|[2056. Number of Valid Mo]()||||||
