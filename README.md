@@ -851,7 +851,7 @@
 |🟡|[837. New 21 Game]()||||||
 |🟡|[838. Push Dominoes]()||||||
 |🔴|[839. Similar String Grou]()|🔴 Apr 28, 2023|||||
-|🟡|[840. Magic Squares In Gr]()||||||
+|🟡|[840. Magic Squares In Gr](840.java)|🟢 Aug 09, 2024|||||
 |🟡|[841. Keys and Rooms]()|🟢 Dec 20, 2022|||||
 |🟡|[842. Split Array into Fi]()||||||
 |🔴|[843. Guess the Word]()||||||
