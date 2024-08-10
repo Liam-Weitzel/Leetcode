@@ -970,7 +970,7 @@
 |🔴|[956. Tallest Billboard]()||||||
 |🟡|[957. Prison Cells After ]()||||||
 |🟡|[958. Check Completeness ]()|🟢 Mar 15, 2023|||||
-|🟡|[959. Regions Cut By Slas]()||||||
+|🟡|[959. Regions Cut By Slas]()|🔴 Aug 10, 2024|||||
 |🔴|[960. Delete Columns to M]()||||||
 |🟢|[961. N-Repeated Element ]()||||||
 |🟡|[962. Maximum Width Ramp]()||||||
