@@ -1579,7 +1579,7 @@
 |🟢|[1565. Unique Orders and ]()||||||
 |🟢|[1566. Detect Pattern of ]()||||||
 |🟡|[1567. Maximum Length of ]()||||||
-|🔴|[1568. Minimum Number of ]()||||||
+|🔴|[1568. Minimum Number of ]()|🔴 Aug 11, 2024|||||
 |🔴|[1569. Number of Ways to ]()||||||
 |🟡|[1570. Dot Product of Two]()||||||
 |🟢|[1571. Warehouse Manager]()||||||
