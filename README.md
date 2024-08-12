@@ -714,7 +714,7 @@
 |🟢|[700. Search in a Binary ]()||||||
 |🟡|[701. Insert into a Binar]()||||||
 |🟡|[702. Search in a Sorted ]()||||||
-|🟢|[703. Kth Largest Element]()|🟢 May 23, 2023|||||
+|🟢|[703. Kth Largest Element](703.java)|🟢 May 23, 2023|🟢 Aug 12, 2024||||
 |🟢|[704. Binary Search]()|🟠 Nov 06, 2022|🟢 Apr 01, 2023||||
 |🟢|[705. Design HashSet]()||||||
 |🟢|[706. Design HashMap]()|🟢 Oct 04, 2023|||||
