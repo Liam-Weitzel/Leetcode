@@ -51,7 +51,7 @@
 |🔴|[37. Sudoku Solver]()||||||
 |🟡|[38. Count and Say]()||||||
 |🟡|[39. Combination Sum]()||||||
-|🟡|[40. Combination Sum II]()||||||
+|🟡|[40. Combination Sum II]()|🔴 Aug 13, 2024|||||
 |🔴|[41. First Missing Positi]()|🔴 Mar 26, 2024|||||
 |🔴|[42. Trapping Rain Water]()|🔴 Apr 12, 2024|||||
 |🟡|[43. Multiply Strings]()||||||
