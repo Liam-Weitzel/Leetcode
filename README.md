@@ -730,7 +730,7 @@
 |🔴|[716. Max Stack]()||||||
 |🟢|[717. 1-bit and 2-bit Cha]()||||||
 |🟡|[718. Maximum Length of R]()||||||
-|🔴|[719. Find K-th Smallest ]()||||||
+|🔴|[719. Find K-th Smallest ]()|🔴 Aug 14, 2024|||||
 |🟡|[720. Longest Word in Dic]()||||||
 |🟡|[721. Accounts Merge]()||||||
 |🟡|[722. Remove Comments]()||||||
