@@ -635,7 +635,7 @@
 |🟡|[621. Task Scheduler]()|🔴 Mar 19, 2024|||||
 |🟡|[622. Design Circular Que]()||||||
 |🟡|[623. Add One Row to Tree](623.cpp)|🟢 Apr 16, 2024|||||
-|🟡|[624. Maximum Distance in]()||||||
+|🟡|[624. Maximum Distance in](624.java)|🟡 Aug 16, 2024|||||
 |🟡|[625. Minimum Factorizati]()||||||
 |🟡|[626. Exchange Seats]()|🟢 Jan 07, 2022|||||
 |🟢|[627. Swap Salary]()|🟢 Jan 06, 2022|||||
