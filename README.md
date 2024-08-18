@@ -275,7 +275,7 @@
 |🟡|[261. Graph Valid Tree]()||||||
 |🔴|[262. Trips and Users]()||||||
 |🟢|[263. Ugly Number]()||||||
-|🟡|[264. Ugly Number II]()||||||
+|🟡|[264. Ugly Number II]()|🔴 Aug 18, 2024|||||
 |🔴|[265. Paint House II]()||||||
 |🟢|[266. Palindrome Permutat]()||||||
 |🟡|[267. Palindrome Permutat]()||||||
