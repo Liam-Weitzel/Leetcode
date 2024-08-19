@@ -661,7 +661,7 @@
 |🟡|[647. Palindromic Substri]()|🔴 Feb 10, 2024|||||
 |🟡|[648. Replace Words](648.cpp)|🟡 Jun 07, 2024|||||
 |🟡|[649. Dota2 Senate]()|🟡 May 04, 2023|||||
-|🟡|[650. 2 Keys Keyboard]()||||||
+|🟡|[650. 2 Keys Keyboard](650.java)|🟡 Aug 19, 2024|||||
 |🟡|[651. 4 Keys Keyboard]()||||||
 |🟡|[652. Find Duplicate Subt]()|🟢 Feb 28, 2023|||||
 |🟢|[653. Two Sum IV - Input ]()||||||
