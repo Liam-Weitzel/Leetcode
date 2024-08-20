@@ -1151,7 +1151,7 @@
 |🟢|[1137. N-th Tribonacci Nu](1137.cpp)|🟢 Jan 30, 2023|🟢 Apr 24, 2024||||
 |🟡|[1138. Alphabet Board Pat]()||||||
 |🟡|[1139. Largest 1-Bordered]()||||||
-|🟡|[1140. Stone Game II]()||||||
+|🟡|[1140. Stone Game II]()|🔴 Aug 20, 2024|||||
 |🟢|[1141. User Activity for ]()||||||
 |🟢|[1142. User Activity for ]()||||||
 |🟡|[1143. Longest Common Sub]()|🔴 Dec 15, 2022|🔴 Jan 25, 2024||||
