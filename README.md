@@ -2033,7 +2033,7 @@
 |🔴|[2019. The Score of Stude]()||||||
 |🟡|[2020. Number of Accounts]()||||||
 |🟡|[2021. Brightest Position]()||||||
-|🟢|[2022. Convert 1D Array I]()||||||
+|🟢|[2022. Convert 1D Array I]()|🟢 Sept 01, 2024|||||
 |🟡|[2023. Number of Pairs of]()||||||
 |🟡|[2024. Maximize the Confu]()||||||
 |🔴|[2025. Maximum Number of ]()||||||
