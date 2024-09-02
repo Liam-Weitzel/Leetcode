@@ -6,7 +6,7 @@ import java.util.stream.*;
 // The elements from indices 0 to n-1 inclusive of original should form the first row of the created 2d array.
 // The elements from indices n to 2 * n-1 inclusive of original should form the second row of the created 2d array.
 
-class Solution { // Sept 01, 2024
+class Solution { // Sep 01, 2024
     public static int[][] construct2DArray(int[] original, int m, int n) {
         if(original.length != m*n) return new int[][]{};
         int[][] ans = new int[m][n];
