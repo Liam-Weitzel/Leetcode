@@ -871,7 +871,7 @@
 |🔴|[857. Minimum Cost to Hir]()||||||
 |🟡|[858. Mirror Reflection]()||||||
 |🟢|[859. Buddy Strings]()||||||
-|🟢|[860. Lemonade Change]()||||||
+|🟢|[860. Lemonade Change](860.java)|🟢 Aug 15, 2024|||||
 |🟡|[861. Score After Flippin]()||||||
 |🔴|[862. Shortest Subarray w]()||||||
 |🟡|[863. All Nodes Distance ]()||||||
@@ -1905,7 +1905,7 @@
 |🟡|[1891. Cutting Ribbons]()||||||
 |🔴|[1892. Page Recommendatio]()||||||
 |🟢|[1893. Check if All the I]()||||||
-|🟡|[1894. Find the Student t]()||||||
+|🟡|[1894. Find the Student t](1894.java)|🟢 Sep 02, 2024|||||
 |🟡|[1895. Largest Magic Squa]()||||||
 |🔴|[1896. Minimum Cost to Ch]()||||||
 |🟢|[1897. Redistribute Chara]()|🟢 Dec 30, 2023|||||
@@ -1956,7 +1956,7 @@
 |🟡|[1942. The Number of the ]()||||||
 |🟡|[1943. Describe the Paint]()||||||
 |🔴|[1944. Number of Visible ]()||||||
-|🟢|[1945. Sum of Digits of S]()||||||
+|🟢|[1945. Sum of Digits of S](1945.java)|🟢 Sep 03, 2024|||||
 |🟡|[1946. Largest Number Aft]()||||||
 |🟡|[1947. Maximum Compatibil]()||||||
 |🔴|[1948. Delete Duplicate F]()||||||
@@ -2033,7 +2033,7 @@
 |🔴|[2019. The Score of Stude]()||||||
 |🟡|[2020. Number of Accounts]()||||||
 |🟡|[2021. Brightest Position]()||||||
-|🟢|[2022. Convert 1D Array I]()|🟢 Sep 01, 2024|||||
+|🟢|[2022. Convert 1D Array I](2022.java)|🟢 Sep 01, 2024|||||
 |🟡|[2023. Number of Pairs of]()||||||
 |🟡|[2024. Maximize the Confu]()||||||
 |🔴|[2025. Maximum Number of ]()||||||
