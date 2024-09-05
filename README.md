@@ -2039,7 +2039,7 @@
 |🔴|[2025. Maximum Number of ]()||||||
 |🟢|[2026. Low-Quality Proble]()||||||
 |🟢|[2027. Minimum Moves to C]()||||||
-|🟡|[2028. Find Missing Obser]()||||||
+|🟡|[2028. Find Missing Obser](2028.java)|🔴 Sep 05, 2024|||||
 |🟡|[2029. Stone Game IX]()||||||
 |🔴|[2030. Smallest K-Length ]()||||||
 |🟡|[2031. Count Subarrays Wi]()||||||
