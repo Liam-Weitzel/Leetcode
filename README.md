@@ -1382,7 +1382,7 @@
 |🔴|[1368. Minimum Cost to Ma]()||||||
 |🔴|[1369. Get the Second Mos]()||||||
 |🟢|[1370. Increasing Decreas]()||||||
-|🟡|[1371. Find the Longest S]()||||||
+|🟡|[1371. Find the Longest S](1371.java)|🔴 Sep 15, 2024|||||
 |🟡|[1372. Longest ZigZag Pat]()|🟢 Apr 19, 2023|||||
 |🔴|[1373. Maximum Sum BST in]()||||||
 |🟢|[1374. Generate a String ]()||||||
