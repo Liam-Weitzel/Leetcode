@@ -1357,7 +1357,7 @@
 |🟡|[1343. Number of Sub-arra]()||||||
 |🟡|[1344. Angle Between Hand]()||||||
 |🔴|[1345. Jump Game IV]()|🔴 Mar 05, 2023|||||
-|🟢|[1346. Check If N and Its]()||||||
+|🟢|[1346. Check If N and Its](1346.cpp)|🟢 Dec 01, 2024|||||
 |🟡|[1347. Minimum Number of ]()|🟢 Jan 13, 2024|||||
 |🟡|[1348. Tweet Counts Per F]()||||||
 |🔴|[1349. Maximum Students T]()||||||
@@ -1466,7 +1466,7 @@
 |🟡|[1452. People Whose List ]()||||||
 |🔴|[1453. Maximum Number of ]()||||||
 |🟡|[1454. Active Users]()||||||
-|🟢|[1455. Check If a Word Oc]()||||||
+|🟢|[1455. Check If a Word Oc](1455.cpp)|🟢 Dec 02, 2024|||||
 |🟡|[1456. Maximum Number of ]()|🟡 May 05, 2023|||||
 |🟡|[1457. Pseudo-Palindromic]()|🟢 Jan 24, 2024|||||
 |🔴|[1458. Max Dot Product of]()||||||
