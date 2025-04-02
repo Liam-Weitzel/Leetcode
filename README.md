@@ -2531,6 +2531,7 @@
 |🟡|[2849. Determine if a Cel]()|🟢 Nov 08, 2023|||||
 |🟢|[2864. Maximum Odd Binary](2864.cpp)|🟢 Mar 01, 2024|||||
 |🟡|[2870. Minimum Number of ]()|🟡 Jan 04, 2024|||||
+|🟢|[2873. Maximum Value of a](2873.cpp)|🟢 Apr 02, 2025|||||
 |🟡|[2966. Divide Array Into ]()|🟢 Feb 01, 2024|||||
 |🟡|[2971. Find Polygon With ]()|🟢 Feb 15, 2024|||||
 |🟡|[2958. Length of Longest ](2958.cpp)|🟢 Mar 28, 2024|||||
