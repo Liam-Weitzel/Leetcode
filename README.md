@@ -1134,7 +1134,7 @@
 |🟡|[1120. Maximum Average Su]()||||||
 |🔴|[1121. Divide Array Into ]()||||||
 |🟢|[1122. Relative Sort Arra](1122.cpp)|🟢 Jun 11, 2024|||||
-|🟡|[1123. Lowest Common Ance]()||||||
+|🟡|[1123. Lowest Common Ance](1123.cpp)|🟢 Apr 04, 2025|||||
 |🟡|[1124. Longest Well-Perfo]()||||||
 |🔴|[1125. Smallest Sufficien]()||||||
 |🟡|[1126. Active Businesses]()||||||
