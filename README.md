@@ -1874,7 +1874,7 @@
 |🟡|[1860. Incremental Memory]()||||||
 |🟡|[1861. Rotating the Box]()||||||
 |🔴|[1862. Sum of Floored Pai]()||||||
-|🟢|[1863. Sum of All Subset ]()||||||
+|🟢|[1863. Sum of All Subset ](1863.cpp)|🟢 Apr 05, 2025|||||
 |🟡|[1864. Minimum Number of ]()||||||
 |🟡|[1865. Finding Pairs With]()||||||
 |🔴|[1866. Number of Ways to ]()||||||
