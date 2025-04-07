@@ -427,7 +427,7 @@
 |🟡|[413. Arithmetic Slices]()||||||
 |🟢|[414. Third Maximum Numbe]()||||||
 |🟢|[415. Add Strings]()||||||
-|🟡|[416. Partition Equal Sub]()||||||
+|🟡|[416. Partition Equal Sub]()|🔴 Apr 07, 2025|||||
 |🟡|[417. Pacific Atlantic Wa]()||||||
 |🟡|[418. Sentence Screen Fit]()||||||
 |🟡|[419. Battleships in a Bo]()||||||
