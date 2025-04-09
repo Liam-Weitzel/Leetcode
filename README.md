@@ -2539,4 +2539,5 @@
 |🟡|[2962. Count Subarrays Wh](2962.cpp)|🟢 Mar 29, 2024|||||
 |🟢|[3005. Count Elements Wit](3005.cpp)|🟢 Mar 08, 2024|||||
 |🟡|[3016. Minimum Number of ](3016.java)|🟢 Aug 06, 2024|||||
+|🟢|[3375. Minimum Operations](3375.java)|🟢 Apr 09, 2025|||||
 |🟢|[3396. Minimum Number of ](3396.java)|🟡 Apr 08, 2025|||||
