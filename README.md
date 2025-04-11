@@ -2528,6 +2528,7 @@
 |🔴|[2751. Robot Collisions](2751.cpp)|🟢 Jul 13, 2024|||||
 |🟡|[2785. Sort Vowels in a S]()|🟢 Nov 13, 2023|||||
 |🟡|[2825. Make String a Subs](2825.cpp)|🟢 Dec 04, 2024|||||
+|🟢|[2843. Count Symmetric In](2843.cpp)|🟡 Apr 11, 2025|||||
 |🟡|[2849. Determine if a Cel]()|🟢 Nov 08, 2023|||||
 |🟢|[2864. Maximum Odd Binary](2864.cpp)|🟢 Mar 01, 2024|||||
 |🟡|[2870. Minimum Number of ]()|🟡 Jan 04, 2024|||||
