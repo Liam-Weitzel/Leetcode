@@ -2541,5 +2541,6 @@
 |🔴|[2999. Count the Number o]()|🔴 Apr 10, 2025|||||
 |🟢|[3005. Count Elements Wit](3005.cpp)|🟢 Mar 08, 2024|||||
 |🟡|[3016. Minimum Number of ](3016.java)|🟢 Aug 06, 2024|||||
+|🔴|[3272. Find the Count of ](3272.cpp)|🔴 Apr 12, 2025|||||
 |🟢|[3375. Minimum Operations](3375.java)|🟢 Apr 09, 2025|||||
 |🟢|[3396. Minimum Number of ](3396.java)|🟡 Apr 08, 2025|||||
