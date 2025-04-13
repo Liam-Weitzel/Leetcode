@@ -1933,7 +1933,7 @@
 |🔴|[1919. Leetcodify Similar]()||||||
 |🟢|[1920. Build Array from P]()||||||
 |🟡|[1921. Eliminate Maximum ]()|🟢 Nov 07, 2023|||||
-|🟡|[1922. Count Good Numbers]()||||||
+|🟡|[1922. Count Good Numbers](1922.cpp)|🟢 Apr 13, 2025|||||
 |🔴|[1923. Longest Common Sub]()||||||
 |🔴|[1924. Erect the Fence II]()||||||
 |🟢|[1925. Count Square Sum T]()||||||
