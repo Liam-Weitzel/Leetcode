@@ -1545,7 +1545,7 @@
 |🔴|[1531. String Compression]()|🔴 Dec 28, 2023|||||
 |🟡|[1532. The Most Recent Th]()||||||
 |🟡|[1533. Find the Index of ]()||||||
-|🟢|[1534. Count Good Triplet]()||||||
+|🟢|[1534. Count Good Triplet](1534.cpp)|🟢 Apr 14, 2025|||||
 |🟡|[1535. Find the Winner of]()|🟢 Nov 05, 2023|||||
 |🟡|[1536. Minimum Swaps to A]()||||||
 |🔴|[1537. Get the Maximum Sc]()||||||
