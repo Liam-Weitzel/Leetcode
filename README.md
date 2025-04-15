@@ -2190,7 +2190,7 @@
 |🟢|[2176. Count Equal and Di]()||||||
 |🟡|[2177. Find Three Consecu]()||||||
 |🟡|[2178. Maximum Split of P]()||||||
-|🔴|[2179. Count Good Triplet]()||||||
+|🔴|[2179. Count Good Triplet]()|🔴 Apr 15, 2025|||||
 |🟢|[2180. Count Integers Wit]()||||||
 |🟡|[2181. Merge Nodes in Bet](2181.cpp)|🟢 Jul 04, 2024|||||
 |🟡|[2182. Construct String W]()||||||
