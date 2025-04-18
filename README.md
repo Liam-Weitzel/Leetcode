@@ -49,7 +49,7 @@
 |🟢|[35. Search Insert Positi]()|🟠 Oct 27, 2022|🟢 Feb 20, 2023||||
 |🟡|[36. Valid Sudoku]()||||||
 |🔴|[37. Sudoku Solver]()||||||
-|🟡|[38. Count and Say]()||||||
+|🟡|[38. Count and Say](38.cpp)|🟢 Apr 18, 2025|||||
 |🟡|[39. Combination Sum]()||||||
 |🟡|[40. Combination Sum II]()|🔴 Aug 13, 2024|||||
 |🔴|[41. First Missing Positi]()|🔴 Mar 26, 2024|||||
