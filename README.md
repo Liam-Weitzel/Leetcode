@@ -792,7 +792,7 @@
 |🔴|[778. Swim in Rising Wate]()||||||
 |🟡|[779. K-th Symbol in Gram]()|🔴 Oct 25, 2023|||||
 |🔴|[780. Reaching Points]()||||||
-|🟡|[781. Rabbits in Forest]()||||||
+|🟡|[781. Rabbits in Forest](781.cpp)|🟢 Apr 20, 2025|||||
 |🔴|[782. Transform to Chessb]()||||||
 |🟢|[783. Minimum Distance Be]()|🟢 Feb 17, 2023|||||
 |🟡|[784. Letter Case Permuta]()||||||
