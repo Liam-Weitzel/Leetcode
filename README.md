@@ -2156,7 +2156,7 @@
 |🟡|[2142. The Number of Pass]()||||||
 |🔴|[2143. Choose Numbers Fro]()||||||
 |🟢|[2144. Minimum Cost of Bu]()||||||
-|🟡|[2145. Count the Hidden S]()||||||
+|🟡|[2145. Count the Hidden S](2145.cpp)|🟢 Apr 21, 2025|||||
 |🟡|[2146. K Highest Ranked I]()||||||
 |🔴|[2147. Number of Ways to ]()|🔴 Nov 28, 2023|||||
 |🟢|[2148. Count Elements Wit]()||||||
