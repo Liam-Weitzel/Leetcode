@@ -2349,7 +2349,7 @@
 |🟢|[2335. Minimum Amount of ]()||||||
 |🟡|[2336. Smallest Number in]()|🟡 Apr 25, 2023|||||
 |🟡|[2337. Move Pieces to Obt](2337.cpp)|🟢 Dec 05, 2024|||||
-|🔴|[2338. Count the Number o]()||||||
+|🔴|[2338. Count the Number o]()|🔴 Apr 22, 2025|||||
 |🟢|[2339. All the Matches of]()||||||
 |🟡|[2340. Minimum Adjacent S]()||||||
 |🟢|[2341. Maximum Number of ]()||||||
