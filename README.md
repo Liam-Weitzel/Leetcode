@@ -2313,7 +2313,7 @@
 |🟢|[2299. Strong Password Ch]()||||||
 |🟡|[2300. Successful Pairs o]()|🟢 Apr 02, 2023|||||
 |🔴|[2301. Match Substring Af]()||||||
-|🔴|[2302. Count Subarrays Wi]()||||||
+|🔴|[2302. Count Subarrays Wi]()|🔴 Apr 28, 2025|||||
 |🟢|[2303. Calculate Amount P]()||||||
 |🟡|[2304. Minimum Path Cost ]()||||||
 |🟡|[2305. Fair Distribution ]()||||||
