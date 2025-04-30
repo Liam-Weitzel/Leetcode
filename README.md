@@ -1306,7 +1306,7 @@
 |🟡|[1292. Maximum Side Lengt]()||||||
 |🔴|[1293. Shortest Path in a]()||||||
 |🟢|[1294. Weather Type in Ea]()||||||
-|🟢|[1295. Find Numbers with ]()||||||
+|🟢|[1295. Find Numbers with ](1295.cpp)|🟢 Apr 30, 2025|||||
 |🟡|[1296. Divide Array in Se]()||||||
 |🟡|[1297. Maximum Number of ]()||||||
 |🔴|[1298. Maximum Candies Yo]()||||||
