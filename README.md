@@ -2082,7 +2082,7 @@
 |🟢|[2068. Check Whether Two ]()||||||
 |🟡|[2069. Walking Robot Simu]()||||||
 |🟡|[2070. Most Beautiful Ite]()||||||
-|🔴|[2071. Maximum Number of ]()||||||
+|🔴|[2071. Maximum Number of ]()|🔴 May 01, 2025|||||
 |🟢|[2072. The Winner Univers]()||||||
 |🟢|[2073. Time Needed to Buy](2073.cpp)|🟡 Apr 09, 2024|||||
 |🟡|[2074. Reverse Nodes in E]()||||||
