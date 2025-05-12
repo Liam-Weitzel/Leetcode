@@ -2105,7 +2105,7 @@
 |🟡|[2091. Removing Minimum a]()||||||
 |🔴|[2092. Find All People Wi]()|🔴 Feb 24, 2024|||||
 |🟡|[2093. Minimum Cost to Re]()||||||
-|🟢|[2094. Finding 3-Digit Ev]()||||||
+|🟢|[2094. Finding 3-Digit Ev](2094.cpp)|🟢 May 12, 2025|||||
 |🟡|[2095. Delete the Middle ]()||||||
 |🟡|[2096. Step-By-Step Direc]()|🔴 Jul 16, 2024|||||
 |🔴|[2097. Valid Arrangement ]()||||||
