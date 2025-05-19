@@ -2545,6 +2545,7 @@
 |🔴|[2999. Count the Number o]()|🔴 Apr 10, 2025|||||
 |🟢|[3005. Count Elements Wit](3005.cpp)|🟢 Mar 08, 2024|||||
 |🟡|[3016. Minimum Number of ](3016.java)|🟢 Aug 06, 2024|||||
+|🟢|[3024. Type of Triangle](3024.cpp)|🟢 May 19, 2025|||||
 |🔴|[3272. Find the Count of ](3272.cpp)|🔴 Apr 12, 2025|||||
 |🟡|[3335. Total Characters i](3335.cpp)|🟢 May 13, 2025|||||
 |🟢|[3375. Minimum Operations](3375.cpp)|🟢 Apr 09, 2025|||||
