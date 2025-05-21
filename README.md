@@ -84,7 +84,7 @@
 |🟢|[70. Climbing Stairs]()|🟢 Nov 08, 2022|🟢 Dec 12, 2022|🟢 Jan 18, 2024|||
 |🟡|[71. Simplify Path]()|🔴 Apr 12, 2023|||||
 |🔴|[72. Edit Distance]()|🔴 Feb 26, 2023|||||
-|🟡|[73. Set Matrix Zeroes]()||||||
+|🟡|[73. Set Matrix Zeroes](73.cpp)|🟢 May 21, 2025|||||
 |🟡|[74. Search a 2D Matrix]()||||||
 |🟡|[75. Sort Colors](75.cpp)|🟢 Jun 12, 2024|||||
 |🔴|[76. Minimum Window Subst]()|🔴 Feb 04, 2024|||||
