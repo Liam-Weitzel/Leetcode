@@ -2142,7 +2142,7 @@
 |🟡|[2128. Remove All Ones Wi]()||||||
 |🟢|[2129. Capitalize the Tit]()||||||
 |🟡|[2130. Maximum Twin Sum o]()|🟢 May 17, 2023|||||
-|🟡|[2131. Longest Palindrome]()||||||
+|🟡|[2131. Longest Palindrome](2131.cpp)|🟢 May 25, 2025|||||
 |🔴|[2132. Stamping the Grid]()||||||
 |🟢|[2133. Check if Every Row]()||||||
 |🟡|[2134. Minimum Swaps to G](2134.java)|🟢 Aug 02, 2024|||||
