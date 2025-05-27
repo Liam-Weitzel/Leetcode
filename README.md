@@ -2537,6 +2537,7 @@
 |🟡|[2870. Minimum Number of ]()|🟡 Jan 04, 2024|||||
 |🟢|[2873. Maximum Value of a](2873.cpp)|🟢 Apr 02, 2025|||||
 |🟡|[2874. Maximum Value of a](2874.cpp)|🟢 Apr 03, 2025|||||
+|🟢|[2894. Divisible and Non-](2894.cpp)|🟡 May 27, 2025|||||
 |🟢|[2900. Longest Unequal Ad](2900.cpp)|🟢 May 15, 2025|||||
 |🟢|[2942. Find Words Contain](2942.cpp)|🟢 May 24, 2025|||||
 |🟡|[2966. Divide Array Into ]()|🟢 Feb 01, 2024|||||
