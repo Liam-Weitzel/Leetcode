@@ -4,7 +4,6 @@
 #include <utility>
 #include <vector>
 
-
 class Solution {
 private:
   int bfs(std::vector<std::vector<int>>& tree, int node, int k) {
