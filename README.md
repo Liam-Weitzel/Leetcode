@@ -2370,7 +2370,7 @@
 |🟢|[2356. Number of Unique S]()||||||
 |🟢|[2357. Make Array Zero by]()||||||
 |🟡|[2358. Maximum Number of ]()||||||
-|🟡|[2359. Find Closest Node ]()|🔴 Jan 25, 2023|||||
+|🟡|[2359. Find Closest Node ](2359.cpp)|🔴 Jan 25, 2023|🟢 May 30, 2025||||
 |🔴|[2360. Longest Cycle in a]()|🟡 Mar 26, 2023|||||
 |🔴|[2361. Minimum Costs Usin]()||||||
 |🔴|[2362. Generate the Invoi]()||||||
