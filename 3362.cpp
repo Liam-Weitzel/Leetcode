@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-class Solution {
+class Solution { // May 22, 2025
 public:
   int maxRemoval(std::vector<int> nums, std::vector<std::vector<int>> queries) {
     std::vector<int> diff(nums.size()+1);

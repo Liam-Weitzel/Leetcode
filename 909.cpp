@@ -3,7 +3,7 @@
 #include <ostream>
 #include <vector>
 
-class Solution {
+class Solution { // May 31, 2025
 public:
   int snakesAndLadders(std::vector<std::vector<int>>& board) {
     int n = board.size();
