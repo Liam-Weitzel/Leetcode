@@ -2539,6 +2539,7 @@
 |🟡|[2874. Maximum Value of a](2874.cpp)|🟢 Apr 03, 2025|||||
 |🟢|[2894. Divisible and Non-](2894.cpp)|🟡 May 27, 2025|||||
 |🟢|[2900. Longest Unequal Ad](2900.cpp)|🟢 May 15, 2025|||||
+|🔴|[2929. Distribute Candies]()|🔴 Jun 01, 2025|||||
 |🟢|[2942. Find Words Contain](2942.cpp)|🟢 May 24, 2025|||||
 |🟡|[2966. Divide Array Into ]()|🟢 Feb 01, 2024|||||
 |🟡|[2971. Find Polygon With ]()|🟢 Feb 15, 2024|||||
