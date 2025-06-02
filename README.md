@@ -146,7 +146,7 @@
 |🔴|[132. Palindrome Partitio]()||||||
 |🟡|[133. Clone Graph]()|🔴 Apr 08, 2023|||||
 |🟡|[134. Gas Station]()|🔴 Jan 07, 2023|||||
-|🔴|[135. Candy]()||||||
+|🔴|[135. Candy]()|🔴 Jun 02, 2025|||||
 |🟢|[136. Single Number]()||||||
 |🟡|[137. Single Number II]()||||||
 |🟡|[138. Copy List with Rand]()||||||
