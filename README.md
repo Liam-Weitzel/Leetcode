@@ -1309,7 +1309,7 @@
 |🟢|[1295. Find Numbers with ](1295.cpp)|🟢 Apr 30, 2025|||||
 |🟡|[1296. Divide Array in Se]()||||||
 |🟡|[1297. Maximum Number of ]()||||||
-|🔴|[1298. Maximum Candies Yo]()||||||
+|🔴|[1298. Maximum Candies Yo]()|🔴 Jun 03, 2025|||||
 |🟢|[1299. Replace Elements w]()||||||
 |🟡|[1300. Sum of Mutated Arr]()||||||
 |🔴|[1301. Number of Paths wi]()||||||
