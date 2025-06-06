@@ -2445,7 +2445,7 @@
 |🟡|[2431. Maximize Total Tas]()||||||
 |🟢|[2432. The Employee That ]()||||||
 |🟡|[2433. Find The Original ]()|🟢 Oct 31, 2023|||||
-|🟡|[2434. Using a Robot to P]()||||||
+|🟡|[2434. Using a Robot to P](2434.cpp)|🟢 Jun 06, 2025|||||
 |🔴|[2435. Paths in Matrix Wh]()||||||
 |🟡|[2436. Minimum Split Into]()||||||
 |🟢|[2437. Number of Valid Cl]()||||||
