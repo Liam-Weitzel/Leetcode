@@ -2027,7 +2027,7 @@
 |🟡|[2013. Detect Squares]()||||||
 |🔴|[2014. Longest Subsequenc]()||||||
 |🟡|[2015. Average Height of ]()||||||
-|🟢|[2016. Maximum Difference]()||||||
+|🟢|[2016. Maximum Difference](2016.cpp)|🟢 Jun 16, 2025|||||
 |🟡|[2017. Grid Game]()||||||
 |🟡|[2018. Check if Word Can ]()||||||
 |🔴|[2019. The Score of Stude]()||||||
