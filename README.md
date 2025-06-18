@@ -2542,7 +2542,7 @@
 |🟢|[2900. Longest Unequal Ad](2900.cpp)|🟢 May 15, 2025|||||
 |🔴|[2929. Distribute Candies]()|🔴 Jun 01, 2025|||||
 |🟢|[2942. Find Words Contain](2942.cpp)|🟢 May 24, 2025|||||
-|🟡|[2966. Divide Array Into ]()|🟢 Feb 01, 2024|||||
+|🟡|[2966. Divide Array Into ](2966.cpp)|🟢 Feb 01, 2024|🟢 Jun 18, 2025||||
 |🟡|[2971. Find Polygon With ]()|🟢 Feb 15, 2024|||||
 |🟡|[2958. Length of Longest ](2958.cpp)|🟢 Mar 28, 2024|||||
 |🟡|[2962. Count Subarrays Wh](2962.cpp)|🟢 Mar 29, 2024|🟢 Apr 29, 2025||||
