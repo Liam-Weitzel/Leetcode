@@ -2322,7 +2322,7 @@
 |🟡|[2308. Arrange Table by G]()||||||
 |🟢|[2309. Greatest English L]()||||||
 |🟡|[2310. Sum of Numbers Wit]()||||||
-|🟡|[2311. Longest Binary Sub]()||||||
+|🟡|[2311. Longest Binary Sub](2311.cpp)|🟠 Jun 26, 2025|||||
 |🔴|[2312. Selling Pieces of ]()||||||
 |🔴|[2313. Minimum Flips in B]()||||||
 |🟡|[2314. The First Day of t]()||||||
