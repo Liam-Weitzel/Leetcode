@@ -2110,7 +2110,7 @@
 |🟡|[2096. Step-By-Step Direc]()|🔴 Jul 16, 2024|||||
 |🔴|[2097. Valid Arrangement ]()||||||
 |🟡|[2098. Subsequence of Siz]()||||||
-|🟢|[2099. Find Subsequence o]()||||||
+|🟢|[2099. Find Subsequence o](2099.cpp)|🟢 Jun 29, 2025|||||
 |🟡|[2100. Find Good Days to ]()||||||
 |🟡|[2101. Detonate the Maxim]()||||||
 |🔴|[2102. Sequentially Ordin]()||||||
