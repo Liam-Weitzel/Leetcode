@@ -605,7 +605,7 @@
 |🔴|[591. Tag Validator]()||||||
 |🟡|[592. Fraction Addition a]()||||||
 |🟡|[593. Valid Square]()||||||
-|🟢|[594. Longest Harmonious ]()||||||
+|🟢|[594. Longest Harmonious ](594.cpp)|🟡 Jun 30, 2025|||||
 |🟢|[595. Big Countries]()|🟢 Jan 06, 2022|||||
 |🟢|[596. Classes More Than 5]()|🟢 Jan 06, 2022|||||
 |🟢|[597. Friend Requests I: ]()||||||
