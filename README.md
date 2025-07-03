@@ -2552,6 +2552,7 @@
 |🟢|[3024. Type of Triangle](3024.cpp)|🟢 May 19, 2025|||||
 |🟡|[3170. Lexicographicall](3170.cpp)|🟡 Jun 07, 2025|||||
 |🔴|[3272. Find the Count of ](3272.cpp)|🔴 Apr 12, 2025|||||
+|🟢|[3304. Find the K-th Char](3304.cpp)|🟢 Jul 03, 2025|||||
 |🟢|[3330. Find the Original ](3330.cpp)|🟢 Jul 01, 2025|||||
 |🟡|[3335. Total Characters i](3335.cpp)|🟢 May 13, 2025|||||
 |🟡|[3355. Zero Array Transfo](3355.cpp)|🟢 May 20, 2025|||||
