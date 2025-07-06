@@ -1876,7 +1876,7 @@
 |🔴|[1862. Sum of Floored Pai]()||||||
 |🟢|[1863. Sum of All Subset ](1863.cpp)|🟢 Apr 05, 2025|||||
 |🟡|[1864. Minimum Number of ]()||||||
-|🟡|[1865. Finding Pairs With]()||||||
+|🟡|[1865. Finding Pairs With](1865.cpp)|🟢 Jul 06, 2025|||||
 |🔴|[1866. Number of Ways to ]()||||||
 |🟡|[1867. Orders With Maximu]()||||||
 |🟡|[1868. Product of Two Run]()||||||
