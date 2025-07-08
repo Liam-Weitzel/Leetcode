@@ -1762,7 +1762,7 @@
 |🟢|[1748. Sum of Unique Elem]()||||||
 |🟡|[1749. Maximum Absolute S]()||||||
 |🟡|[1750. Minimum Length of ](1750.cpp)|🟢 Mar 05, 2024|||||
-|🔴|[1751. Maximum Number of ]()||||||
+|🔴|[1751. Maximum Number of ](1751.cpp)|🟠 Jul 08, 2025|||||
 |🟢|[1752. Check if Array Is ]()||||||
 |🟡|[1753. Maximum Score From]()||||||
 |🟡|[1754. Largest Merge Of T]()||||||
