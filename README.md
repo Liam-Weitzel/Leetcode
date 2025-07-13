@@ -2421,7 +2421,7 @@
 |🔴|[2407. Longest Increasing]()||||||
 |🟡|[2408. Design SQL]()||||||
 |🟢|[2409. Count Days Spent T]()||||||
-|🟡|[2410. Maximum Matching o]()||||||
+|🟡|[2410. Maximum Matching o](2410.cpp)|🟢 Jul 13, 2025|||||
 |🟡|[2411. Smallest Subarrays]()||||||
 |🔴|[2412. Minimum Money Requ]()||||||
 |🟢|[2413. Smallest Even Mult]()||||||
