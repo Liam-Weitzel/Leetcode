@@ -2550,6 +2550,7 @@
 |🟢|[3005. Count Elements Wit](3005.cpp)|🟢 Mar 08, 2024|||||
 |🟡|[3016. Minimum Number of ](3016.java)|🟢 Aug 06, 2024|||||
 |🟢|[3024. Type of Triangle](3024.cpp)|🟢 May 19, 2025|||||
+|🟢|[3136. Valid Word](3136.cpp)|🟢 Jul 15, 2025|||||
 |🟡|[3170. Lexicographicall](3170.cpp)|🟡 Jun 07, 2025|||||
 |🔴|[3272. Find the Count of ](3272.cpp)|🔴 Apr 12, 2025|||||
 |🟢|[3304. Find the K-th Char](3304.cpp)|🟢 Jul 03, 2025|||||
