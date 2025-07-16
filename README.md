@@ -2552,6 +2552,7 @@
 |🟢|[3024. Type of Triangle](3024.cpp)|🟢 May 19, 2025|||||
 |🟢|[3136. Valid Word](3136.cpp)|🟢 Jul 15, 2025|||||
 |🟡|[3170. Lexicographicall](3170.cpp)|🟡 Jun 07, 2025|||||
+|🟢|[3201. Find the Maximum](3201.cpp)|🟢 Jul 16, 2025|||||
 |🔴|[3272. Find the Count of ](3272.cpp)|🔴 Apr 12, 2025|||||
 |🟢|[3304. Find the K-th Char](3304.cpp)|🟢 Jul 03, 2025|||||
 |🟢|[3330. Find the Original ](3330.cpp)|🟢 Jul 01, 2025|||||
