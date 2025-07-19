@@ -1244,7 +1244,7 @@
 |🟡|[1230. Toss Strange Coins]()||||||
 |🔴|[1231. Divide Chocolate]()||||||
 |🟢|[1232. Check If It Is a S]()||||||
-|🟡|[1233. Remove Sub-Folders]()||||||
+|🟡|[1233. Remove Sub-Folders](1233.cpp)|🟢 Jul 19, 2025|||||
 |🟡|[1234. Replace the Substr]()||||||
 |🔴|[1235. Maximum Profit in ]()|🔴 Jan 06, 2024|||||
 |🟡|[1236. Web Crawler]()||||||
