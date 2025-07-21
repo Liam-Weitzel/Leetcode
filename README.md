@@ -1968,7 +1968,7 @@
 |🟡|[1954. Minimum Garden Per]()||||||
 |🔴|[1955. Count Number of Sp]()||||||
 |🔴|[1956. Minimum Time For K]()||||||
-|🟢|[1957. Delete Characters ]()||||||
+|🟢|[1957. Delete Characters ](1957.cpp)|🟢 Jul 21, 2025|||||
 |🟡|[1958. Check if Move is L]()||||||
 |🟡|[1959. Minimum Total Spac]()||||||
 |🔴|[1960. Maximum Product of]()||||||
