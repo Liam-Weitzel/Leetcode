@@ -1728,7 +1728,7 @@
 |🔴|[1714. Sum Of Special Eve]()||||||
 |🟡|[1715. Count Apples and O]()||||||
 |🟢|[1716. Calculate Money in]()|🟢 Dec 06, 2023|||||
-|🟡|[1717. Maximum Score From](1717.cpp)|🟢 Jul 12, 2024|||||
+|🟡|[1717. Maximum Score From](1717.cpp)|🟢 Jul 12, 2024|🟢 Jul 23, 2025||||
 |🟡|[1718. Construct the Lexi]()||||||
 |🔴|[1719. Number Of Ways To ]()||||||
 |🟢|[1720. Decode XORed Array]()||||||

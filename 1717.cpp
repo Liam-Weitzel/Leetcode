@@ -1,9 +1,52 @@
 #include <algorithm>
 #include <iostream>
 #include <stack>
+#include <string>
 #include <utility>
 
-class Solution { //Jul 12, 2024
+class Solution { //Jul 23, 2025
+public:
+  int maximumGain(std::string s, int x, int y) {
+    std::stack<char> stack;
+    int res = 0;
+    std::pair<std::string, int> optimal = (x > y ? std::make_pair("ab", x) : std::make_pair("ba", y));
+    
+    for(char i : s) {
+      if(stack.size() == 0) {
+        stack.push(i);
+      } else if (std::string() + stack.top() + i == optimal.first) {
+        res += optimal.second;
+        stack.pop();
+      } else {
+        stack.push(i);
+      }
+    }
+
+    s.clear();
+    while (!stack.empty()) {
+      s.push_back(stack.top());
+      stack.pop();
+    }
+    std::reverse(s.begin(), s.end());
+
+    std::pair<std::string, int> subOptimal = (x <= y ? std::make_pair("ab", x) : std::make_pair("ba", y));
+    
+    for(char i : s) {
+      if(stack.size() == 0) {
+        stack.push(i);
+      } else if (std::string() + stack.top() + i == subOptimal.first) {
+        res += subOptimal.second;
+        stack.pop();
+      } else {
+        stack.push(i);
+      }
+    }
+
+    return res;
+  }
+};
+
+class SolutionOld { //Jul 12, 2024
 private:
   int maximumGainHelper(std::string& s, std::stack<char>& eraseStack, int& res, std::pair<std::string, int>& pattern) {
     for(char i : s) {
