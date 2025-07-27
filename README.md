@@ -2221,7 +2221,7 @@
 |🟡|[2207. Maximize Number of]()||||||
 |🟡|[2208. Minimum Operations]()||||||
 |🔴|[2209. Minimum White Tile]()||||||
-|🟢|[2210. Count Hills and Va]()||||||
+|🟢|[2210. Count Hills and Va](2210.cpp)|🟢 Jul 27, 2025|||||
 |🟡|[2211. Count Collisions o]()||||||
 |🟡|[2212. Maximum Points in ]()||||||
 |🔴|[2213. Longest Substring ]()||||||
@@ -2566,3 +2566,4 @@
 |🟢|[3396. Minimum Number of ](3396.cpp)|🟡 Apr 08, 2025|||||
 |🟢|[3423. Maximum Difference](3423.cpp)|🟢 Jun 12, 2025|||||
 |🟢|[3442. Maximum Difference](3442.cpp)|🟢 Jun 10, 2025|||||
+|🟢|[3487. Maximum Unique Sub](3487.cpp)|🟢 Jul 27, 2025|||||
