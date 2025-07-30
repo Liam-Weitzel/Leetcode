@@ -2430,7 +2430,7 @@
 |🔴|[2416. Sum of Prefix Scor]()||||||
 |🟡|[2417. Closest Fair Integ]()||||||
 |🟢|[2418. Sort the People]()||||||
-|🟡|[2419. Longest Subarray W]()||||||
+|🟡|[2419. Longest Subarray W](2419.cpp)|🟢 Jul 30, 2025|||||
 |🟡|[2420. Find All Good Indi]()||||||
 |🔴|[2421. Number of Good Pat]()|🔴 Jan 15, 2023|||||
 |🟡|[2422. Merge Operations t]()||||||
