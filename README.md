@@ -915,7 +915,7 @@
 |🟡|[901. Online Stock Span]()||||||
 |🔴|[902. Numbers At Most N G]()||||||
 |🔴|[903. Valid Permutations ]()||||||
-|🟡|[904. Fruit Into Baskets]()|🟡 Feb 07, 2023|||||
+|🟡|[904. Fruit Into Baskets](904.cpp)|🟡 Feb 07, 2023|🟢 Aug 04, 2025||||
 |🟢|[905. Sort Array By Parit]()||||||
 |🔴|[906. Super Palindromes]()||||||
 |🟡|[907. Sum of Subarray Min]()|🔴 Jan 20, 2024|||||
