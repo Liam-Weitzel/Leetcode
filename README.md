@@ -819,7 +819,7 @@
 |🔴|[805. Split Array With Sa]()||||||
 |🟢|[806. Number of Lines To ]()||||||
 |🟡|[807. Max Increase to Kee]()||||||
-|🟡|[808. Soup Servings]()||||||
+|🟡|[808. Soup Servings](808.cpp)|🟠 Aug 08, 2025|||||
 |🟡|[809. Expressive Words]()||||||
 |🔴|[810. Chalkboard XOR Game]()||||||
 |🟡|[811. Subdomain Visit Cou]()||||||
