@@ -242,7 +242,7 @@
 |🟢|[228. Summary Ranges]()||||||
 |🟡|[229. Majority Element II]()|🟡 Oct 05, 2023|||||
 |🟡|[230. Kth Smallest Elemen]()||||||
-|🟢|[231. Power of Two]()|🟢 Dec 17, 2022|🟢 Feb 19, 2024||||
+|🟢|[231. Power of Two](231.cpp)|🟢 Dec 17, 2022|🟢 Feb 19, 2024|🟢 Aug 09, 2025|||
 |🟢|[232. Implement Queue usi]()|🟢 Dec 16, 2022|🟢 Jan 29, 2024||||
 |🔴|[233. Number of Digit One]()||||||
 |🟢|[234. Palindrome Linked L](234.cpp)|🟢 Mar 22, 2024|||||
