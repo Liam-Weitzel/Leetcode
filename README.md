@@ -2359,7 +2359,7 @@
 |🟡|[2345. Finding the Number]()||||||
 |🟡|[2346. Compute the Rank a]()||||||
 |🟢|[2347. Best Poker Hand]()||||||
-|🟡|[2348. Number of Zero-Fil]()|🟢 Mar 21, 2023|||||
+|🟡|[2348. Number of Zero-Fil](2348.cpp)|🟢 Mar 21, 2023|🟢 Aug 19, 2025||||
 |🟡|[2349. Design a Number Co]()||||||
 |🔴|[2350. Shortest Impossibl]()||||||
 |🟢|[2351. First Letter to Ap]()||||||
