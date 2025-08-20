@@ -1288,7 +1288,7 @@
 |🔴|[1274. Number of Ships in]()||||||
 |🟢|[1275. Find Winner on a T]()||||||
 |🟡|[1276. Number of Burgers ]()||||||
-|🟡|[1277. Count Square Subma]()||||||
+|🟡|[1277. Count Square Subma](1277.cpp)|🟢 Aug 20, 2025|||||
 |🔴|[1278. Palindrome Partiti]()||||||
 |🟢|[1279. Traffic Light Cont]()||||||
 |🟢|[1280. Students and Exami]()||||||
