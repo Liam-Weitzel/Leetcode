@@ -1504,7 +1504,7 @@
 |🟡|[1490. Clone N-ary Tree]()||||||
 |🟢|[1491. Average Salary Exc]()|🟢 May 01, 2023|||||
 |🟡|[1492. The kth Factor of ]()||||||
-|🟡|[1493. Longest Subarray o]()||||||
+|🟡|[1493. Longest Subarray o](1493.cpp)|🟢 Aug 24, 2025|||||
 |🔴|[1494. Parallel Courses I]()||||||
 |🟢|[1495. Friendly Movies St]()||||||
 |🟢|[1496. Path Crossing]()|🟢 Dec 23, 2023|||||
