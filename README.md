@@ -509,7 +509,7 @@
 |🟢|[495. Teemo Attacking]()||||||
 |🟢|[496. Next Greater Elemen]()||||||
 |🟡|[497. Random Point in Non]()||||||
-|🟡|[498. Diagonal Traverse]()||||||
+|🟡|[498. Diagonal Traverse](498.cpp)|🟢 Aug 25, 2025|||||
 |🔴|[499. The Maze III]()||||||
 |🟢|[500. Keyboard Row]()||||||
 |🟢|[501. Find Mode in Binary]()|🟢 Nov 01, 2023|||||
