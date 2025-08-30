@@ -47,7 +47,7 @@
 |🟡|[33. Search in Rotated So]()|🔴 Dec 09, 2023|||||
 |🟡|[34. Find First and Last ]()|🔴 Oct 09, 2023|||||
 |🟢|[35. Search Insert Positi]()|🟠 Oct 27, 2022|🟢 Feb 20, 2023||||
-|🟡|[36. Valid Sudoku]()||||||
+|🟡|[36. Valid Sudoku](36.cpp)|🟢 Aug 30, 2025|||||
 |🔴|[37. Sudoku Solver]()||||||
 |🟡|[38. Count and Say](38.cpp)|🟢 Apr 18, 2025|||||
 |🟡|[39. Combination Sum]()||||||
