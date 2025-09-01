@@ -1803,7 +1803,7 @@
 |🟢|[1789. Primary Department]()||||||
 |🟢|[1790. Check if One Strin]()||||||
 |🟢|[1791. Find Center of Sta](1791.cpp)|🟡 Jun 27, 2024|||||
-|🟡|[1792. Maximum Average Pa]()||||||
+|🟡|[1792. Maximum Average Pa]()|🔴 Sep 01, 2025|||||
 |🔴|[1793. Maximum Score of a]()|🔴 Oct 22, 2023|||||
 |🟡|[1794. Count Pairs of Equ]()||||||
 |🟢|[1795. Rearrange Products]()||||||
