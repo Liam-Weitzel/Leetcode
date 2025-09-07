@@ -1315,7 +1315,7 @@
 |🔴|[1301. Number of Paths wi]()||||||
 |🟡|[1302. Deepest Leaves Sum]()||||||
 |🟢|[1303. Find the Team Size]()||||||
-|🟢|[1304. Find N Unique Inte]()||||||
+|🟢|[1304. Find N Unique Inte](1304.cpp)|🟢 Sep 07, 2025|||||
 |🟡|[1305. All Elements in Tw]()||||||
 |🟡|[1306. Jump Game III]()||||||
 |🔴|[1307. Verbal Arithmetic ]()||||||
