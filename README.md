@@ -2573,3 +2573,4 @@
 |🟢|[3477. Fruits Into Basket](3477.cpp)|🟢 Aug 05, 2025|||||
 |🟢|[3487. Maximum Unique Sub](3487.cpp)|🟢 Jul 27, 2025|||||
 |🟢|[3516. Find Closest Perso](3516.cpp)|🟢 Sep 04, 2025|||||
+|🟢|[3541. Find Most Frequent](3541.cpp)|🟢 Sep 13, 2025|||||
