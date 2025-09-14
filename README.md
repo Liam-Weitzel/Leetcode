@@ -977,7 +977,7 @@
 |🟡|[963. Minimum Area Rectan]()||||||
 |🔴|[964. Least Operators to ]()||||||
 |🟢|[965. Univalued Binary Tr]()||||||
-|🟡|[966. Vowel Spellchecker]()||||||
+|🟡|[966. Vowel Spellchecker](966.cpp)|🟢 Sep 14, 2025|||||
 |🟡|[967. Numbers With Same C]()||||||
 |🔴|[968. Binary Tree Cameras]()||||||
 |🟡|[969. Pancake Sorting]()||||||
