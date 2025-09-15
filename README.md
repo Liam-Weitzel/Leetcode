@@ -1946,7 +1946,7 @@
 |🔴|[1932. Merge BSTs to Crea]()||||||
 |🟢|[1933. Check if String Is]()||||||
 |🟡|[1934. Confirmation Rate]()||||||
-|🟢|[1935. Maximum Number of ]()||||||
+|🟢|[1935. Maximum Number of ](1935.cpp)|🟢 Sep 15, 2025|||||
 |🟡|[1936. Add Minimum Number]()||||||
 |🟡|[1937. Maximum Number of ]()||||||
 |🔴|[1938. Maximum Genetic Di]()||||||
