@@ -2364,7 +2364,7 @@
 |🔴|[2350. Shortest Impossibl]()||||||
 |🟢|[2351. First Letter to Ap]()||||||
 |🟡|[2352. Equal Row and Colu]()||||||
-|🟡|[2353. Design a Food Rati]()|🟢 Dec 17, 2023|||||
+|🟡|[2353. Design a Food Rati](2353.cpp)|🟢 Dec 17, 2023|🟢 Sep 17, 2025||||
 |🔴|[2354. Number of Excellen]()||||||
 |🔴|[2355. Maximum Number of ]()||||||
 |🟢|[2356. Number of Unique S]()||||||
