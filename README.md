@@ -131,7 +131,7 @@
 |🟡|[117. Populating Next Rig]()||||||
 |🟢|[118. Pascal's Triangle](118.cpp)|🟢 Sep 08, 2023|🟢 Aug 01, 2025||||
 |🟢|[119. Pascal's Triangle I]()|🟡 Oct 16, 2023|||||
-|🟡|[120. Triangle]()||||||
+|🟡|[120. Triangle](120.cpp)|🟢 Sep 25, 2025|||||
 |🟢|[121. Best Time to Buy an]()|🟢 Nov 05, 2022|🟢 Feb 25, 2023||||
 |🟡|[122. Best Time to Buy an]()||||||
 |🔴|[123. Best Time to Buy an]()||||||
