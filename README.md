@@ -622,7 +622,7 @@
 |🟡|[608. Tree Node]()||||||
 |🟡|[609. Find Duplicate File]()||||||
 |🟢|[610. Triangle Judgement]()||||||
-|🟡|[611. Valid Triangle Numb]()||||||
+|🟡|[611. Valid Triangle Numb](611.cpp)|🟡 Sep 26, 2025|||||
 |🟡|[612. Shortest Distance i]()||||||
 |🟢|[613. Shortest Distance i]()||||||
 |🟡|[614. Second Degree Follo]()||||||
