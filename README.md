@@ -823,7 +823,7 @@
 |🟡|[809. Expressive Words]()||||||
 |🔴|[810. Chalkboard XOR Game]()||||||
 |🟡|[811. Subdomain Visit Cou]()||||||
-|🟢|[812. Largest Triangle Ar]()||||||
+|🟢|[812. Largest Triangle Ar](812.cpp)|🟢 Sep 27, 2025|||||
 |🟡|[813. Largest Sum of Aver]()||||||
 |🟡|[814. Binary Tree Pruning]()||||||
 |🔴|[815. Bus Routes]()|🔴 Nov 12, 2023|||||
