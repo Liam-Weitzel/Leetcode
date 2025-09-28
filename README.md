@@ -987,7 +987,7 @@
 |🟡|[973. K Closest Points to]()||||||
 |🟡|[974. Subarray Sums Divis]()|🟡 Jan 19, 2023|🔴 Jun 09, 2024||||
 |🔴|[975. Odd Even Jump]()||||||
-|🟢|[976. Largest Perimeter T]()||||||
+|🟢|[976. Largest Perimeter T](976.cpp)|🟢 Sep 28, 2025|||||
 |🟢|[977. Squares of a Sorted](977.cpp)|🟢 Mar 02, 2024|||||
 |🟡|[978. Longest Turbulent S]()||||||
 |🟡|[979. Distribute Coins in]()||||||
