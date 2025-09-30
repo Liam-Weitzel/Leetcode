@@ -2232,7 +2232,7 @@
 |🔴|[2218. Maximum Value of K]()|🔴 Apr 15, 2023|||||
 |🟡|[2219. Maximum Sum Score ]()||||||
 |🟢|[2220. Minimum Bit Flips ]()||||||
-|🟡|[2221. Find Triangular Su]()||||||
+|🟡|[2221. Find Triangular Su](2221.cpp)|🟡 Sep 30, 2025|||||
 |🟡|[2222. Number of Ways to ]()||||||
 |🔴|[2223. Sum of Scores of B]()||||||
 |🟢|[2224. Minimum Number of ]()||||||
