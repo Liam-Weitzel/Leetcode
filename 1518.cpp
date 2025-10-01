@@ -1,6 +1,24 @@
 #include <iostream>
 
-class Solution { // Jul 07, 2024
+class Solution { // Oct 01, 2025
+public:
+  int numWaterBottles(int numBottles, int numExchange) {
+    int res = 0;
+    int emptyBottles = 0;
+    
+    do {
+      res += numBottles;
+      int totalEmpty = numBottles + emptyBottles;
+      numBottles = totalEmpty / numExchange;
+      emptyBottles = totalEmpty % numExchange;
+    } while(numBottles + emptyBottles >= numExchange);
+    res += numBottles;
+
+    return res;
+  }
+};
+
+class Solution_Old { // Jul 07, 2024
 public:
   int numWaterBottles(int numBottles, int numExchange) {
     int bottlesSlurped = 0;

@@ -1529,7 +1529,7 @@
 |🔴|[1515. Best Position for ]()||||||
 |🔴|[1516. Move Sub-Tree of N]()||||||
 |🟢|[1517. Find Users With Va]()||||||
-|🟢|[1518. Water Bottles](1518.cpp)|🟡 Jul 07, 2024|||||
+|🟢|[1518. Water Bottles](1518.cpp)|🟡 Jul 07, 2024|🟡 Oct 01, 2025||||
 |🟡|[1519. Number of Nodes in]()|🟢 Jan 12, 2023|||||
 |🔴|[1520. Maximum Number of ]()||||||
 |🔴|[1521. Find a Value of a ]()||||||
