@@ -1499,7 +1499,7 @@
 |🟡|[1485. Clone Binary Tree ]()||||||
 |🟢|[1486. XOR Operation in a]()||||||
 |🟡|[1487. Making File Names ]()||||||
-|🟡|[1488. Avoid Flood in The]()||||||
+|🟡|[1488. Avoid Flood in The](1488.cpp)|🔴 Oct 07, 2025|||||
 |🔴|[1489. Find Critical and ]()||||||
 |🟡|[1490. Clone N-ary Tree]()||||||
 |🟢|[1491. Average Salary Exc]()|🟢 May 01, 2023|||||
