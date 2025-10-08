@@ -2311,7 +2311,7 @@
 |🟡|[2297. Jump Game VIII]()||||||
 |🟡|[2298. Tasks Count in the]()||||||
 |🟢|[2299. Strong Password Ch]()||||||
-|🟡|[2300. Successful Pairs o]()|🟢 Apr 02, 2023|||||
+|🟡|[2300. Successful Pairs o](2300.cpp)|🟢 Apr 02, 2023|🟢 Oct 08, 2025||||
 |🔴|[2301. Match Substring Af]()||||||
 |🔴|[2302. Count Subarrays Wi]()|🔴 Apr 28, 2025|||||
 |🟢|[2303. Calculate Amount P]()||||||
