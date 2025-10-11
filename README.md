@@ -2555,6 +2555,7 @@
 |🟢|[3136. Valid Word](3136.cpp)|🟢 Jul 15, 2025|||||
 |🟢|[3147. Taking Maximum E](3147.cpp)|🟢 Oct 10, 2025|||||
 |🟡|[3170. Lexicographicall](3170.cpp)|🟡 Jun 07, 2025|||||
+|🟡|[3186. Maximum Total Da](3186.cpp)|🔴 Oct 11, 2025|||||
 |🟡|[3195. Find the Minimum](3195.cpp)|🟢 Aug 22, 2025|||||
 |🟢|[3201. Find the Maximum](3201.cpp)|🟢 Jul 16, 2025|||||
 |🟡|[3227. Vowels Game in a](3227.cpp)|🟢 Aug 12, 2025|||||
