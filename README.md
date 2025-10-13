@@ -2528,6 +2528,7 @@
 |🔴|[2709. Greatest Common Di]()|🔴 Feb 25, 2024|||||
 |🔴|[2742. Painting the Walls]()|🔴 Oct 14, 2023|||||
 |🔴|[2751. Robot Collisions](2751.cpp)|🟢 Jul 13, 2024|||||
+|🟢|[2273. Find Resultant A](2273.cpp)|🟢 Oct 13, 2025|||||
 |🟡|[2785. Sort Vowels in a S](2785.cpp)|🟢 Nov 13, 2023|🟢 Sep 11, 2025||||
 |🟡|[2799. Count Complete Sub](2799.cpp)|🔴 Apr 24, 2025|||||
 |🟡|[2825. Make String a Subs](2825.cpp)|🟢 Dec 04, 2024|||||
