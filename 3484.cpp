@@ -6,7 +6,7 @@ class Spreadsheet { // Sep 19, 2025
 private:
   std::vector<std::vector<int>> spreadsheet;
 
-   int* cellToCell(std::string cell) {
+  int* cellToCell(std::string cell) {
     int row = atoi(cell.substr(1).c_str());
     int col = cell[0] - 'A';
     return &spreadsheet[row][col];

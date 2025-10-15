@@ -4,20 +4,20 @@
 
 class Solution { // Jun 10, 2025
 public:
-    int maxDifference(std::string s) {
-        std::vector<int> freqMap(26);
-        for(char i : s) freqMap[i - 'a']++;
+  int maxDifference(std::string s) {
+    std::vector<int> freqMap(26);
+    for(char i : s) freqMap[i - 'a']++;
 
-        int highestOdd = INT_MIN;
-        int lowestEven = INT_MAX;
-        for(int i : freqMap) {
-            if(i == 0) continue;
-            else if(i % 2 == 0) lowestEven = std::min(lowestEven, i);
-            else highestOdd = std::max(highestOdd, i);
-        }
-
-        return highestOdd - lowestEven;
+    int highestOdd = INT_MIN;
+    int lowestEven = INT_MAX;
+    for(int i : freqMap) {
+      if(i == 0) continue;
+      else if(i % 2 == 0) lowestEven = std::min(lowestEven, i);
+      else highestOdd = std::max(highestOdd, i);
     }
+
+    return highestOdd - lowestEven;
+  }
 };
 
 void testSolution(std::string s, int expected) {
