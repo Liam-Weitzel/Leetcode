@@ -2521,6 +2521,7 @@
 |🟡|[2563. Count the Number o](2563.cpp)|🟡 Apr 19, 2025|||||
 |🟢|[2566. Maximum Difference](2566.cpp)|🟢 Jun 14, 2025|||||
 |🟢|[2582. Pass the Pillow](2582.cpp)|🟡 Jul 06, 2024|||||
+|🟡|[2598. Smallest Missin](2598.cpp)|🟢 Oct 16, 2025|||||
 |🟡|[2610. Convert an Array I]()|🟢 Jan 02, 2024|||||
 |🔴|[2642. Design Graph With ]()|🔴 Nov 11, 2023|||||
 |🟢|[2678. Number of Senior C](2678.java)|🟢 Aug 01, 2024|||||
