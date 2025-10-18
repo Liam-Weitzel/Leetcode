@@ -2574,6 +2574,7 @@
 |🟢|[3375. Minimum Operations](3375.cpp)|🟢 Apr 09, 2025|||||
 |🟢|[3392. Count Subarrays of](3392.cpp)|🟢 Apr 27, 2025|||||
 |🟢|[3396. Minimum Number of ](3396.cpp)|🟡 Apr 08, 2025|||||
+|🟡|[3397. Maximum Number of ](3397.cpp)|🟡 Oct 18, 2025|||||
 |🟢|[3423. Maximum Difference](3423.cpp)|🟢 Jun 12, 2025|||||
 |🟢|[3442. Maximum Difference](3442.cpp)|🟢 Jun 10, 2025|||||
 |🟡|[3446. Sort Matrix by Dia](3446.cpp)|🟢 Aug 28, 2025|||||
