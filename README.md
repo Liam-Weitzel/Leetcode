@@ -1636,7 +1636,7 @@
 |🔴|[1622. Fancy Sequence]()||||||
 |🟢|[1623. All Valid Triplets]()||||||
 |🟢|[1624. Largest Substring ]()|🟢 Dec 31, 2023|||||
-|🟡|[1625. Lexicographically ]()||||||
+|🟡|[1625. Lexicographically ]()|🔴 Oct 19, 2025|||||
 |🟡|[1626. Best Team With No ]()|🔴 Jan 31, 2023|||||
 |🔴|[1627. Graph Connectivity]()||||||
 |🟡|[1628. Design an Expressi]()||||||
