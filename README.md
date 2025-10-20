@@ -2022,7 +2022,7 @@
 |🟡|[2008. Maximum Earnings F]()||||||
 |🔴|[2009. Minimum Number of ]()|🔴 Oct 10, 2023|||||
 |🔴|[2010. The Number of Seni]()||||||
-|🟢|[2011. Final Value of Var]()||||||
+|🟢|[2011. Final Value of Var](2011.cpp)|🟢 Oct 20, 2025|||||
 |🟡|[2012. Sum of Beauty in t]()||||||
 |🟡|[2013. Detect Squares]()||||||
 |🔴|[2014. Longest Subsequenc]()||||||
