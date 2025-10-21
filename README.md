@@ -2565,6 +2565,7 @@
 |🟢|[3304. Find the K-th Char](3304.cpp)|🟢 Jul 03, 2025|||||
 |🟢|[3330. Find the Original ](3330.cpp)|🟢 Jul 01, 2025|||||
 |🟡|[3335. Total Characters i](3335.cpp)|🟢 May 13, 2025|||||
+|🟡|[3346. Maximum Frequency ](3346.cpp)|🟢 Oct 21, 2025|||||
 |🟢|[3349. Adjacent Increasin](3349.cpp)|🟡 Oct 14, 2025|||||
 |🟡|[3350. Adjacent Increasin](3350.cpp)|🟠 Oct 15, 2025|||||
 |🟡|[3355. Zero Array Transfo](3355.cpp)|🟢 May 20, 2025|||||
