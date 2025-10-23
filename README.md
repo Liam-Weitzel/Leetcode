@@ -2579,6 +2579,7 @@
 |🟢|[3423. Maximum Difference](3423.cpp)|🟢 Jun 12, 2025|||||
 |🟢|[3442. Maximum Difference](3442.cpp)|🟢 Jun 10, 2025|||||
 |🟡|[3446. Sort Matrix by Dia](3446.cpp)|🟢 Aug 28, 2025|||||
+|🟢|[3461. Check If Digits Ar](3461.cpp)|🟡 Oct 23, 2025|||||
 |🟢|[3477. Fruits Into Basket](3477.cpp)|🟢 Aug 05, 2025|||||
 |🟢|[3487. Maximum Unique Sub](3487.cpp)|🟢 Jul 27, 2025|||||
 |🟡|[3484. Design Spreadsheet](3484.cpp)|🟢 Sep 19, 2025|||||
