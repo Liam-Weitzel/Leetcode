@@ -2059,7 +2059,7 @@
 |🔴|[2045. Second Minimum Tim](2045.java)|🟠 Jul 28, 2024|||||
 |🟡|[2046. Sort Linked List A]()||||||
 |🟢|[2047. Number of Valid Wo]()||||||
-|🟡|[2048. Next Greater Numer]()||||||
+|🟡|[2048. Next Greater Numer]()|🔴 Oct 24, 2025|||||
 |🟡|[2049. Count Nodes With t]()||||||
 |🔴|[2050. Parallel Courses I]()|🔴 Oct 18, 2023|||||
 |🟡|[2051. The Category of Ea]()||||||
