@@ -2054,7 +2054,7 @@
 |🔴|[2040. Kth Smallest Produ]()||||||
 |🟡|[2041. Accepted Candidate]()||||||
 |🟢|[2042. Check if Numbers A]()||||||
-|🟡|[2043. Simple Bank System]()||||||
+|🟡|[2043. Simple Bank System](2043.cpp)|🟢 Oct 26, 2025|||||
 |🟡|[2044. Count Number of Ma](2044.cpp)|🟡 Jul 28, 2025|||||
 |🔴|[2045. Second Minimum Tim](2045.java)|🟠 Jul 28, 2024|||||
 |🟡|[2046. Sort Linked List A]()||||||
