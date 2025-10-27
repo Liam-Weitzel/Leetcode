@@ -2136,7 +2136,7 @@
 |🔴|[2122. Recover the Origin]()||||||
 |🔴|[2123. Minimum Operations]()||||||
 |🟢|[2124. Check if All A's A]()||||||
-|🟡|[2125. Number of Laser Be]()|🟢 Jan 03, 2024|||||
+|🟡|[2125. Number of Laser Be](2125.cpp)|🟢 Jan 03, 2024|🟢 Oct 27, 2025||||
 |🟡|[2126. Destroying Asteroi]()||||||
 |🔴|[2127. Maximum Employees ]()||||||
 |🟡|[2128. Remove All Ones Wi]()||||||
