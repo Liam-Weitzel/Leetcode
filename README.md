@@ -2568,6 +2568,7 @@
 |🟡|[3346. Maximum Frequency ](3346.cpp)|🟢 Oct 21, 2025|||||
 |🟢|[3349. Adjacent Increasin](3349.cpp)|🟡 Oct 14, 2025|||||
 |🟡|[3350. Adjacent Increasin](3350.cpp)|🟠 Oct 15, 2025|||||
+|🟢|[3354. Make Array Element](3354.cpp)|🟡 Oct 28, 2025|||||
 |🟡|[3355. Zero Array Transfo](3355.cpp)|🟢 May 20, 2025|||||
 |🟡|[3362. Zero Array Transfo](3362.cpp)|🔴 May 22, 2025|||||
 |🟡|[3372. Maximize the Numbe](3372.cpp)|🟢 May 28, 2025|||||
