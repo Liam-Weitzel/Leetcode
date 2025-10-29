@@ -2571,8 +2571,9 @@
 |🟢|[3354. Make Array Element](3354.cpp)|🟡 Oct 28, 2025|||||
 |🟡|[3355. Zero Array Transfo](3355.cpp)|🟢 May 20, 2025|||||
 |🟡|[3362. Zero Array Transfo](3362.cpp)|🔴 May 22, 2025|||||
+|🟢|[3370. Smallest Number Wi](3370.cpp)|🟢 Oct 29, 2025|||||
 |🟡|[3372. Maximize the Numbe](3372.cpp)|🟢 May 28, 2025|||||
-|🔴|[3372. Maximize the Numbe](3373.cpp)|🟠 May 29, 2025|||||
+|🔴|[3373. Maximize the Numbe](3373.cpp)|🟠 May 29, 2025|||||
 |🟢|[3375. Minimum Operations](3375.cpp)|🟢 Apr 09, 2025|||||
 |🟢|[3392. Count Subarrays of](3392.cpp)|🟢 Apr 27, 2025|||||
 |🟢|[3396. Minimum Number of ](3396.cpp)|🟡 Apr 08, 2025|||||
