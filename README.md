@@ -1,7 +1,3 @@
-## Progress
-
-![leetcode_profile](profile.jpg)
-
 ## Legend
 
 ##### 🔴 = Unable to solve/ Hard difficulty
@@ -1537,7 +1533,7 @@
 |🟢|[1523. Count Odd Numbers ]()|🟢 Feb 13, 2023|||||
 |🟡|[1524. Number of Sub-arra]()||||||
 |🟡|[1525. Number of Good Way]()||||||
-|🔴|[1526. Minimum Number of ]()||||||
+|🔴|[1526. Minimum Number of ](1526.cpp)|🟠 Oct 30, 2025|||||
 |🟢|[1527. Patients With a Co]()||||||
 |🟢|[1528. Shuffle String]()||||||
 |🟡|[1529. Minimum Suffix Fli]()||||||
