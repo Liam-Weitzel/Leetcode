@@ -2556,6 +2556,7 @@
 |🟡|[3186. Maximum Total Da](3186.cpp)|🔴 Oct 11, 2025|||||
 |🟡|[3195. Find the Minimum](3195.cpp)|🟢 Aug 22, 2025|||||
 |🟢|[3201. Find the Maximum](3201.cpp)|🟢 Jul 16, 2025|||||
+|🟡|[3217. Delete Nodes Fro](3217.cpp)|🟢 Nov 01, 2025|||||
 |🟡|[3227. Vowels Game in a](3227.cpp)|🟢 Aug 12, 2025|||||
 |🔴|[3272. Find the Count of ](3272.cpp)|🔴 Apr 12, 2025|||||
 |🟢|[3289. The Two Sneaky Num](3289.cpp)|🟢 Oct 31, 2025|||||
