@@ -2264,7 +2264,7 @@
 |🔴|[2254. Design Video Shari]()||||||
 |🟢|[2255. Count Prefixes of ]()||||||
 |🟡|[2256. Minimum Average Di]()|🟡 Dec 04, 2022|||||
-|🟡|[2257. Count Unguarded Ce]()||||||
+|🟡|[2257. Count Unguarded Ce](2257.cpp)|🟢 Nov 02, 2025|||||
 |🔴|[2258. Escape the Spreadi]()||||||
 |🟢|[2259. Remove Digit From ]()||||||
 |🟡|[2260. Minimum Consecutiv]()||||||
