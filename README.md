@@ -1585,7 +1585,7 @@
 |🔴|[1575. Count All Possible]()||||||
 |🟢|[1576. Replace All ?'s to]()||||||
 |🟡|[1577. Number of Ways Whe]()||||||
-|🟡|[1578. Minimum Time to Ma]()|🟢 Dec 27, 2023|||||
+|🟡|[1578. Minimum Time to Ma](1578.cpp)|🟢 Dec 27, 2023|🟢 Nov 02, 2025||||
 |🔴|[1579. Remove Max Number ]()|🔴 Apr 30, 2023|🔴 Jun 30, 2024||||
 |🟡|[1580. Put Boxes Into the]()||||||
 |🟢|[1581. Customer Who Visit]()||||||
