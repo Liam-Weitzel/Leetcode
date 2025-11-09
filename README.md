@@ -2176,7 +2176,7 @@
 |🟡|[2166. Design Bitset]()||||||
 |🔴|[2167. Minimum Time to Re]()||||||
 |🟡|[2168. Unique Substrings ]()||||||
-|🟢|[2169. Count Operations t]()||||||
+|🟢|[2169. Count Operations t](2169.cpp)|🟢 Nov 09, 2025|||||
 |🟡|[2170. Minimum Operations]()||||||
 |🟡|[2171. Removing Minimum N]()||||||
 |🔴|[2172. Maximum AND Sum of]()||||||
