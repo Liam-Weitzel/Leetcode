@@ -8,7 +8,7 @@
 ## Problems
 |Dif|Problem|Attempt 1|Attempt 2|Attempt 3|Attempt 4|
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|🟢|[1. Two Sum]()|🟡 Mar 01, 2022|🟢 Dec 13, 2022|🟢 Jul 08, 2023|||
+|🟢|[1. Two Sum](1.cpp)|🟡 Mar 01, 2022|🟢 Dec 13, 2022|🟢 Jul 08, 2023|🟢 Jan 15, 2026||
 |🟡|[2. Add Two Numbers]()|🟢 Dec 03, 2022|||||
 |🟡|[3. Longest Substring With]()|🟢 Dec 12, 2022|||||
 |🔴|[4. Median of Two Sorted A]()|🟠 Dec 12, 2022|||||
