@@ -159,7 +159,7 @@
 |🔴|[149. Max Points on a Lin]()|🟠 Jan 08, 2023|||||
 |🟡|[150. Evaluate Reverse Po]()|🟢 Dec 17, 2022|🟢 Jan 30, 2024||||
 |🟡|[151. Reverse Words in a ]()||||||
-|🟡|[152. Maximum Product Sub]()||||||
+|🟡|[152. Maximum Product Sub](152.cpp)|🟢 Jan 16, 2026|||||
 |🟡|[153. Find Minimum in Rot]()|🟢 Dec 08, 2023|||||
 |🔴|[154. Find Minimum in Rot]()||||||
 |🟡|[155. Min Stack]()||||||
