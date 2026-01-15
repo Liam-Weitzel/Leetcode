@@ -224,7 +224,7 @@
 |🔴|[214. Shortest Palindrome]()||||||
 |🟡|[215. Kth Largest Element]()||||||
 |🟡|[216. Combination Sum III]()||||||
-|🟢|[217. Contains Duplicate]()|🟢 Dec 13, 2022|🟢 Jul 07, 2023||||
+|🟢|[217. Contains Duplicate](217.cpp)|🟢 Dec 13, 2022|🟢 Jul 07, 2023|🟢 Jan 15, 2026|||
 |🔴|[218. The Skyline Problem]()||||||
 |🟢|[219. Contains Duplicate ]()||||||
 |🔴|[220. Contains Duplicate ]()||||||
