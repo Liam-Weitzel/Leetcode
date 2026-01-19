@@ -5,7 +5,7 @@
 
 class Solution { // Jan 15, 2026
 public:
-  int maximumSubarray(std::vector<int> nums) {
+  int maxSubArray(std::vector<int> nums) {
     int n = nums.size();
 
     // nums       = -2,  1, -3,  4, -1,  2,  1, -5,  4
@@ -37,7 +37,7 @@ public:
 
 void testSolution(std::vector<int> nums, int expected) {
   Solution res;
-  int ans = res.maximumSubarray(nums);
+  int ans = res.maxSubArray(nums);
 
   if(ans == expected) std::cout << "\033[1;32m"; //color output text green
   else std::cout << "\033[1;31m"; //color output text red

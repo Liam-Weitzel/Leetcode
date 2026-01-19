@@ -5,7 +5,7 @@
 
 class Solution { // Jan 15, 2026
 public:
-  int bestTimeToBuyAndSellStock(std::vector<int> prices) {
+  int maxProfit(std::vector<int> prices) {
     if(prices.size() == 1) return 0;
 
     std::vector<std::pair<int, int>> minMax(prices.size(), std::make_pair(0, 0));
@@ -27,7 +27,7 @@ public:
 
 void testSolution(std::vector<int> prices, int expected) {
   Solution res;
-  int ans = res.bestTimeToBuyAndSellStock(prices);
+  int ans = res.maxProfit(prices);
 
   if(ans == expected) std::cout << "\033[1;32m"; //color output text green
   else std::cout << "\033[1;31m"; //color output text red

@@ -5,7 +5,7 @@
 
 class Solution { // Jan 15, 2026
 public:
-  int maximumProductSubarray(std::vector<int> nums) {
+  int maxProduct(std::vector<int> nums) {
     int n = nums.size();
 
     int runningProduct = 1;
@@ -37,7 +37,7 @@ public:
 
 void testSolution(std::vector<int> nums, int expected) {
   Solution res;
-  int ans = res.maximumProductSubarray(nums);
+  int ans = res.maxProduct(nums);
 
   if(ans == expected) std::cout << "\033[1;32m"; //color output text green
   else std::cout << "\033[1;31m"; //color output text red
