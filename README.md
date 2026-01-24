@@ -160,7 +160,7 @@
 |🟡|[150. Evaluate Reverse Po]()|🟢 Dec 17, 2022|🟢 Jan 30, 2024||||
 |🟡|[151. Reverse Words in a ]()||||||
 |🟡|[152. Maximum Product Sub](152.cpp)|🟢 Jan 16, 2026|||||
-|🟡|[153. Find Minimum in Rot]()|🟢 Dec 08, 2023|||||
+|🟡|[153. Find Minimum in Rot](153.cpp)|🟢 Dec 08, 2023|🔴 Jan 23, 2026|🟢 Jan 24, 2026|||
 |🔴|[154. Find Minimum in Rot]()||||||
 |🟡|[155. Min Stack]()||||||
 |🟡|[156. Binary Tree Upside ]()||||||
