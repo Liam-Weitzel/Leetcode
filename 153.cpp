@@ -1,6 +1,6 @@
 #include <vector>
 
-class Solution {
+class Solution { // Jan 24, 2026
 public:
   int findMin(std::vector<int>& nums) {
     int left = 0;

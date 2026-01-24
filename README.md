@@ -40,7 +40,7 @@
 |🔴|[30. Substring with Conca]()||||||
 |🟡|[31. Next Permutation]()||||||
 |🔴|[32. Longest Valid Parent]()||||||
-|🟡|[33. Search in Rotated So]()|🔴 Dec 09, 2023|||||
+|🟡|[33. Search in Rotated So](33.cpp)|🔴 Dec 09, 2023|🟢 Jan 24, 2026||||
 |🟡|[34. Find First and Last ]()|🔴 Oct 09, 2023|||||
 |🟢|[35. Search Insert Positi]()|🟠 Oct 27, 2022|🟢 Feb 20, 2023||||
 |🟡|[36. Valid Sudoku](36.cpp)|🟢 Aug 30, 2025|||||
