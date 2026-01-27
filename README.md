@@ -60,7 +60,7 @@
 |🟡|[50. Pow(x, n)]()||||||
 |🔴|[51. N-Queens]()||||||
 |🔴|[52. N-Queens II]()||||||
-|🟡|[53. Maximum Subarray](53.cpp)|🔴 Jan 15, 2026|||||
+|🟡|[53. Maximum Subarray](53.cpp)|🔴 Jan 15, 2026|🟢 Jan 27, 2026||||
 |🟡|[54. Spiral Matrix]()|🟠 May 09, 2023|||||
 |🟡|[55. Jump Game]()|🟠 Dec 26, 2022|||||
 |🟡|[56. Merge Intervals]()|🟠 Dec 09, 2022|||||

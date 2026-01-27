@@ -1,4 +1,5 @@
 #include <algorithm>
+#include <climits>
 #include <iostream>
 #include <ostream>
 #include <vector>
@@ -35,8 +36,29 @@ public:
   }
 };
 
+class Solution2 { // Jan 27, 2026
+public:
+  int maxSubArray(std::vector<int> nums) {
+    int n = nums.size();
+
+    // Kadane's algorithm
+    // Running sum, if it goes negative, its always better to start a new running sum. Track highest running sum
+
+    int runningSum = 0;
+    int maxSum = INT_MIN;
+
+    for(int i : nums) {
+      runningSum += i;
+      maxSum = std::max(runningSum, maxSum);
+      if(runningSum < 0) runningSum = 0;
+    }
+
+    return maxSum;
+  }
+};
+
 void testSolution(std::vector<int> nums, int expected) {
-  Solution res;
+  Solution2 res;
   int ans = res.maxSubArray(nums);
 
   if(ans == expected) std::cout << "\033[1;32m"; //color output text green
