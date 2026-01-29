@@ -245,7 +245,7 @@
 |🟡|[235. Lowest Common Ances]()|🟢 Nov 07, 2022|||||
 |🟡|[236. Lowest Common Ances]()||||||
 |🟡|[237. Delete Node in a Li]()||||||
-|🟡|[238. Product of Array Ex](238.cpp)|🟠 Dec 17, 2022|🟢 Jan 02, 2023|🟢 Jul 09, 2023|🟢 Mar 15, 2024|🟢 Jan 15, 2024|
+|🟡|[238. Product of Array Ex](238.cpp)|🟠 Dec 17, 2022|🟢 Jan 02, 2023|🟢 Jul 09, 2023|🟢 Mar 15, 2024|🟢 Jan 15, 2026|
 |🔴|[239. Sliding Window Maxi]()||||||
 |🟡|[240. Search a 2D Matrix ]()||||||
 |🟡|[241. Different Ways to A]()||||||
