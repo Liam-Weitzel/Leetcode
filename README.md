@@ -378,7 +378,7 @@
 |🟡|[368. Largest Divisible S](368.cpp)|🔴 Feb 09, 2024|🟠 Apr 06, 2025||||
 |🟡|[369. Plus One Linked Lis]()||||||
 |🟡|[370. Range Addition]()||||||
-|🟡|[371. Sum of Two Integers]()||||||
+|🟡|[371. Sum of Two Integers](371.cpp)|🟠 Jan 30, 2026|||||
 |🟡|[372. Super Pow]()||||||
 |🟡|[373. Find K Pairs with S]()||||||
 |🟢|[374. Guess Number Higher]()||||||
