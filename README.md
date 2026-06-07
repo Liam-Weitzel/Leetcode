@@ -2203,7 +2203,7 @@
 |🔴|[2193. Minimum Number of ]()||||||
 |🟢|[2194. Cells in a Range o]()||||||
 |🟡|[2195. Append K Integers ]()||||||
-|🟡|[2196. Create Binary Tree](2196.cpp)|🟢 Jul 15, 2024|||||
+|🟡|[2196. Create Binary Tree](2196.cpp)|🟢 Jul 15, 2024|🟢 Jun 07, 2026||||
 |🔴|[2197. Replace Non-Coprim]()||||||
 |🟡|[2198. Number of Single D]()||||||
 |🔴|[2199. Finding the Topic ]()||||||

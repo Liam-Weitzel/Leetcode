@@ -9,9 +9,9 @@
 #include "utils/TreeFactory.h"
 #include "utils/TreePrinter.h"
 
-class Solution { // Jul 15, 2024
+class Solution1 { // Jul 15, 2024
 public:
-  TreeNode* createBinaryTree(std::vector<std::vector<int>>& descriptions) {
+  TreeNode* createBinaryTree1(std::vector<std::vector<int>>& descriptions) {
     std::unordered_map<int, std::pair<int, int>> adjacencyMap;
     std::set<int> parents;
     std::set<int> children;
@@ -53,7 +53,64 @@ public:
   }
 };
 
-  void testSolution(std::vector<std::vector<int>> descriptions, std::vector<int> expected) {
+class Solution { // Jun 07, 2026
+private:
+  void dfs(TreeNode* tree, std::unordered_map<int, std::pair<int, int>>& treeMap) {
+    if(tree == nullptr) return;
+
+    int leftVal = treeMap[tree->val].first;
+    TreeNode* left = nullptr;
+    if(leftVal != 0)
+      left = new TreeNode(leftVal);
+
+    int rightVal = treeMap[tree->val].second;
+    TreeNode* right = nullptr;
+    if(rightVal != 0)
+      right = new TreeNode(rightVal);
+
+    tree->left = left;
+    dfs(tree->left, treeMap);
+    tree->right = right;
+    dfs(tree->right, treeMap);
+  }
+
+public:
+  TreeNode* createBinaryTree(std::vector<std::vector<int>>& descriptions) {
+    //re-make into traversable datatype
+    std::unordered_map<int, std::pair<int, int>> treeMap{};
+    for(std::vector<int> i : descriptions) {
+      bool isLeft = i[2];
+      int child = i[1];
+      int parent = i[0];
+      std::pair<int, int>& node = treeMap[parent];
+
+      if(isLeft) node.first = child;
+      else node.second = child;
+    }
+
+    //find root node
+    std::set<int> children;
+    for(std::pair<int, std::pair<int, int>> node : treeMap) {
+      children.insert(node.second.first);
+      children.insert(node.second.second);
+    }
+    int root;
+    for(std::pair<int, std::pair<int, int>> node : treeMap) {
+      if(children.find(node.first) == children.end()) {
+        root = node.first;
+        break;
+      }
+    }
+
+    //create tree
+    TreeNode* head = new TreeNode(root);
+    dfs(head, treeMap);
+
+    return head;
+  }
+};
+
+void testSolution(std::vector<std::vector<int>> descriptions, std::vector<int> expected) {
   TreeNode* expectedTree = TreeFactory::CreateTree(expected);
   Solution solution;
   TreeNode* res = solution.createBinaryTree(descriptions);
