@@ -1351,7 +1351,7 @@
 |🟡|[1341. Movie Rating]()||||||
 |🟢|[1342. Number of Steps to]()||||||
 |🟡|[1343. Number of Sub-arra]()||||||
-|🟡|[1344. Angle Between Hand]()||||||
+|🟡|[1344. Angle Between Hand](1344.cpp)|🟢 Jun 18, 2026|||||
 |🔴|[1345. Jump Game IV]()|🔴 Mar 05, 2023|||||
 |🟢|[1346. Check If N and Its](1346.cpp)|🟢 Dec 01, 2024|||||
 |🟡|[1347. Minimum Number of ]()|🟢 Jan 13, 2024|||||
