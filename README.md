@@ -1739,7 +1739,7 @@
 |🟢|[1729. Find Followers Cou]()||||||
 |🟡|[1730. Shortest Path to G]()||||||
 |🟢|[1731. The Number of Empl]()||||||
-|🟢|[1732. Find the Highest A]()||||||
+|🟢|[1732. Find the Highest A](1732.cpp)|🟢 Jun 19, 2026|||||
 |🟡|[1733. Minimum Number of ](1733.cpp)|🔴 Sep 10, 2025|||||
 |🟡|[1734. Decode XORed Permu]()||||||
 |🔴|[1735. Count Ways to Make]()||||||
