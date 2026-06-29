@@ -1974,7 +1974,7 @@
 |🔴|[1964. Find the Longest V]()|🔴 May 07, 2023|||||
 |🟢|[1965. Employees With Mis]()||||||
 |🟡|[1966. Binary Searchable ]()||||||
-|🟢|[1967. Number of Strings ]()||||||
+|🟢|[1967. Number of Strings ](1967.cpp)|🟡 Jun 29, 2026|||||
 |🟡|[1968. Array With Element]()||||||
 |🟡|[1969. Minimum Non-Zero P]()||||||
 |🔴|[1970. Last Day Where You]()||||||
