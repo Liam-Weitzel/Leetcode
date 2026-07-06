@@ -1295,7 +1295,7 @@
 |🟡|[1285. Find the Start and]()||||||
 |🟡|[1286. Iterator for Combi]()||||||
 |🟢|[1287. Element Appearing ]()|🟢 Dec 11, 2023|||||
-|🟡|[1288. Remove Covered Int]()||||||
+|🟡|[1288. Remove Covered Int](1288.cpp)|🟡 Jul 06, 2026|||||
 |🔴|[1289. Minimum Falling Pa]()|🔴 Apr 26, 2024|||||
 |🟢|[1290. Convert Binary Num](1290.cpp)|🟢 Jul 14, 2025|||||
 |🟡|[1291. Sequential Digits]()|🟡 Feb 02, 2024|||||
