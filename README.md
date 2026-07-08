@@ -95,7 +95,7 @@
 |🔴|[85. Maximal Rectangle]()|🔴 Apr 13, 2024|||||
 |🟡|[86. Partition List]()||||||
 |🔴|[87. Scramble String]()|🔴 Mar 30, 2023|||||
-|🟢|[88. Merge Sorted Array]()||||||
+|🟢|[88. Merge Sorted Array](88.cpp)|🟢 Jul 08, 2026|||||
 |🟡|[89. Gray Code]()||||||
 |🟡|[90. Subsets II]()||||||
 |🟡|[91. Decode Ways]()|🔴 Dec 25, 2023|||||
