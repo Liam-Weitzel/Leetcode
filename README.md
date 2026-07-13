@@ -1298,7 +1298,7 @@
 |🟡|[1288. Remove Covered Int](1288.cpp)|🟡 Jul 06, 2026|||||
 |🔴|[1289. Minimum Falling Pa]()|🔴 Apr 26, 2024|||||
 |🟢|[1290. Convert Binary Num](1290.cpp)|🟢 Jul 14, 2025|||||
-|🟡|[1291. Sequential Digits]()|🟡 Feb 02, 2024|||||
+|🟡|[1291. Sequential Digits](1291.cpp)|🟡 Feb 02, 2024|🟢 Jul 13, 2026||||
 |🟡|[1292. Maximum Side Lengt]()||||||
 |🔴|[1293. Shortest Path in a]()||||||
 |🟢|[1294. Weather Type in Ea]()||||||
