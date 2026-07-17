@@ -125,7 +125,7 @@
 |🔴|[115. Distinct Subsequenc]()||||||
 |🟡|[116. Populating Next Rig]()||||||
 |🟡|[117. Populating Next Rig]()||||||
-|🟢|[118. Pascal's Triangle](118.cpp)|🟢 Sep 08, 2023|🟢 Aug 01, 2025||||
+|🟢|[118. Pascal's Triangle](118.cpp)|🟢 Sep 08, 2023|🟢 Aug 01, 2025|🟢 Jul 17, 2026|||
 |🟢|[119. Pascal's Triangle I]()|🟡 Oct 16, 2023|||||
 |🟡|[120. Triangle](120.cpp)|🟢 Sep 25, 2025|||||
 |🟢|[121. Best Time to Buy an](121.cpp)|🟢 Nov 05, 2022|🟢 Feb 25, 2023|🟢 Jan 15, 2026|||
