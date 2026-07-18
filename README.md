@@ -1986,7 +1986,7 @@
 |🟡|[1976. Number of Ways to ]()||||||
 |🔴|[1977. Number of Ways to ]()||||||
 |🟢|[1978. Employees Whose Ma]()||||||
-|🟢|[1979. Find Greatest Comm]()||||||
+|🟢|[1979. Find Greatest Comm](1979.cpp)|🟢 Jul 18, 2026|||||
 |🟡|[1980. Find Unique Binary]()|🟡 Nov 16, 2023|||||
 |🟡|[1981. Minimize the Diffe]()||||||
 |🔴|[1982. Find Array Given S]()||||||
