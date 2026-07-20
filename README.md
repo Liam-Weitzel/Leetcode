@@ -1267,7 +1267,7 @@
 |🟡|[1257. Smallest Common Re]()||||||
 |🟡|[1258. Synonymous Sentenc]()||||||
 |🔴|[1259. Handshakes That Do]()||||||
-|🟢|[1260. Shift 2D Grid]()||||||
+|🟢|[1260. Shift 2D Grid](1260.cpp)|🟡 Jul 20, 2026|||||
 |🟡|[1261. Find Elements in a]()||||||
 |🟡|[1262. Greatest Sum Divis]()||||||
 |🔴|[1263. Minimum Moves to M]()||||||
