@@ -2201,7 +2201,7 @@
 |🟡|[2191. Sort the Jumbled N]()||||||
 |🟡|[2192. All Ancestors of a](2192.cpp)|🟢 Jun 29, 2024|||||
 |🔴|[2193. Minimum Number of ]()||||||
-|🟢|[2194. Cells in a Range o]()||||||
+|🟢|[2194. Cells in a Range o](2194.cpp)|🟢 Jul 21, 2026|||||
 |🟡|[2195. Append K Integers ]()||||||
 |🟡|[2196. Create Binary Tree](2196.cpp)|🟢 Jul 15, 2024|🟢 Jun 07, 2026||||
 |🔴|[2197. Replace Non-Coprim]()||||||
