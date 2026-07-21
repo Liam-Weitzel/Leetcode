@@ -2586,6 +2586,7 @@
 |🟢|[3477. Fruits Into Basket](3477.cpp)|🟢 Aug 05, 2025|||||
 |🟢|[3487. Maximum Unique Sub](3487.cpp)|🟢 Jul 27, 2025|||||
 |🟡|[3484. Design Spreadsheet](3484.cpp)|🟢 Sep 19, 2025|||||
+|🟡|[3499. Maximize Active Se](3499.cpp)|🟢 Jul 21, 2026|||||
 |🟢|[3516. Find Closest Perso](3516.cpp)|🟢 Sep 04, 2025|||||
 |🟡|[3532. Path Existence Que](3532.cpp)|🟢 Jul 09, 2026|||||
 |🟢|[3541. Find Most Frequent](3541.cpp)|🟢 Sep 13, 2025|||||
