@@ -803,7 +803,7 @@
 |🔴|[793. Preimage Size of Fa]()||||||
 |🟡|[794. Valid Tic-Tac-Toe S]()||||||
 |🟡|[795. Number of Subarrays]()||||||
-|🟢|[796. Rotate String]()||||||
+|🟢|[796. Rotate String](796.cpp)|🟢 Jul 21, 2026|||||
 |🟡|[797. All Paths From Sour]()|🔴 Dec 30, 2022|||||
 |🔴|[798. Smallest Rotation w]()||||||
 |🟡|[799. Champagne Tower]()||||||
