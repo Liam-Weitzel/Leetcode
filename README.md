@@ -73,7 +73,7 @@
 |🟡|[63. Unique Paths II]()||||||
 |🟡|[64. Minimum Path Sum]()|🟢 March 27, 2023|||||
 |🔴|[65. Valid Number]()||||||
-|🟢|[66. Plus One]()||||||
+|🟢|[66. Plus One](66.cpp)|🟢 Jul 22, 2026|||||
 |🟢|[67. Add Binary]()|🟡 Feb 14, 2023|||||
 |🔴|[68. Text Justification]()||||||
 |🟢|[69. Sqrt(x)]()||||||
