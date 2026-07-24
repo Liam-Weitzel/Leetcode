@@ -1829,7 +1829,7 @@
 |🔴|[1819. Number of Differen]()||||||
 |🟡|[1820. Maximum Number of ]()||||||
 |🟢|[1821. Find Customers Wit]()||||||
-|🟢|[1822. Sign of the Produc]()|🟡 May 2, 2023|||||
+|🟢|[1822. Sign of the Produc](1822.cpp)|🟡 May 2, 2023|🟢 Jul 24, 2026||||
 |🟡|[1823. Find the Winner of]()||||||
 |🟡|[1824. Minimum Sideway Ju]()||||||
 |🔴|[1825. Finding MK Average]()||||||
