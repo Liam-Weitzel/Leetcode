@@ -2590,6 +2590,7 @@
 |🟡|[3513. Number of Unique X](3513.cpp)|🔴 Jul 23, 2026|||||
 |🟢|[3516. Find Closest Perso](3516.cpp)|🟢 Sep 04, 2025|||||
 |🟡|[3532. Path Existence Que](3532.cpp)|🟢 Jul 09, 2026|||||
+|🟢|[3536. Maximum Product of](3536.cpp)|🟢 Jul 25, 2026|||||
 |🟢|[3541. Find Most Frequent](3541.cpp)|🟢 Sep 13, 2025|||||
 |🟢|[3658. GCD of Odd and Eve](3658.cpp)|🟡 Jul 15, 2026|||||
 |🟢|[3754. Concatenate Non-Ze](3754.cpp)|🟢 Jul 07, 2026|||||
