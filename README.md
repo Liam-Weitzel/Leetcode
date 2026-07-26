@@ -635,7 +635,7 @@
 |🟡|[625. Minimum Factorizati]()||||||
 |🟡|[626. Exchange Seats]()|🟢 Jan 07, 2022|||||
 |🟢|[627. Swap Salary]()|🟢 Jan 06, 2022|||||
-|🟢|[628. Maximum Product of ]()||||||
+|🟢|[628. Maximum Product of ](628.cpp)|🟢 Jul 26, 2026|||||
 |🔴|[629. K Inverse Pairs Arr]()|🔴 Jan 27, 2024|||||
 |🔴|[630. Course Schedule III]()||||||
 |🔴|[631. Design Excel Sum Fo]()||||||
