@@ -1471,7 +1471,7 @@
 |🟡|[1461. Check If a String ]()||||||
 |🟡|[1462. Course Schedule IV]()||||||
 |🔴|[1463. Cherry Pickup II]()|🟢 Feb 11, 2024|||||
-|🟢|[1464. Maximum Product of]()|🟢 Dec 12, 2023|||||
+|🟢|[1464. Maximum Product of](1464.cpp)|🟢 Dec 12, 2023|🟢 Jul 27, 2026||||
 |🟡|[1465. Maximum Area of a ]()||||||
 |🟡|[1466. Reorder Routes to ]()|🔴 Mar 24, 2023|||||
 |🔴|[1467. Probability of a T]()||||||
