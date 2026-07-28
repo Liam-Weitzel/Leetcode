@@ -2589,6 +2589,7 @@
 |🟡|[3499. Maximize Active Se](3499.cpp)|🟢 Jul 21, 2026|||||
 |🟡|[3513. Number of Unique X](3513.cpp)|🔴 Jul 23, 2026|||||
 |🟢|[3516. Find Closest Perso](3516.cpp)|🟢 Sep 04, 2025|||||
+|🟡|[3517. Smallest Palindrom](3517.cpp)|🟢 Jul 28, 2026|||||
 |🟡|[3532. Path Existence Que](3532.cpp)|🟢 Jul 09, 2026|||||
 |🟢|[3536. Maximum Product of](3536.cpp)|🟢 Jul 25, 2026|||||
 |🟢|[3541. Find Most Frequent](3541.cpp)|🟢 Sep 13, 2025|||||
