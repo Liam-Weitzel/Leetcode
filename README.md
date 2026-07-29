@@ -1169,7 +1169,7 @@
 |🔴|[1159. Market Analysis II]()||||||
 |🟢|[1160. Find Words That Ca]()|🟢 Dec 02, 2023|||||
 |🟡|[1161. Maximum Level Sum ]()||||||
-|🟡|[1162. As Far from Land a]()|🔴 Feb 10, 2023|||||
+|🟡|[1162. As Far from Land a](1162.cpp)|🔴 Feb 10, 2023|🔴 Jul 29, 2026||||
 |🔴|[1163. Last Substring in ]()||||||
 |🟡|[1164. Product Price at a]()||||||
 |🟢|[1165. Single-Row Keyboar]()||||||
