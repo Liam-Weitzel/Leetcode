@@ -2549,7 +2549,7 @@
 |🟢|[3000. Maximum Area of Lo](3000.cpp)|🟢 Aug 26, 2025|||||
 |🟢|[3005. Count Elements Wit](3005.cpp)|🟢 Mar 08, 2024|🟢 Sep 22, 2025||||
 |🟢|[3014. Minimum Number of ](3014.cpp)|🟢 Jul 30, 2026|||||
-|🟡|[3016. Minimum Number of ](3016.java)|🟢 Aug 06, 2024|||||
+|🟡|[3016. Minimum Number of ](3016.cpp)|🟢 Aug 06, 2024|🟢 Jul 31, 2026||||
 |🟢|[3024. Type of Triangle](3024.cpp)|🟢 May 19, 2025|||||
 |🟢|[3100. Water Bottles II](3100.cpp)|🟢 Oct 02, 2025|||||
 |🟢|[3136. Valid Word](3136.cpp)|🟢 Jul 15, 2025|||||
