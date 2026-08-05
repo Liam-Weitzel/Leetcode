@@ -2564,6 +2564,7 @@
 |🟢|[3289. The Two Sneaky Num](3289.cpp)|🟢 Oct 31, 2025|||||
 |🟡|[3301. Maximize the Total](3301.cpp)|🟢 Jul 19, 2026|||||
 |🟢|[3304. Find the K-th Char](3304.cpp)|🟢 Jul 03, 2025|||||
+|🟡|[3310. Remove Methods Fro](3310.cpp)|🟢 Aug 05, 2026|||||
 |🟢|[3330. Find the Original ](3330.cpp)|🟢 Jul 01, 2025|||||
 |🟡|[3335. Total Characters i](3335.cpp)|🟢 May 13, 2025|||||
 |🟡|[3346. Maximum Frequency ](3346.cpp)|🟢 Oct 21, 2025|||||
