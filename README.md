@@ -2522,6 +2522,7 @@
 |🔴|[2642. Design Graph With ]()|🔴 Nov 11, 2023|||||
 |🟢|[2678. Number of Senior C](2678.java)|🟢 Aug 01, 2024|||||
 |🟡|[2685. Count the Number o](2685.cpp)|🟢 Jul 11, 2026|||||
+|🟢|[2696. Minimum String Len](2696.cpp)|🟢 Aug 05, 2026|||||
 |🟢|[2706. Buy Two Chocolates]()|🟢 Dec 20, 2023|||||
 |🔴|[2709. Greatest Common Di]()|🔴 Feb 25, 2024|||||
 |🔴|[2742. Painting the Walls]()|🔴 Oct 14, 2023|||||
