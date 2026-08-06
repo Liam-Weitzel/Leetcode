@@ -2583,6 +2583,7 @@
 |🟡|[3397. Maximum Number of ](3397.cpp)|🟡 Oct 18, 2025|||||
 |🟢|[3423. Maximum Difference](3423.cpp)|🟢 Jun 12, 2025|||||
 |🟢|[3442. Maximum Difference](3442.cpp)|🟢 Jun 10, 2025|||||
+|🟢|[3345. Smallest Divisible Digit Product I](3445.cpp)|🟢 Aug 06, 2026|||||
 |🟡|[3446. Sort Matrix by Dia](3446.cpp)|🟢 Aug 28, 2025|||||
 |🟢|[3461. Check If Digits Ar](3461.cpp)|🟡 Oct 23, 2025|||||
 |🟡|[3462. Maximum Sum With a](3462.cpp)|🟡 Jul 18, 2026|||||
