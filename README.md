@@ -2467,7 +2467,7 @@
 |🟡|[2457. Minimum Addition t]()||||||
 |🔴|[2458. Height of Binary T]()||||||
 |🔴|[2459. Sort Array by Movi]()||||||
-|🟢|[2460. Apply Operations t]()||||||
+|🟢|[2460. Apply Operations t](2460.cpp)|🟢 Aug 07, 2026|||||
 |🟡|[2461. Maximum Sum of Dis]()||||||
 |🟡|[2462. Total Cost to Hire]()||||||
 |🔴|[2463. Minimum Total Dist]()||||||
