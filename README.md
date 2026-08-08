@@ -2564,6 +2564,7 @@
 |🔴|[3272. Find the Count of ](3272.cpp)|🔴 Apr 12, 2025|||||
 |🟢|[3289. The Two Sneaky Num](3289.cpp)|🟢 Oct 31, 2025|||||
 |🟡|[3301. Maximize the Total](3301.cpp)|🟢 Jul 19, 2026|||||
+|🟡|[3302. Find the Lexicogra](3302.cpp)|🟢 Aug 08, 2026|||||
 |🟢|[3304. Find the K-th Char](3304.cpp)|🟢 Jul 03, 2025|||||
 |🟡|[3310. Remove Methods Fro](3310.cpp)|🟢 Aug 05, 2026|||||
 |🟢|[3330. Find the Original ](3330.cpp)|🟢 Jul 01, 2025|||||
