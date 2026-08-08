@@ -1,3 +1,8 @@
+# Leetcode
+
+Previous objective was doing the daily leetcode problem until I got my laptop sleeve.
+New objective is doing all questions in neetcode 150 and increase contest rating.
+
 ## Legend
 
 ##### 🔴 = Unable to solve/ Hard difficulty
