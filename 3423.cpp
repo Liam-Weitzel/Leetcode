@@ -3,9 +3,9 @@
 #include <iostream>
 #include <vector>
 
-class Solution {
+class Solution { // Jun 12, 2025
   public:
-  int maxAdjacentDistance(std::vector<int>& nums) { // Jun 12, 2025
+  int maxAdjacentDistance(std::vector<int>& nums) {
     auto n = nums.size();
     nums.push_back(nums[0]);
     int prev = nums[0];

@@ -1,7 +1,7 @@
 #include <set>
 #include <string>
 
-class Solution {
+class Solution { // Aug 12, 2025
 public:
   bool doesAliceWin(std::string s) {
     std::set<char> vowels = {'a', 'e', 'i', 'o', 'u'};

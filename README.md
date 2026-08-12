@@ -2549,7 +2549,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[2942. Find Words Contain](2942.cpp)|🟢 May 24, 2025|||||
 |🟡|[2966. Divide Array Into ](2966.cpp)|🟢 Feb 01, 2024|🟢 Jun 18, 2025||||
 |🟡|[2971. Find Polygon With ]()|🟢 Feb 15, 2024|||||
-|🟡|[2958. Length of Longest ](2958.cpp)|🟢 Mar 28, 2024|||||
+|🟡|[2958. Length of Longest ](2958.cpp)|🟢 Mar 28, 2024|🟢 Aug 12, 2026||||
 |🟡|[2962. Count Subarrays Wh](2962.cpp)|🟢 Mar 29, 2024|🟢 Apr 29, 2025||||
 |🟢|[2996. Smallest Missing I](2996.cpp)|🟢 Aug 11, 2026|||||
 |🔴|[2999. Count the Number o]()|🔴 Apr 10, 2025|||||

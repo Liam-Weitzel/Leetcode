@@ -3,7 +3,7 @@
 #include <map>
 #include <string>
 
-class Solution { // jul 28, 2026
+class Solution { // Jul 28, 2026
 public:
   std::string smallestPalindrome(std::string s) {
     //return the lexographically smallest palindromic permutation of s
