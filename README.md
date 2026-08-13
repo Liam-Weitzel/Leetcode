@@ -555,7 +555,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[540. Single Element in a]()|🟡 Feb 21, 2023|||||
 |🟢|[541. Reverse String II]()||||||
 |🟡|[542. 01 Matrix]()||||||
-|🟢|[543. Diameter of Binary ](543.cpp)|🟢 Feb 27, 2024|||||
+|🟢|[543. Diameter of Binary ](543.cpp)|🟢 Feb 27, 2024|🟢 Aug 13, 2026||||
 |🟡|[544. Output Contest Matc]()||||||
 |🟡|[545. Boundary of Binary ]()||||||
 |🔴|[546. Remove Boxes]()||||||

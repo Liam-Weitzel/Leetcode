@@ -7,7 +7,7 @@
 #include "utils/TreeFactory.h"
 #include "utils/TreePrinter.h"
 
-class Solution { // Feb 27, 2024
+class Solution2 { // Feb 27, 2024
 private:
   int longestPath = 0;
   TreeNode* root = nullptr;
@@ -35,3 +35,39 @@ int main (int argc, char *argv[]) {
   
   return 0;
 }
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution { // Aug 13, 2026
+private:
+    int dfs(TreeNode* node, int& max) {
+    int left = 0;
+    if(node->left) left = dfs(node->left, max);
+    int right = 0;
+    if(node->right) right = dfs(node->right, max);
+
+    max = std::max(max, left+right);
+
+    return std::max(left, right)+1; 
+  }
+public:
+  int diameterOfBinaryTree(TreeNode* root) {
+    //precomputation: We create a map containing distances from root per node
+    //Can we use that to infer distances between each other on a second pass? 
+    //No we just have to do it via dfs while keeping max dist...
+    int max = 0;
+
+    dfs(root, max);
+
+    return max;
+  }
+};
