@@ -2558,6 +2558,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[3014. Minimum Number of ](3014.cpp)|🟢 Jul 30, 2026|||||
 |🟡|[3016. Minimum Number of ](3016.cpp)|🟢 Aug 06, 2024|🟢 Jul 31, 2026||||
 |🟢|[3024. Type of Triangle](3024.cpp)|🟢 May 19, 2025|||||
+|🟢|[3090. Maximum Length S](3090.cpp)|🟢 Aug 14, 2026|||||
 |🟢|[3100. Water Bottles II](3100.cpp)|🟢 Oct 02, 2025|||||
 |🟢|[3136. Valid Word](3136.cpp)|🟢 Jul 15, 2025|||||
 |🟢|[3147. Taking Maximum E](3147.cpp)|🟢 Oct 10, 2025|||||
