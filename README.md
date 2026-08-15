@@ -2606,6 +2606,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[3536. Maximum Product of](3536.cpp)|🟢 Jul 25, 2026|||||
 |🟢|[3541. Find Most Frequent](3541.cpp)|🟢 Sep 13, 2025|||||
 |🟢|[3658. GCD of Odd and Eve](3658.cpp)|🟡 Jul 15, 2026|||||
+|🟡|[3702. Longest Subsequenc](3702.cpp)|🟢 Aug 15, 2026|||||
 |🟢|[3731. Find Missing Eleme](3731.cpp)|🟢 Aug 04, 2026|||||
 |🟢|[3754. Concatenate Non-Ze](3754.cpp)|🟢 Jul 07, 2026|||||
 |🟡|[3756. Concatenate Non-Ze](3756.cpp)|🟡 Jul 08, 2026|||||
