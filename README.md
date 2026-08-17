@@ -20,7 +20,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[5. Longest Palindromic Su]()|🔴 Oct 27, 2023|||||
 |🟡|[6. Zigzag Conversion]()|🟡 Dec 13, 2022|🟡 Feb 02, 2023||||
 |🟡|[7. Reverse Integer]()||||||
-|🟡|[8. String to Integer (at]()||||||
+|🟡|[8. String to Integer (at](8.cpp)|🟢 Aug 17, 2026|||||
 |🟢|[9. Palindrome Number]()||||||
 |🔴|[10. Regular Expression M]()||||||
 |🟡|[11. Container With Most ](11.cpp)|🟢 Oct 04, 2025|🟢 Jan 29, 2026||||
