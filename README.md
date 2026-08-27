@@ -2592,7 +2592,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[3397. Maximum Number of ](3397.cpp)|🟡 Oct 18, 2025|||||
 |🟢|[3423. Maximum Difference](3423.cpp)|🟢 Jun 12, 2025|||||
 |🟢|[3442. Maximum Difference](3442.cpp)|🟢 Jun 10, 2025|||||
-|🟢|[3345. Smallest Divisible Digit Product I](3445.cpp)|🟢 Aug 06, 2026|||||
+|🟢|[3345. Smallest Divisible](3445.cpp)|🟢 Aug 06, 2026|||||
 |🟡|[3446. Sort Matrix by Dia](3446.cpp)|🟢 Aug 28, 2025|||||
 |🟢|[3461. Check If Digits Ar](3461.cpp)|🟡 Oct 23, 2025|||||
 |🟡|[3462. Maximum Sum With a](3462.cpp)|🟡 Jul 18, 2026|||||
@@ -2609,6 +2609,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[3658. GCD of Odd and Eve](3658.cpp)|🟡 Jul 15, 2026|||||
 |🟡|[3702. Longest Subsequenc](3702.cpp)|🟢 Aug 15, 2026|||||
 |🟢|[3718. Smallest Missing M](3718.cpp)|🟢 Aug 25, 2026|||||
+|🟡|[3720. Lexicographically ](3720.cpp)|🔴 Aug 27, 2026|||||
 |🟢|[3731. Find Missing Eleme](3731.cpp)|🟢 Aug 04, 2026|||||
 |🟢|[3754. Concatenate Non-Ze](3754.cpp)|🟢 Jul 07, 2026|||||
 |🟡|[3756. Concatenate Non-Ze](3756.cpp)|🟡 Jul 08, 2026|||||
