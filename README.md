@@ -2606,6 +2606,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[3532. Path Existence Que](3532.cpp)|🟢 Jul 09, 2026|||||
 |🟢|[3536. Maximum Product of](3536.cpp)|🟢 Jul 25, 2026|||||
 |🟢|[3541. Find Most Frequent](3541.cpp)|🟢 Sep 13, 2025|||||
+|🟢|[3622. Check Divisibility](3622.cpp)|🟢 Aug 28, 2026|||||
 |🟢|[3658. GCD of Odd and Eve](3658.cpp)|🟡 Jul 15, 2026|||||
 |🟡|[3702. Longest Subsequenc](3702.cpp)|🟢 Aug 15, 2026|||||
 |🟢|[3718. Smallest Missing M](3718.cpp)|🟢 Aug 25, 2026|||||
