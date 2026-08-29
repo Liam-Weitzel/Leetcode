@@ -2548,6 +2548,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[2904. Shortest and Lexic](2904.cpp)|🟢 Aug 26, 2026|||||
 |🔴|[2929. Distribute Candies]()|🔴 Jun 01, 2025|||||
 |🟢|[2942. Find Words Contain](2942.cpp)|🟢 May 24, 2025|||||
+|🟡|[2948. Make Lexicographic](2948.cpp)|🟠 Aug 29, 2026|||||
 |🟡|[2966. Divide Array Into ](2966.cpp)|🟢 Feb 01, 2024|🟢 Jun 18, 2025||||
 |🟡|[2971. Find Polygon With ]()|🟢 Feb 15, 2024|||||
 |🟡|[2958. Length of Longest ](2958.cpp)|🟢 Mar 28, 2024|🟢 Aug 12, 2026||||
