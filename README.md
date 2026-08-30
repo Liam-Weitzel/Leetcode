@@ -2103,7 +2103,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🔴|[2088. Count Fertile Pyra]()||||||
 |🟢|[2089. Find Target Indice]()||||||
 |🟡|[2090. K Radius Subarray ]()||||||
-|🟡|[2091. Removing Minimum a]()||||||
+|🟡|[2091. Removing Minimum a](2091.cpp)|🟢 Aug 30, 2026|||||
 |🔴|[2092. Find All People Wi]()|🔴 Feb 24, 2024|||||
 |🟡|[2093. Minimum Cost to Re]()||||||
 |🟢|[2094. Finding 3-Digit Ev](2094.cpp)|🟢 May 12, 2025|||||
