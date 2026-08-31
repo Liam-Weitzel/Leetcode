@@ -7,7 +7,7 @@
 #include <iostream>
 #include <vector>
 
-class Solution { // Jul 05, 2024
+class Solution1 { // Jul 05, 2024
 public:
   std::vector<int> nodesBetweenCriticalPoints(ListNode* head) {
     ListNode* prevNode = head;
@@ -37,9 +37,38 @@ public:
   }
 };
 
+class Solution2 { // Aug 31, 2026
+public:
+  std::vector<int> nodesBetweenCriticalPoints(ListNode* head) {
+    int minDistance = INT_MAX;
+    int maxDistance = INT_MIN;
+    int prevCrit = -1;
+    int firstCrit = -1;
+    int prev = -1;
+    int index = 0;
+    while(head->next) {
+      if(prev != -1) {
+        if((prev < head->val && head->val > head->next->val) || (prev > head->val && head->val < head->next->val)) {
+          if(firstCrit == -1) firstCrit = index;
+          if(firstCrit != index)
+            maxDistance = std::max(maxDistance, index - firstCrit);
+          if(prevCrit != -1)
+            minDistance = std::min(minDistance, index - prevCrit);
+          prevCrit = index;
+        }
+      }
+      index++;
+      prev = head->val;
+      head = head->next;
+    }
+    // Did this problem in sub 3 min btw xddd
+    return {minDistance == INT_MAX ? -1 : minDistance, maxDistance == INT_MIN ? -1 : maxDistance};
+  }
+};
+
 void testSolution(std::vector<int> head, std::vector<int> expected) {
   ListNode* headL = ListFactory::CreateList(head);
-  Solution res;
+  Solution2 res;
   std::vector<int> Res = res.nodesBetweenCriticalPoints(headL);
 
   if(Res == expected) std::cout << "\033[1;32m"; //color output text green

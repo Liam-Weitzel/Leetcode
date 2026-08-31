@@ -2070,7 +2070,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[2055. Plates Between Can]()||||||
 |🔴|[2056. Number of Valid Mo]()||||||
 |🟢|[2057. Smallest Index Wit]()||||||
-|🟡|[2058. Find the Minimum a](2058.cpp)|🟢 Jul 05, 2024|||||
+|🟡|[2058. Find the Minimum a](2058.cpp)|🟢 Jul 05, 2024|🟢 Aug 31, 2026||||
 |🟡|[2059. Minimum Operations]()||||||
 |🔴|[2060. Check if an Origin]()||||||
 |🟡|[2061. Number of Spaces C]()||||||
