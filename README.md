@@ -2618,3 +2618,4 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[3756. Concatenate Non-Ze](3756.cpp)|🟡 Jul 08, 2026|||||
 |🟡|[3867. Sum of GCD of Form](3867.cpp)|🟢 Jul 16, 2026|||||
 |🟢|[3875. Construct Uniform ](3875.cpp)|🟢 Sep 02, 2026|||||
+|🟡|[3876. Construct Uniform ](3876.cpp)|🟢 Sep 03, 2026|||||
