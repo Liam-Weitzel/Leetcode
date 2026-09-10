@@ -2277,7 +2277,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🔴|[2262. Total Appeal of A ]()||||||
 |🔴|[2263. Make Array Non-dec]()||||||
 |🟢|[2264. Largest 3-Same-Dig](2264.cpp)|🟢 Dec 04, 2023|🟢 Aug 14, 2025||||
-|🟡|[2265. Count Nodes Equal ]()|🟢 Nov 02, 2023|||||
+|🟡|[2265. Count Nodes Equal ](2265.cpp)|🟢 Nov 02, 2023|🟢 Sep 10, 2026||||
 |🟡|[2266. Count Number of Te]()||||||
 |🔴|[2267.  Check if There Is]()||||||
 |🟡|[2268. Minimum Number of ]()||||||
