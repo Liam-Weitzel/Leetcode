@@ -38,7 +38,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🔴|[23. Merge k Sorted Lists]()|🟢 Mar 12, 2023|||||
 |🟡|[24. Swap Nodes in Pairs]()|🔴 May 16, 2023|||||
 |🔴|[25. Reverse Nodes in k-G]()||||||
-|🟢|[26. Remove Duplicates fr]()||||||
+|🟢|[26. Remove Duplicates fr](26.cpp)|🟢 Sep 12, 2026|||||
 |🟢|[27. Remove Element]()||||||
 |🟡|[28. Find the Index of th]()|🟢 Mar 03, 2023|||||
 |🟡|[29. Divide Two Integers]()||||||
