@@ -847,7 +847,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[832. Flipping an Image]()||||||
 |🟡|[833. Find And Replace in]()||||||
 |🔴|[834. Sum of Distances in]()|🟢 Dec 22, 2022|🔴 Apr 28, 2024||||
-|🟡|[835. Image Overlap]()||||||
+|🟡|[835. Image Overlap](835.cpp)|🟡 Sep 13, 2026|||||
 |🟢|[836. Rectangle Overlap]()||||||
 |🟡|[837. New 21 Game]()||||||
 |🟡|[838. Push Dominoes](838.cpp)|🟢 May 02, 2025|||||
