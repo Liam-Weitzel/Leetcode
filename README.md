@@ -215,7 +215,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[200. Number of Islands](200.cpp)|🟢 Nov 07, 2022|🟢 Apr 19, 2024||||
 |🟡|[201. Bitwise AND of Numb]()|🔴 Feb 21, 2024|||||
 |🟢|[202. Happy Number]()||||||
-|🟢|[203. Remove Linked List ]()||||||
+|🟢|[203. Remove Linked List ](203.cpp)|🟢 Sep 16, 2026|||||
 |🟡|[204. Count Primes]()||||||
 |🟢|[205. Isomorphic Strings](205.cpp)|🟢 Oct 30, 2022|🟢 Apr 02, 2024||||
 |🟢|[206. Reverse Linked List](206.cpp)|🔴 Nov 02, 2022|🟢 Mar 21, 2024||||
