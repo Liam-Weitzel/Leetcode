@@ -315,7 +315,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[300. Longest Increasing ]()|🔴 Jan 05, 2024|||||
 |🔴|[301. Remove Invalid Pare]()||||||
 |🔴|[302. Smallest Rectangle ]()||||||
-|🟢|[303. Range Sum Query - I]()||||||
+|🟢|[303. Range Sum Query - I](303.cpp)|🟢 Sep 17, 2026|||||
 |🟡|[304. Range Sum Query 2D ]()||||||
 |🔴|[305. Number of Islands I]()||||||
 |🟡|[306. Additive Number]()||||||
