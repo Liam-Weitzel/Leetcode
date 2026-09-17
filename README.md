@@ -304,7 +304,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[289. Game of Life]()||||||
 |🟢|[290. Word Pattern]()|🟢 Jan 01, 2023|||||
 |🟡|[291. Word Pattern II]()||||||
-|🟢|[292. Nim Game]()||||||
+|🟢|[292. Nim Game](292.cpp)|🟢 Sep 17, 2026|||||
 |🟢|[293. Flip Game]()||||||
 |🟡|[294. Flip Game II]()||||||
 |🔴|[295. Find Median from Da]()||||||
