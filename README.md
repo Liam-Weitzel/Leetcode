@@ -504,7 +504,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🔴|[489. Robot Room Cleaner]()||||||
 |🟡|[490. The Maze]()||||||
 |🟡|[491. Increasing Subseque]()|🟠 Jan 20, 2023|||||
-|🟢|[492. Construct the Recta]()||||||
+|🟢|[492. Construct the Recta](492.cpp)|🟢 Sep 18, 2026|||||
 |🔴|[493. Reverse Pairs]()||||||
 |🟡|[494. Target Sum]()||||||
 |🟢|[495. Teemo Attacking]()||||||
