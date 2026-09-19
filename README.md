@@ -1413,7 +1413,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[1398. Customers Who Boug]()||||||
 |🟢|[1399. Count Largest Grou](1399.cpp)|🟢 Apr 23, 2025|||||
 |🟡|[1400. Construct K Palind]()||||||
-|🟡|[1401. Circle and Rectang]()||||||
+|🟡|[1401. Circle and Rectang](1401.cpp)|🟢 Sep 19, 2026|||||
 |🔴|[1402. Reducing Dishes]()|🔴 Mar 29, 2023|||||
 |🟢|[1403. Minimum Subsequenc]()||||||
 |🟡|[1404. Number of Steps to]()||||||
