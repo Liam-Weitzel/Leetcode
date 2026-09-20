@@ -2601,6 +2601,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[3483. Unique 3-Digit Eve](3483.cpp)|🟡 Sep 11, 2026|||||
 |🟡|[3484. Design Spreadsheet](3484.cpp)|🟢 Sep 19, 2025|||||
 |🟢|[3487. Maximum Unique Sub](3487.cpp)|🟢 Jul 27, 2025|||||
+|🟢|[3498. Reverse Degree of ](3498.cpp)|🟢 Sep 20, 2026|||||
 |🟡|[3499. Maximize Active Se](3499.cpp)|🟢 Jul 21, 2026|||||
 |🟡|[3513. Number of Unique X](3513.cpp)|🔴 Jul 23, 2026|||||
 |🟢|[3516. Find Closest Perso](3516.cpp)|🟢 Sep 04, 2025|||||
