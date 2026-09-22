@@ -401,7 +401,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[386. Lexicographical Num]()||||||
 |🟢|[387. First Unique Charac]()|🟢 Feb 05, 2024|||||
 |🟡|[388. Longest Absolute Fi]()||||||
-|🟢|[389. Find the Difference]()||||||
+|🟢|[389. Find the Difference](389.cpp)|🟢 Sep 22, 2026|||||
 |🟡|[390. Elimination Game]()||||||
 |🔴|[391. Perfect Rectangle]()||||||
 |🟢|[392. Is Subsequence]()|🔴 Oct 30, 2022|||||
