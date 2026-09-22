@@ -507,7 +507,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[492. Construct the Recta](492.cpp)|🟢 Sep 18, 2026|||||
 |🔴|[493. Reverse Pairs]()||||||
 |🟡|[494. Target Sum]()||||||
-|🟢|[495. Teemo Attacking]()||||||
+|🟢|[495. Teemo Attacking](495.cpp)|🟢 Sep 22, 2026|||||
 |🟢|[496. Next Greater Elemen]()||||||
 |🟡|[497. Random Point in Non]()||||||
 |🟡|[498. Diagonal Traverse](498.cpp)|🟢 Aug 25, 2025|||||
