@@ -1670,7 +1670,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🔴|[1655. Distribute Repeati]()||||||
 |🟢|[1656. Design an Ordered ]()||||||
 |🟡|[1657. Determine if Two S]()|🟡 Dec 04, 2022|🟢 Jan 14, 2024||||
-|🟡|[1658. Minimum Operations]()||||||
+|🟡|[1658. Minimum Operations](1658.cpp)|🟢 Sep 23, 2026|||||
 |🔴|[1659. Maximize Grid Happ]()||||||
 |🟡|[1660. Correct a Binary T]()||||||
 |🟢|[1661. Average Time of Pr]()||||||
