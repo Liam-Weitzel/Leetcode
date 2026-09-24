@@ -129,7 +129,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[114. Flatten Binary Tree]()||||||
 |🔴|[115. Distinct Subsequenc]()||||||
 |🟡|[116. Populating Next Rig]()||||||
-|🟡|[117. Populating Next Rig]()||||||
+|🟡|[117. Populating Next Rig](117.cpp)|🟢 Sep 24, 2026|||||
 |🟢|[118. Pascal's Triangle](118.cpp)|🟢 Sep 08, 2023|🟢 Aug 01, 2025|🟢 Jul 17, 2026|||
 |🟢|[119. Pascal's Triangle I]()|🟡 Oct 16, 2023|||||
 |🟡|[120. Triangle](120.cpp)|🟢 Sep 25, 2025|||||
