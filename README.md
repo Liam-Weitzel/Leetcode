@@ -95,7 +95,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[80. Remove Duplicates fr]()||||||
 |🟡|[81. Search in Rotated So]()||||||
 |🟡|[82. Remove Duplicates fr]()||||||
-|🟢|[83. Remove Duplicates fr]()||||||
+|🟢|[83. Remove Duplicates fr](83.cpp)|🟢 Oct 02, 2026|||||
 |🔴|[84. Largest Rectangle in]()||||||
 |🔴|[85. Maximal Rectangle]()|🔴 Apr 13, 2024|||||
 |🟡|[86. Partition List]()||||||
