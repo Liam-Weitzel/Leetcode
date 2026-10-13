@@ -424,7 +424,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[409. Longest Palindrome]()|🟢 Nov 05, 2022|||||
 |🔴|[410. Split Array Largest]()||||||
 |🔴|[411. Minimum Unique Word]()||||||
-|🟢|[412. Fizz Buzz]()||||||
+|🟢|[412. Fizz Buzz](412.cpp)|🟢 Oct 13, 2026|||||
 |🟡|[413. Arithmetic Slices]()||||||
 |🟢|[414. Third Maximum Numbe]()||||||
 |🟢|[415. Add Strings]()||||||
