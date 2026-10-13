@@ -2616,6 +2616,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[3702. Longest Subsequenc](3702.cpp)|🟢 Aug 15, 2026|||||
 |🟢|[3718. Smallest Missing M](3718.cpp)|🟢 Aug 25, 2026|||||
 |🟡|[3720. Lexicographically ](3720.cpp)|🔴 Aug 27, 2026|||||
+|🟡|[3727. Maximum Alternatin](3727.cpp)|🟢 Oct 13, 2026|||||
 |🟢|[3731. Find Missing Eleme](3731.cpp)|🟢 Aug 04, 2026|||||
 |🟢|[3754. Concatenate Non-Ze](3754.cpp)|🟢 Jul 07, 2026|||||
 |🟡|[3756. Concatenate Non-Ze](3756.cpp)|🟡 Jul 08, 2026|||||
