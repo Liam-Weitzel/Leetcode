@@ -413,7 +413,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[398. Random Pick Index]()||||||
 |🟡|[399. Evaluate Division]()|🔴 May 20, 2023|||||
 |🟡|[400. Nth Digit]()||||||
-|🟢|[401. Binary Watch]()||||||
+|🟢|[401. Binary Watch](401.cpp)|🟢 Oct 13, 2026|||||
 |🟡|[402. Remove K Digits]()|🔴 Apr 11, 2024|||||
 |🔴|[403. Frog Jump]()||||||
 |🟢|[404. Sum of Left Leaves](404.cpp)|🟢 Apr 14, 2024|||||
