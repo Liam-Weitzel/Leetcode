@@ -649,7 +649,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[634. Find the Derangemen]()||||||
 |🟡|[635. Design Log Storage ]()||||||
 |🟡|[636. Exclusive Time of F]()||||||
-|🟢|[637. Average of Levels i]()||||||
+|🟢|[637. Average of Levels i](637.cpp)|🟢 Nov 20, 2026|||||
 |🟡|[638. Shopping Offers]()||||||
 |🔴|[639. Decode Ways II]()||||||
 |🟡|[640. Solve the Equation]()||||||
