@@ -512,7 +512,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[497. Random Point in Non]()||||||
 |🟡|[498. Diagonal Traverse](498.cpp)|🟢 Aug 25, 2025|||||
 |🔴|[499. The Maze III]()||||||
-|🟢|[500. Keyboard Row]()||||||
+|🟢|[500. Keyboard Row](500.cpp)|🟢 Nov 25, 2026|||||
 |🟢|[501. Find Mode in Binary]()|🟢 Nov 01, 2023|||||
 |🔴|[502. IPO]()|🟠 Feb 23, 2023|🔴 Jun 15, 2024||||
 |🟡|[503. Next Greater Elemen]()||||||
