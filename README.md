@@ -2584,6 +2584,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[3350. Adjacent Increasin](3350.cpp)|🟠 Oct 15, 2025|||||
 |🟢|[3354. Make Array Element](3354.cpp)|🟡 Oct 28, 2025|||||
 |🟡|[3355. Zero Array Transfo](3355.cpp)|🟢 May 20, 2025|||||
+|🟢|[3360. Stone Removal Game](3360.cpp)|🟢 Nov 26, 2026|||||
 |🟡|[3362. Zero Array Transfo](3362.cpp)|🔴 May 22, 2025|||||
 |🟢|[3370. Smallest Number Wi](3370.cpp)|🟢 Oct 29, 2025|||||
 |🟡|[3372. Maximize the Numbe](3372.cpp)|🟢 May 28, 2025|||||
