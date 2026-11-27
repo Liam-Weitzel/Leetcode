@@ -569,7 +569,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟡|[554. Brick Wall]()||||||
 |🟡|[555. Split Concatenated ]()||||||
 |🟡|[556. Next Greater Elemen]()||||||
-|🟢|[557. Reverse Words in a ]()||||||
+|🟢|[557. Reverse Words in a ](557.cpp)|🟢 Nov 27, 2026|||||
 |🟡|[558. Logical OR of Two B]()||||||
 |🟢|[559. Maximum Depth of N-]()||||||
 |🟡|[560. Subarray Sum Equals]()||||||
