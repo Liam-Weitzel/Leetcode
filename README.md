@@ -611,7 +611,7 @@ New objective is doing all questions in neetcode 150 and increase contest rating
 |🟢|[596. Classes More Than 5]()|🟢 Jan 06, 2022|||||
 |🟢|[597. Friend Requests I: ]()||||||
 |🟢|[598. Range Addition II]()||||||
-|🟢|[599. Minimum Index Sum o]()||||||
+|🟢|[599. Minimum Index Sum o](599.cpp)|🟢 Nov 27, 2026|||||
 |🔴|[600. Non-negative Intege]()||||||
 |🔴|[601. Human Traffic of St]()|🟢 Jan 07, 2022|||||
 |🟡|[602. Friend Requests II:]()||||||
